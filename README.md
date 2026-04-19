@@ -7,7 +7,7 @@ A machine learning web app that predicts property prices across New York City bo
 <img width="1362" height="562" alt="Capture" src="https://github.com/user-attachments/assets/a41905e5-1162-4586-ba7f-6c02fec008b1" />
 
 
-Tech used
+**Tech used**
 
 scikit-learn — Gradient Boosting model  
 
@@ -17,7 +17,7 @@ SQLite — saves prediction history
 
 HTML / CSS / JS — frontend, no frameworks
 
-Run locally  
+**Run locally**
 
 pip install -r requirements.txt  
 
