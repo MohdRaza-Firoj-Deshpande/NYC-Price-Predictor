@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+<title>NYC House Price Predictor</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;500&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet"/>
+<link rel="stylesheet" href="/static/css/style.css"/>
+</head>
+<body>
+
+<div class="grid-bg"></div>
+
+<header>
+  <div class="logo">
+    <span class="logo-icon">⬛</span>
+    <span class="logo-text">NYC<span class="accent">PRICE</span></span>
+  </div>
+  <div class="header-tag">Powered by Gradient Boosting ML</div>
+</header>
+
+<main>
+  <section class="hero">
+    <h1>NEW YORK CITY<br/><span class="outline">HOUSE PRICE </span></h1>
+    <p class="hero-sub">Enter property details below — the model predicts market value instantly.</p>
+    {% if not model_ready %}
+    <div class="warning-bar">
+      ⚠ Model not trained yet — run <code>python model/train.py</code> first, then restart the server.
+    </div>
+    {% endif %}
+  </section>
+
+  <div class="layout">
+
+    <!-- ── FORM ────────────────────────────────────────────────── -->
+    <form class="card form-card" id="form">
+
+      <div class="section-label">01 — Location</div>
+      <div class="row-2">
+        <div class="field">
+          <label>Borough</label>
+          <select name="borough" id="borough" required>
+            <option value="">Select borough</option>
+            {% for b in neighborhoods %}
+            <option value="{{ b }}">{{ b }}</option>
+            {% endfor %}
+          </select>
+        </div>
+        <div class="field">
+          <label>Neighborhood</label>
+          <select name="neighborhood" id="neighborhood" required>
+            <option value="">Select neighborhood</option>
+          </select>
+        </div>
+      </div>
+      <div class="field">
+        <label>Distance to nearest subway (miles)</label>
+        <div class="range-wrap">
+          <input type="range" name="subway_dist" id="subway_dist" min="0.1" max="2.5" step="0.1" value="0.5"/>
+          <span class="range-val" id="subway_val">0.5 mi</span>
+        </div>
+      </div>
+
+      <div class="section-label">02 — Property</div>
+      <div class="row-3">
+        <div class="field">
+          <label>Size (sq ft)</label>
+          <input type="number" name="sqft" placeholder="e.g. 850" min="200" max="10000" required/>
+        </div>
+        <div class="field">
+          <label>Bedrooms</label>
+          <input type="number" name="bedrooms" placeholder="0–5" min="0" max="5" required/>
+        </div>
+        <div class="field">
+          <label>Bathrooms</label>
+          <input type="number" name="bathrooms" placeholder="1–4" min="1" max="4" required/>
+        </div>
+      </div>
+      <div class="row-2">
+        <div class="field">
+          <label>Floor number</label>
+          <input type="number" name="floor" placeholder="e.g. 12" min="1" max="80" required/>
+        </div>
+        <div class="field">
+          <label>Building age (years)</label>
+          <input type="number" name="age" placeholder="e.g. 30" min="0" max="150" required/>
+        </div>
+      </div>
+
+      <div class="section-label">03 — Amenities</div>
+      <div class="amenities">
+        <label class="chip" data-name="has_garage">
+          <input type="checkbox" value="1"/> 🚗 Garage
+        </label>
+        <label class="chip" data-name="has_elevator">
+          <input type="checkbox" value="1"/> 🛗 Elevator
+        </label>
+        <label class="chip" data-name="has_doorman">
+          <input type="checkbox" value="1"/> 🧑‍✈️ Doorman
+        </label>
+      </div>
+
+      <button type="submit" class="btn-predict" id="btn">
+        <span class="btn-text">PREDICT PRICE</span>
+        <span class="btn-arrow">→</span>
+      </button>
+    </form>
+
+    <!-- ── RESULT ───────────────────────────────────────────────── -->
+    <div class="right-col">
+      <div class="card result-card" id="result-card">
+        <div class="result-placeholder" id="placeholder">
+          <div class="placeholder-icon">🗽</div>
+          <p>Fill in the form and hit<br/><strong>Predict Price</strong></p>
+        </div>
+        <div class="result-content" id="result-content" style="display:none">
+          <div class="result-borough" id="res-borough"></div>
+          <div class="result-label">Estimated Market Value</div>
+          <div class="result-price" id="res-price"></div>
+          <div class="result-sqft" id="res-sqft"></div>
+          <div class="range-bar">
+            <div class="range-item low">
+              <span class="range-tag">Low</span>
+              <span class="range-num" id="res-low"></span>
+            </div>
+            <div class="range-divider"></div>
+            <div class="range-item high">
+              <span class="range-tag">High</span>
+              <span class="range-num" id="res-high"></span>
+            </div>
+          </div>
+          <div class="confidence-bar">
+            <div class="conf-fill" id="conf-fill"></div>
+          </div>
+          <div class="conf-label">Model confidence</div>
+        </div>
+      </div>
+
+      <div class="card history-card">
+        <div class="history-title">Recent Predictions</div>
+        <div id="history-list"><p class="empty-hist">No predictions yet.</p></div>
+      </div>
+    </div>
+
+  </div>
+</main>
+
+<script src="/static/js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,3001 @@
+borough,neighborhood,sqft,bedrooms,bathrooms,floor,age,has_garage,has_elevator,has_doorman,subway_dist,price
+Bronx,South Bronx,956,0,4,26,69,0,1,1,1.49,835568
+Staten Island,New Dorp,1559,0,1,12,22,1,1,1,1.02,948299
+Queens,Astoria,3487,1,2,7,45,0,0,0,0.32,2481737
+Staten Island,New Dorp,1756,4,4,46,43,1,0,0,1.06,1080000
+Staten Island,Annadale,2456,4,1,47,47,0,0,1,0.6,1971183
+Brooklyn,Park Slope,2781,3,4,15,51,1,0,0,1.73,2082975
+Queens,Jackson Heights,1416,0,4,38,7,1,1,1,0.97,1126543
+Queens,Forest Hills,2774,3,2,21,54,1,1,0,0.45,1413870
+Queens,Forest Hills,2462,0,3,14,65,0,1,0,0.94,1720405
+Staten Island,Stapleton,1238,1,3,2,76,1,1,0,0.64,779636
+Bronx,South Bronx,2037,4,1,8,39,1,1,1,2.01,968669
+Queens,Jamaica,625,4,1,45,84,0,1,1,2.46,651088
+Staten Island,Tottenville,2213,1,1,6,30,0,1,1,0.16,1656634
+Brooklyn,Bushwick,2560,3,2,37,47,1,1,0,1.76,2271278
+Bronx,Fordham,2420,3,3,37,99,1,1,1,0.73,1758915
+Brooklyn,Flatbush,1851,2,1,33,60,1,0,1,0.26,1514850
+Bronx,Riverdale,2448,0,1,41,51,1,1,1,0.13,1418890
+Staten Island,Great Kills,2713,3,4,6,37,1,0,1,2.21,1391699
+Manhattan,Midtown,1914,1,4,26,90,0,0,0,0.95,1757991
+Bronx,Norwood,1631,3,1,39,35,1,0,1,2.49,1361637
+Brooklyn,Bushwick,2045,4,4,41,86,0,0,1,1.16,1974938
+Staten Island,Tottenville,2135,0,4,37,54,0,1,0,0.55,1688895
+Bronx,Fordham,3399,5,4,14,84,1,0,1,1.97,1825942
+Manhattan,Upper East Side,705,2,2,37,12,0,0,0,2.32,1849508
+Manhattan,Financial District,2459,0,1,8,36,1,1,0,2.06,2616543
+Queens,Long Island City,2123,4,1,39,46,0,0,0,1.89,1418895
+Queens,Forest Hills,2089,4,4,13,89,0,1,1,0.9,1273420
+Brooklyn,DUMBO,1917,4,2,13,70,1,1,0,0.25,1597819
+Bronx,Fordham,1791,4,4,40,21,1,1,0,0.58,1123462
+Bronx,Fordham,3384,1,2,43,38,0,1,0,1.17,2477516
+Queens,Forest Hills,819,2,1,28,86,1,0,1,2.39,860222
+Bronx,South Bronx,3336,5,4,18,57,1,1,0,1.83,2080833
+Bronx,Mott Haven,2618,4,1,19,29,0,0,0,2.09,1575851
+Manhattan,Upper East Side,533,4,2,38,17,0,0,0,0.77,1575988
+Queens,Forest Hills,2430,3,3,32,17,0,1,1,1.74,1395400
+Staten Island,Stapleton,3412,2,2,22,73,1,0,0,2.17,2486362
+Queens,Forest Hills,1850,0,3,2,38,1,1,0,1.25,1062539
+Staten Island,Great Kills,3496,2,1,13,93,1,0,1,1.13,2083153
+Manhattan,Harlem,1953,2,1,23,25,0,0,1,1.83,2371990
+Brooklyn,Flatbush,1564,5,4,25,70,1,0,1,1.44,1417064
+Bronx,Norwood,2269,2,3,28,6,0,0,0,2.48,1826187
+Manhattan,Harlem,2219,5,2,11,68,0,1,0,1.12,2087753
+Bronx,Fordham,3105,4,1,33,64,0,1,0,0.52,1895495
+Brooklyn,Williamsburg,1742,4,3,24,45,0,0,0,1.23,1534080
+Brooklyn,Bay Ridge,1864,1,2,2,17,0,0,1,0.66,1531599
+Manhattan,Chelsea,2626,5,3,30,12,0,0,0,1.45,2089544
+Brooklyn,Park Slope,1479,5,2,17,24,0,0,1,0.4,1741567
+Staten Island,Tottenville,1578,0,2,40,7,1,1,0,2.38,1268315
+Brooklyn,Bushwick,2095,3,2,34,73,0,0,0,2.16,1270586
+Bronx,Norwood,510,2,2,38,31,1,0,0,0.47,775311
+Bronx,Fordham,2584,0,3,22,16,1,0,1,0.51,1792261
+Bronx,Pelham Bay,2679,5,3,5,78,1,1,1,1.33,1577670
+Bronx,Fordham,3439,0,4,48,78,1,0,1,1.95,1337814
+Staten Island,New Dorp,867,1,3,40,47,1,1,1,0.63,904793
+Queens,Flushing,3179,3,3,16,62,0,1,0,0.25,1348344
+Manhattan,Chelsea,2928,5,4,13,39,1,0,0,1.41,2497519
+Bronx,Norwood,1213,5,3,26,83,1,0,0,1.76,1286869
+Brooklyn,Flatbush,1672,2,2,31,14,1,0,0,0.69,1227093
+Bronx,South Bronx,1393,3,1,39,98,0,1,0,1.88,819597
+Brooklyn,Flatbush,2431,1,1,48,5,1,1,1,2.38,2205345
+Brooklyn,DUMBO,722,4,4,23,93,1,0,1,0.43,1102884
+Bronx,Pelham Bay,3369,0,3,48,62,1,1,0,1.33,1031291
+Staten Island,Stapleton,1303,2,3,12,7,1,0,0,0.24,1157964
+Brooklyn,Flatbush,1941,5,4,14,94,0,0,0,0.6,1794461
+Brooklyn,Bay Ridge,2399,4,1,18,31,1,0,0,0.32,1986990
+Bronx,Norwood,2215,1,2,27,44,0,0,1,1.07,1566693
+Brooklyn,Flatbush,3053,3,3,28,51,0,0,0,2.07,1812551
+Brooklyn,Flatbush,2876,0,4,18,78,1,0,0,1.49,2310881
+Bronx,Riverdale,547,2,2,16,81,1,1,0,0.63,481470
+Bronx,South Bronx,1541,5,4,16,12,0,1,0,0.2,1042324
+Manhattan,Upper East Side,1249,5,4,13,23,1,1,1,1.43,1744636
+Staten Island,Annadale,766,4,4,29,39,1,0,0,0.42,904299
+Staten Island,Great Kills,3297,4,1,9,13,1,0,1,0.92,1739103
+Brooklyn,DUMBO,1489,0,1,26,91,0,0,1,1.32,1299292
+Staten Island,New Dorp,2438,3,4,28,74,0,1,0,2.27,1522817
+Brooklyn,Bay Ridge,3260,1,3,41,69,1,0,0,0.3,1898754
+Manhattan,Upper East Side,574,3,2,13,61,1,1,0,1.7,1533360
+Bronx,Mott Haven,2254,3,3,36,88,0,0,0,0.13,1566062
+Bronx,Riverdale,987,3,1,9,60,0,1,0,1.61,705636
+Bronx,Mott Haven,894,0,2,47,0,0,0,1,1.42,792344
+Staten Island,New Dorp,3420,0,4,14,88,0,0,1,2.05,1521645
+Manhattan,Upper East Side,1537,1,3,12,65,0,1,1,1.38,1586124
+Staten Island,Tottenville,2184,3,3,32,31,0,1,1,0.95,1659469
+Staten Island,New Dorp,1570,0,4,38,12,0,1,1,0.68,958057
+Manhattan,Harlem,434,1,3,3,32,1,0,0,0.3,1355304
+Manhattan,SoHo,1398,5,1,16,31,0,1,0,1.38,1562842
+Manhattan,Financial District,1732,1,4,20,55,0,1,1,2.23,2065759
+Manhattan,Upper East Side,2985,3,3,32,23,1,0,0,1.34,2063820
+Bronx,Pelham Bay,3197,2,4,23,90,1,0,0,1.87,2009525
+Queens,Astoria,1437,3,2,17,3,1,1,1,0.82,1078954
+Queens,Astoria,773,2,4,16,87,0,0,1,1.18,1110882
+Manhattan,Chelsea,3004,1,3,38,22,0,1,1,0.88,3105163
+Queens,Long Island City,1851,5,1,8,28,1,1,0,0.36,1571926
+Queens,Jamaica,2151,5,4,19,97,1,1,1,1.1,1904709
+Manhattan,SoHo,2680,0,4,30,20,1,0,1,1.93,2723869
+Queens,Forest Hills,1104,5,3,34,29,0,1,0,1.05,1406061
+Staten Island,St. George,962,4,1,14,89,1,1,0,1.66,997815
+Brooklyn,DUMBO,3386,1,1,22,19,0,0,1,1.92,1793650
+Brooklyn,Bay Ridge,3334,0,2,44,15,0,1,0,0.87,2138794
+Manhattan,Financial District,3173,5,2,17,66,0,1,1,2.01,3305313
+Bronx,Mott Haven,2273,1,3,15,48,0,1,0,0.91,1149847
+Manhattan,Chelsea,2523,3,1,48,57,1,0,1,0.71,2744907
+Bronx,Fordham,838,5,1,32,43,1,1,0,0.63,1039001
+Brooklyn,Williamsburg,2283,2,2,13,24,1,0,0,0.58,1750347
+Manhattan,Chelsea,2379,1,2,21,22,0,0,0,1.87,2436592
+Staten Island,Stapleton,1098,0,3,49,58,1,1,1,2.23,1154342
+Queens,Long Island City,1712,3,1,40,0,0,1,1,0.65,1592489
+Bronx,Norwood,3362,4,4,33,96,0,0,1,0.3,1294411
+Queens,Long Island City,1963,3,2,27,14,0,1,0,0.85,1672832
+Queens,Jamaica,3338,5,3,35,80,1,1,0,1.68,2695298
+Manhattan,Harlem,1091,2,1,16,97,0,0,0,0.98,1696873
+Queens,Jamaica,2700,3,1,28,80,0,1,1,1.42,1338769
+Staten Island,Stapleton,1600,4,2,34,51,1,1,0,1.89,1116268
+Queens,Flushing,2857,0,3,47,57,1,0,1,1.08,2405158
+Manhattan,Chelsea,2034,1,4,1,40,1,1,1,2.5,1698259
+Staten Island,Great Kills,2033,2,2,41,43,0,0,1,0.82,1289779
+Brooklyn,Park Slope,526,4,3,48,3,0,0,1,2.45,1304111
+Queens,Astoria,1906,5,1,31,76,1,1,1,0.59,1411445
+Manhattan,Chelsea,1591,5,4,36,67,0,0,0,0.37,1951628
+Brooklyn,Bay Ridge,3039,5,3,44,6,0,1,0,1.9,1826117
+Brooklyn,Bushwick,693,2,4,33,45,1,1,0,1.79,1230761
+Bronx,Mott Haven,1766,3,3,33,8,1,0,0,2.05,1136231
+Staten Island,Tottenville,1419,2,3,39,86,1,0,0,0.92,858124
+Queens,Jamaica,2757,5,3,18,32,1,0,0,2.33,1884725
+Manhattan,Financial District,3109,4,3,23,32,1,0,1,0.39,3032080
+Bronx,South Bronx,2975,1,4,23,83,1,0,0,0.17,1833919
+Staten Island,St. George,2987,1,2,15,3,1,0,1,0.82,1299208
+Bronx,Pelham Bay,818,2,4,26,64,1,1,1,2.01,629036
+Staten Island,New Dorp,843,5,3,30,33,0,1,1,1.72,942903
+Staten Island,Great Kills,1084,0,4,25,90,0,0,1,1.15,967523
+Queens,Long Island City,3287,2,4,45,84,0,1,1,0.72,1843172
+Staten Island,Stapleton,2683,5,4,16,87,0,0,0,0.24,1370696
+Bronx,South Bronx,1862,3,3,39,78,0,0,0,0.91,1459574
+Staten Island,Tottenville,2661,1,4,48,98,0,1,0,1.2,1860886
+Queens,Jamaica,484,1,1,45,63,0,1,1,1.75,775758
+Queens,Long Island City,3241,1,3,14,24,0,0,0,1.65,1540784
+Bronx,Fordham,2167,0,4,17,54,0,0,0,2.37,956545
+Brooklyn,Flatbush,484,5,1,12,8,0,0,1,0.34,1130622
+Brooklyn,Bushwick,2344,5,4,29,16,0,1,1,0.91,1724567
+Staten Island,Stapleton,2512,5,2,32,20,1,0,0,1.26,2173228
+Manhattan,SoHo,2069,5,4,24,59,0,0,1,1.71,1659355
+Staten Island,St. George,1062,0,4,13,12,1,1,1,1.29,1080282
+Bronx,Riverdale,1026,4,2,20,2,0,1,1,2.29,998487
+Bronx,South Bronx,463,2,3,15,67,1,1,0,1.56,496545
+Bronx,Mott Haven,3386,2,2,4,3,0,0,1,0.2,2302630
+Bronx,Mott Haven,1318,5,3,34,91,1,0,1,0.37,1195752
+Bronx,Pelham Bay,1775,3,2,28,6,0,1,1,1.91,1633036
+Queens,Long Island City,1581,1,4,2,25,1,0,1,1.82,1087202
+Brooklyn,Williamsburg,2012,0,4,47,74,0,0,1,0.47,1289737
+Bronx,Mott Haven,890,3,3,30,23,1,1,0,0.24,775308
+Manhattan,Financial District,2278,3,3,26,9,0,1,0,1.49,2149370
+Manhattan,SoHo,2340,5,1,47,12,1,0,1,1.63,2272747
+Manhattan,Harlem,712,0,1,26,43,1,1,1,0.42,1562580
+Manhattan,Harlem,3062,2,4,20,38,1,1,0,1.24,2321369
+Queens,Long Island City,1318,1,4,42,18,1,0,0,0.83,1594729
+Manhattan,Upper East Side,2282,2,1,28,50,1,0,1,2.34,2187130
+Bronx,South Bronx,1212,3,1,20,18,1,0,1,0.63,1049667
+Staten Island,Annadale,3387,1,3,11,75,1,0,0,1.86,1563441
+Manhattan,Chelsea,1889,4,2,10,51,1,0,1,1.34,1756366
+Queens,Forest Hills,1726,3,3,23,85,0,0,1,0.13,1433418
+Queens,Jackson Heights,1079,2,1,37,46,0,1,0,1.34,1019338
+Manhattan,Chelsea,834,2,4,41,29,0,1,0,0.34,1842448
+Staten Island,Annadale,1081,5,1,19,45,1,1,0,1.68,1057750
+Manhattan,Harlem,1558,2,4,45,75,1,0,0,1.46,1968950
+Queens,Forest Hills,1473,0,4,18,92,0,0,1,0.13,1188900
+Brooklyn,DUMBO,1855,3,4,49,20,0,0,1,0.59,1486761
+Bronx,Fordham,2787,1,4,27,74,1,0,1,1.96,1665754
+Queens,Forest Hills,2794,2,2,6,47,1,0,1,0.76,1210112
+Manhattan,Midtown,3093,5,1,10,61,0,1,0,1.3,2467200
+Bronx,Norwood,1770,5,3,2,57,1,0,0,0.85,896955
+Manhattan,Upper East Side,1048,2,4,24,17,0,1,1,2.31,1705499
+Manhattan,Financial District,644,0,4,38,58,1,0,1,1.39,1511269
+Brooklyn,Bay Ridge,2556,5,3,28,90,0,1,1,1.77,2398705
+Bronx,Fordham,2980,1,3,28,47,0,1,0,0.3,1633265
+Bronx,South Bronx,695,3,4,45,62,1,1,0,0.2,1181571
+Brooklyn,Flatbush,2559,4,3,39,11,0,1,0,0.72,1559764
+Queens,Flushing,2012,0,3,2,86,1,1,1,0.84,1481656
+Manhattan,Financial District,2790,5,2,46,33,1,1,1,1.75,2351643
+Staten Island,Tottenville,2548,3,3,5,60,1,1,1,1.47,1593266
+Manhattan,Financial District,3076,4,1,11,86,1,0,0,1.0,3000177
+Manhattan,SoHo,2027,2,1,10,52,1,0,1,1.67,2380378
+Queens,Flushing,427,2,1,43,24,0,1,0,0.49,896346
+Manhattan,Financial District,3384,1,4,2,61,1,0,1,0.25,3120538
+Brooklyn,Bay Ridge,2385,4,1,15,3,1,0,1,2.15,1984932
+Brooklyn,Flatbush,1960,2,2,39,93,0,1,0,1.45,1878004
+Bronx,Fordham,457,2,1,41,93,1,0,0,1.66,619752
+Staten Island,Annadale,1921,5,4,37,12,0,1,1,0.84,1828684
+Manhattan,Harlem,696,1,2,7,41,1,0,0,0.99,1639987
+Manhattan,Harlem,2581,3,1,20,48,0,1,0,0.3,1942785
+Queens,Astoria,2696,2,2,34,77,1,0,0,2.16,1547198
+Brooklyn,Flatbush,3468,0,2,35,55,1,1,0,1.52,1751272
+Staten Island,Stapleton,2997,0,4,34,46,1,0,0,0.3,1992605
+Bronx,Fordham,1301,3,4,22,7,1,0,1,2.03,1194590
+Brooklyn,Flatbush,2364,4,2,31,54,1,0,1,1.17,2168112
+Bronx,Mott Haven,1498,1,1,23,87,0,1,1,1.94,1043101
+Queens,Jackson Heights,2077,5,4,19,17,0,1,1,0.13,1611837
+Queens,Jamaica,3281,0,2,4,34,1,0,0,0.17,1406859
+Manhattan,Upper East Side,1591,0,3,24,88,0,0,1,0.51,1664242
+Staten Island,Tottenville,1170,3,3,20,80,1,1,0,0.61,1106634
+Bronx,South Bronx,1926,4,4,39,31,1,0,1,1.93,1067014
+Brooklyn,Bushwick,1778,4,1,28,23,1,0,1,1.8,1417352
+Queens,Long Island City,1648,3,3,39,6,0,1,0,1.58,1533134
+Manhattan,Harlem,1954,0,3,17,12,1,1,1,2.22,1680431
+Manhattan,Midtown,545,1,3,19,90,0,0,1,0.69,1286227
+Bronx,Pelham Bay,2383,0,1,48,68,1,1,1,2.27,1232255
+Queens,Long Island City,1664,4,1,35,99,1,0,1,2.28,1606657
+Staten Island,St. George,2307,5,4,32,89,0,0,1,1.14,1088608
+Queens,Astoria,3340,0,4,47,41,1,1,1,0.33,2593854
+Bronx,Fordham,2791,1,3,46,30,0,0,1,1.84,1193330
+Bronx,Fordham,2172,2,1,47,73,1,1,0,0.91,1664081
+Queens,Jamaica,1458,0,2,46,25,1,1,1,2.01,1402356
+Bronx,Norwood,3149,3,3,39,85,1,0,1,0.49,2347337
+Queens,Jamaica,2448,2,4,35,75,0,1,1,1.39,2179088
+Brooklyn,Flatbush,2419,3,1,30,31,1,0,1,1.32,2035597
+Queens,Long Island City,552,3,4,17,90,0,1,1,0.34,953688
+Queens,Long Island City,2876,3,4,42,96,1,0,1,0.97,1979794
+Bronx,Norwood,907,0,1,47,51,1,1,0,0.3,992590
+Bronx,Mott Haven,890,4,3,29,19,0,0,1,1.22,835036
+Manhattan,Upper East Side,744,2,1,6,39,1,0,1,2.12,1564829
+Manhattan,SoHo,2335,1,3,17,58,1,1,0,0.75,2365417
+Brooklyn,DUMBO,2161,4,4,17,76,0,0,0,1.94,1471640
+Manhattan,SoHo,620,0,1,14,13,0,0,1,0.54,1490943
+Queens,Jamaica,2338,3,2,24,43,0,0,1,1.72,2054033
+Bronx,South Bronx,2342,1,3,37,85,1,0,1,2.3,1785747
+Manhattan,SoHo,1122,2,2,40,81,0,0,0,0.88,1865238
+Manhattan,Upper East Side,3496,4,3,39,47,0,0,0,2.26,2395077
+Brooklyn,Park Slope,927,5,1,32,92,1,1,1,1.31,1181980
+Brooklyn,Bay Ridge,1922,4,2,36,42,0,1,1,0.86,1764407
+Queens,Long Island City,3288,1,1,37,15,0,1,0,2.25,1637772
+Bronx,Pelham Bay,2064,0,3,48,34,1,1,0,0.18,1419940
+Brooklyn,Park Slope,880,2,3,14,52,0,0,0,0.17,1247778
+Manhattan,Midtown,3377,1,3,27,33,1,0,0,1.54,2287637
+Bronx,South Bronx,2271,3,3,19,2,0,1,1,2.01,1200008
+Bronx,Norwood,3319,2,4,31,67,0,0,0,1.9,1280556
+Manhattan,Midtown,1862,4,3,46,4,1,1,0,0.29,2402973
+Brooklyn,Bay Ridge,1825,1,2,9,9,0,0,1,2.38,1430482
+Manhattan,Harlem,744,4,3,38,51,1,0,0,1.79,1705546
+Bronx,South Bronx,444,4,1,17,28,0,1,1,2.38,648432
+Staten Island,Stapleton,2468,4,4,19,95,0,0,0,0.89,1124224
+Staten Island,Stapleton,2057,0,2,44,30,1,1,1,1.77,1893987
+Queens,Astoria,2287,4,4,4,65,1,1,0,2.16,1409095
+Manhattan,SoHo,3320,3,4,48,75,0,1,1,1.01,3204971
+Manhattan,Harlem,2495,3,4,11,90,0,0,1,2.42,2159537
+Queens,Astoria,1914,2,1,22,68,0,0,0,0.74,1583144
+Queens,Forest Hills,2998,5,4,4,36,1,1,1,0.86,1664844
+Queens,Astoria,2734,4,4,17,26,1,0,1,2.31,1510694
+Bronx,Mott Haven,1401,4,3,8,86,0,1,0,2.43,1163054
+Manhattan,Midtown,1433,1,1,46,32,0,1,1,0.78,1638815
+Bronx,Mott Haven,2989,0,2,34,67,0,0,1,0.43,1948403
+Queens,Long Island City,2440,5,2,11,58,1,1,0,1.92,1430389
+Manhattan,Chelsea,3203,2,2,31,63,0,0,0,2.33,2933854
+Bronx,Pelham Bay,673,5,1,11,84,1,0,1,1.54,817900
+Bronx,Fordham,1355,4,2,38,87,1,0,1,1.62,1388802
+Queens,Astoria,3047,1,1,21,43,0,1,1,1.93,1656255
+Manhattan,Financial District,2179,0,3,46,94,1,1,1,0.47,2119895
+Queens,Jamaica,780,2,3,30,87,1,0,1,2.44,1192575
+Manhattan,Upper East Side,1752,5,1,10,48,0,0,0,0.97,2143922
+Staten Island,St. George,878,2,2,26,52,0,1,1,1.61,718847
+Brooklyn,Park Slope,2462,4,1,27,73,0,0,0,1.22,1786046
+Brooklyn,Bay Ridge,915,2,1,8,48,0,0,0,1.22,1054940
+Brooklyn,Bay Ridge,590,1,4,39,65,0,1,0,1.79,1207800
+Queens,Forest Hills,1591,2,1,8,94,0,1,0,2.49,843813
+Staten Island,Annadale,3068,3,4,8,62,0,1,1,1.68,1825162
+Manhattan,SoHo,1560,1,3,34,24,1,0,1,2.01,2093448
+Bronx,South Bronx,2601,5,4,16,3,0,1,1,0.17,2054636
+Manhattan,Harlem,1811,0,1,41,50,0,1,0,2.05,2181644
+Bronx,South Bronx,671,0,3,13,10,0,1,0,0.82,623129
+Manhattan,SoHo,542,4,4,23,16,0,1,1,0.4,1625420
+Staten Island,Tottenville,2312,4,1,12,65,0,1,0,0.37,1953721
+Bronx,Mott Haven,1492,3,3,27,69,0,1,1,1.73,1176456
+Queens,Long Island City,2694,5,4,22,72,1,1,0,2.49,2200013
+Manhattan,Upper East Side,1187,0,1,32,68,0,0,0,1.7,1881074
+Manhattan,Chelsea,2526,0,1,49,83,1,1,0,0.73,2089394
+Bronx,Mott Haven,2081,0,2,27,28,0,0,0,0.59,1456699
+Queens,Jamaica,1022,0,2,2,84,1,0,0,1.36,780266
+Queens,Jamaica,2972,2,4,45,72,1,1,0,0.26,1773587
+Staten Island,Annadale,3219,5,4,33,91,1,0,0,1.06,2553349
+Queens,Flushing,1337,1,4,26,71,0,1,1,1.7,910563
+Queens,Astoria,1518,1,1,28,94,0,0,1,2.42,1180942
+Queens,Flushing,1016,3,4,19,19,0,1,0,1.12,1023378
+Brooklyn,Park Slope,1431,2,1,43,26,0,0,0,0.58,1287709
+Staten Island,Tottenville,466,0,4,5,7,0,1,1,2.06,669626
+Manhattan,SoHo,590,0,1,33,84,0,1,0,1.89,1282968
+Bronx,Pelham Bay,3215,4,1,20,60,1,0,1,2.16,1320334
+Manhattan,Upper East Side,920,4,2,30,27,1,0,1,0.62,1835556
+Staten Island,Stapleton,1389,3,3,45,86,1,1,1,1.07,1071242
+Bronx,Riverdale,1540,0,1,8,69,0,0,1,2.46,634155
+Staten Island,New Dorp,2714,3,4,38,2,0,1,1,0.48,2023542
+Queens,Forest Hills,2034,2,2,17,68,1,0,0,1.71,1326587
+Bronx,Riverdale,2932,1,4,44,72,0,1,0,0.67,2061832
+Queens,Jamaica,1587,0,4,1,6,0,0,1,1.3,1065272
+Manhattan,SoHo,775,5,1,3,59,0,1,0,2.02,1470761
+Manhattan,SoHo,1052,2,1,46,3,1,0,1,1.27,1607066
+Bronx,South Bronx,948,0,3,26,4,1,1,0,2.03,743375
+Bronx,Norwood,1497,5,1,31,10,0,0,0,1.12,1518622
+Staten Island,New Dorp,472,4,1,8,14,1,1,0,2.5,675309
+Staten Island,New Dorp,2755,3,3,43,63,1,0,0,1.15,1191557
+Queens,Astoria,598,4,4,46,97,0,0,0,0.46,1081201
+Bronx,Fordham,2181,1,3,8,12,0,1,0,1.06,1401412
+Manhattan,Midtown,971,4,3,35,6,1,0,0,1.88,1643226
+Staten Island,Annadale,1190,0,3,39,5,1,0,0,2.14,1234403
+Staten Island,New Dorp,2038,5,2,28,55,0,1,1,1.2,1092550
+Manhattan,Chelsea,2231,4,4,4,63,0,1,1,1.53,2404483
+Staten Island,New Dorp,2255,0,2,16,49,0,1,0,2.13,907935
+Queens,Jamaica,1910,1,2,13,29,1,1,0,2.05,1514245
+Bronx,Mott Haven,1574,5,1,20,21,1,0,0,1.68,1219939
+Manhattan,Harlem,578,4,3,5,24,0,0,1,2.06,1481421
+Bronx,Fordham,2644,3,3,37,27,0,0,0,1.48,1797837
+Staten Island,St. George,1134,3,2,20,83,0,1,0,0.11,1106823
+Staten Island,Annadale,2536,5,1,24,38,0,0,1,0.2,1910981
+Manhattan,Midtown,1198,3,1,36,66,1,0,1,2.45,2018646
+Queens,Jackson Heights,1187,4,1,34,4,0,1,1,0.45,1359771
+Brooklyn,Park Slope,3195,4,4,45,64,0,0,0,1.07,2215590
+Manhattan,Upper East Side,608,5,2,48,14,1,0,1,2.34,1680774
+Brooklyn,Bushwick,892,4,4,34,89,0,1,0,0.57,1231359
+Brooklyn,Bay Ridge,3112,0,1,19,66,1,0,1,2.13,1838388
+Queens,Forest Hills,3484,1,1,17,39,1,1,0,2.06,2080889
+Brooklyn,Bushwick,2057,3,1,5,97,1,1,0,2.47,1540924
+Brooklyn,Park Slope,3318,0,3,25,68,0,0,0,0.78,2685245
+Queens,Jackson Heights,1131,5,2,18,94,1,0,1,0.86,1040295
+Brooklyn,Park Slope,1529,3,3,8,76,0,0,0,2.27,1002962
+Brooklyn,Bushwick,2005,0,4,27,42,1,1,0,0.66,1731935
+Brooklyn,Bay Ridge,3145,4,3,15,0,1,1,0,1.41,2641961
+Manhattan,Financial District,993,5,2,45,21,1,0,1,1.8,2017231
+Manhattan,Chelsea,3333,5,3,13,61,0,0,0,0.75,3040391
+Manhattan,SoHo,3299,3,1,16,78,0,1,0,2.35,2987501
+Queens,Jackson Heights,1615,4,4,22,25,1,0,0,1.7,1487233
+Staten Island,Tottenville,724,3,4,20,17,0,0,0,0.21,943770
+Brooklyn,DUMBO,1378,2,1,13,47,1,1,1,0.43,1492417
+Brooklyn,Flatbush,2149,0,1,20,8,1,0,0,0.56,1546778
+Queens,Flushing,2250,2,1,2,0,1,0,1,0.69,1485883
+Brooklyn,Bushwick,3403,0,2,35,8,1,0,1,1.85,2733929
+Manhattan,SoHo,1890,1,3,47,22,0,0,0,0.31,2335888
+Staten Island,Stapleton,1293,5,4,19,44,1,1,1,0.94,1447207
+Bronx,Riverdale,1790,3,3,45,1,0,1,1,2.29,1666500
+Brooklyn,Park Slope,543,1,1,37,13,1,1,1,1.44,1065732
+Manhattan,Harlem,783,1,1,6,37,1,1,0,0.74,1735481
+Bronx,Fordham,2663,5,3,14,39,1,0,1,2.4,1136188
+Staten Island,Tottenville,2771,5,4,4,62,1,0,1,0.69,1989116
+Bronx,Fordham,3486,0,2,22,81,1,0,0,2.27,1237976
+Manhattan,Midtown,616,2,3,39,15,0,0,0,1.84,1430130
+Bronx,Fordham,1915,4,1,36,92,0,1,1,1.88,1625559
+Queens,Flushing,3398,0,1,34,74,1,0,1,1.94,1619454
+Bronx,Mott Haven,2630,4,2,27,5,0,0,1,1.32,1876135
+Brooklyn,Park Slope,2717,1,3,7,2,0,1,0,2.05,1552667
+Brooklyn,Park Slope,3392,4,2,3,13,1,1,1,2.11,1619019
+Queens,Jackson Heights,1890,2,2,47,65,1,1,0,0.97,1295013
+Manhattan,SoHo,3317,0,4,33,95,1,0,1,1.06,2784270
+Brooklyn,Williamsburg,2035,5,4,2,94,1,1,1,2.23,1520905
+Staten Island,Stapleton,2914,2,1,42,74,0,0,0,1.36,1334500
+Brooklyn,Williamsburg,2752,2,3,16,85,0,0,1,2.18,2116629
+Brooklyn,Bay Ridge,1567,0,4,25,66,0,1,0,1.6,1047496
+Manhattan,Chelsea,510,5,1,15,30,0,1,1,1.52,1536961
+Bronx,Pelham Bay,1413,2,3,24,32,1,1,0,0.17,1403726
+Brooklyn,Williamsburg,631,5,1,15,87,1,0,0,0.77,1076583
+Queens,Long Island City,2114,3,4,31,0,1,0,1,1.3,1722288
+Bronx,Pelham Bay,2155,3,1,14,43,1,0,0,1.51,1432851
+Staten Island,Great Kills,3042,3,3,14,14,0,1,1,1.61,2150054
+Manhattan,Midtown,1977,4,3,6,36,0,0,0,1.82,2256251
+Staten Island,St. George,1696,2,1,14,26,1,0,0,1.67,1615455
+Bronx,South Bronx,2620,0,3,17,47,0,0,0,2.14,969989
+Bronx,South Bronx,1372,0,1,18,26,0,0,1,0.81,1284335
+Bronx,Fordham,1430,4,3,20,11,1,1,0,1.64,1368446
+Staten Island,Great Kills,2993,0,1,17,66,0,0,0,0.22,1988594
+Bronx,Riverdale,2995,3,1,16,29,1,1,0,1.25,1618523
+Staten Island,Tottenville,917,2,1,40,95,0,1,1,0.74,1116421
+Bronx,Pelham Bay,1313,0,2,39,86,0,0,1,1.01,757344
+Queens,Forest Hills,2662,0,3,32,65,1,0,0,0.95,2098931
+Bronx,Riverdale,2581,1,4,44,6,1,1,0,0.25,1364152
+Staten Island,Great Kills,2732,1,1,9,33,1,0,1,1.22,1985380
+Brooklyn,DUMBO,2344,1,2,27,31,0,1,0,2.49,1876406
+Bronx,South Bronx,1862,2,4,46,38,1,0,0,0.82,1091794
+Brooklyn,Williamsburg,2272,3,1,33,95,0,0,0,1.87,1951698
+Queens,Jackson Heights,3133,5,4,10,42,1,1,0,1.41,2020069
+Manhattan,Financial District,2778,3,2,17,42,0,0,0,0.88,2613115
+Queens,Jamaica,3341,3,4,49,77,1,1,0,0.32,1942447
+Bronx,Mott Haven,1707,2,1,49,2,1,1,1,0.62,1486004
+Brooklyn,Williamsburg,1298,2,4,36,45,0,0,0,1.98,1354000
+Brooklyn,Park Slope,1498,1,4,17,31,0,1,0,0.77,1385776
+Staten Island,Stapleton,1589,0,1,18,42,1,0,1,0.45,1249173
+Brooklyn,DUMBO,1612,4,2,23,99,0,0,1,0.9,1616767
+Staten Island,St. George,2525,4,2,34,80,1,0,1,1.5,1757354
+Manhattan,Financial District,3394,5,4,8,2,0,1,1,1.79,2588841
+Bronx,South Bronx,1087,0,3,13,73,0,0,0,1.03,724780
+Staten Island,St. George,2468,5,4,23,62,1,0,1,1.3,1631575
+Manhattan,Upper East Side,965,1,3,20,39,1,1,0,1.19,1837341
+Brooklyn,DUMBO,1607,5,4,22,17,0,1,1,0.12,1712901
+Brooklyn,DUMBO,2294,0,2,47,66,0,1,1,1.05,1719455
+Manhattan,Harlem,1226,0,4,23,61,0,1,1,1.51,1675818
+Brooklyn,DUMBO,1751,4,4,41,9,0,0,0,1.47,1696479
+Manhattan,Chelsea,2626,1,3,35,51,1,0,1,1.9,2798614
+Staten Island,St. George,2211,2,2,3,72,1,0,1,1.71,861611
+Staten Island,Tottenville,1482,5,3,34,45,0,0,1,0.76,1341682
+Manhattan,Harlem,1750,4,4,33,54,1,1,0,0.71,1820260
+Staten Island,St. George,3352,5,1,46,45,0,1,0,1.21,1665111
+Staten Island,Tottenville,2044,5,4,17,74,0,0,1,1.86,861614
+Staten Island,St. George,3116,2,4,45,59,0,1,0,0.33,2387699
+Queens,Jackson Heights,590,1,3,19,96,1,1,1,2.38,918391
+Bronx,Fordham,1623,0,1,30,99,0,1,0,1.4,820821
+Brooklyn,DUMBO,1735,3,1,23,25,1,1,1,0.84,1618709
+Queens,Forest Hills,1107,5,3,15,26,1,1,0,1.76,1037665
+Staten Island,Great Kills,778,3,2,14,37,0,0,1,0.21,1013362
+Manhattan,Harlem,786,1,1,2,21,1,0,0,1.26,1624654
+Staten Island,Tottenville,2684,3,1,39,25,0,1,0,1.27,1444951
+Bronx,Mott Haven,1015,5,3,49,85,0,1,1,0.49,771331
+Staten Island,Stapleton,1942,2,2,18,68,1,0,1,2.11,1509182
+Manhattan,Midtown,2730,3,2,6,34,0,0,0,2.01,2578770
+Bronx,Mott Haven,2448,1,4,32,65,1,1,1,0.47,1122257
+Staten Island,Annadale,2154,1,4,21,98,1,1,1,0.97,1444012
+Bronx,Pelham Bay,863,2,3,40,72,1,1,1,0.34,1155003
+Brooklyn,Williamsburg,1366,3,2,28,50,0,0,1,2.14,1399876
+Brooklyn,Flatbush,571,3,3,27,17,1,1,0,0.88,1192317
+Staten Island,Stapleton,1546,0,4,2,42,0,1,1,1.15,1135753
+Bronx,Norwood,1242,4,3,33,11,0,1,0,0.88,1047381
+Manhattan,Harlem,1721,1,3,16,2,1,1,0,0.84,2114800
+Staten Island,Tottenville,2308,0,1,39,81,1,1,1,1.89,1814429
+Brooklyn,Williamsburg,1089,1,1,22,6,0,1,1,1.89,1136668
+Brooklyn,Bushwick,3022,0,1,43,96,1,1,0,1.34,2025843
+Staten Island,St. George,1907,4,4,47,5,1,1,1,1.68,1334119
+Bronx,Mott Haven,2612,0,3,13,81,1,0,1,1.33,1204271
+Brooklyn,Park Slope,2424,1,1,2,44,0,0,0,0.17,1802019
+Bronx,Mott Haven,2122,3,1,14,85,1,0,0,0.26,1682809
+Brooklyn,DUMBO,782,1,1,38,38,0,1,0,1.02,1009328
+Brooklyn,Bushwick,2656,5,4,41,50,0,0,1,1.9,2597019
+Queens,Flushing,1812,2,4,28,8,1,0,1,2.29,1385146
+Brooklyn,Williamsburg,1983,2,3,7,98,1,0,0,0.17,1506552
+Manhattan,Midtown,2671,5,3,18,22,0,0,0,0.98,2105788
+Staten Island,Annadale,2450,2,3,41,11,0,0,1,0.64,1801042
+Staten Island,Great Kills,771,2,1,36,87,1,1,1,2.06,801289
+Bronx,Norwood,2110,4,2,41,61,0,0,1,2.13,1260381
+Brooklyn,Bay Ridge,1869,3,4,36,72,1,1,0,0.6,1420306
+Manhattan,Midtown,1010,3,1,44,76,0,1,1,1.81,1748679
+Bronx,Pelham Bay,515,1,1,4,39,1,0,1,1.86,659254
+Queens,Long Island City,846,5,3,30,53,0,1,0,0.52,1104048
+Bronx,Mott Haven,1791,0,3,24,80,1,0,1,1.14,1297864
+Bronx,Mott Haven,1740,1,1,20,6,1,1,0,1.59,1328316
+Brooklyn,Park Slope,814,1,4,46,16,0,1,1,0.16,1145426
+Queens,Astoria,2208,1,4,31,49,1,0,0,1.07,1486948
+Bronx,Pelham Bay,3339,1,1,24,23,0,1,0,0.47,2273309
+Manhattan,Upper East Side,1447,3,2,7,1,0,1,0,1.4,1691628
+Manhattan,Harlem,3110,0,2,26,98,0,1,1,2.12,2683248
+Staten Island,Tottenville,2273,1,4,13,91,0,1,1,1.36,1189311
+Queens,Jackson Heights,1473,3,3,8,82,1,1,1,0.19,1284203
+Queens,Forest Hills,1117,1,2,5,32,0,1,1,0.17,970175
+Staten Island,Tottenville,1758,2,2,44,20,0,1,0,1.55,1653224
+Bronx,Mott Haven,2005,1,3,13,73,0,1,1,0.89,1531969
+Queens,Forest Hills,3498,5,2,29,52,1,0,1,1.47,2755917
+Manhattan,SoHo,2718,5,1,20,45,0,1,0,0.49,2047141
+Manhattan,SoHo,961,1,2,14,44,1,0,0,1.96,1688840
+Brooklyn,Williamsburg,3251,4,3,32,8,1,0,0,2.17,2313730
+Queens,Forest Hills,2694,2,1,27,5,0,1,0,2.23,2076631
+Bronx,Mott Haven,786,0,2,25,50,1,1,1,0.83,701469
+Staten Island,Tottenville,1101,1,4,4,34,0,0,0,1.69,977668
+Staten Island,Great Kills,3006,0,1,21,81,1,0,1,0.77,2066649
+Bronx,South Bronx,1372,2,1,18,52,1,0,1,1.93,883944
+Brooklyn,DUMBO,1784,1,4,39,18,0,1,0,0.39,1457854
+Staten Island,St. George,1383,4,4,15,68,1,1,0,1.93,1008334
+Queens,Astoria,1911,3,2,38,24,0,1,0,1.16,1458304
+Brooklyn,Bay Ridge,751,4,2,48,10,1,0,0,2.15,1383203
+Queens,Jackson Heights,2124,4,3,24,73,0,1,0,1.87,1845120
+Manhattan,Upper East Side,2351,3,3,8,16,0,1,1,1.0,2017423
+Brooklyn,DUMBO,1679,3,1,28,35,0,1,0,2.27,1515507
+Staten Island,Tottenville,2307,5,4,21,89,0,1,1,0.78,1596194
+Brooklyn,DUMBO,1152,3,4,16,94,1,0,0,2.42,1029434
+Brooklyn,Park Slope,3228,1,3,16,95,0,1,1,1.94,2087351
+Brooklyn,Bay Ridge,1424,0,1,35,20,0,1,1,2.48,1173413
+Brooklyn,DUMBO,945,5,1,17,17,0,0,1,0.23,1327129
+Queens,Long Island City,1869,5,3,9,59,0,1,0,0.76,1098288
+Manhattan,SoHo,478,0,3,35,17,1,0,0,1.88,1555602
+Bronx,Riverdale,1659,5,3,29,0,0,0,0,2.31,1078069
+Brooklyn,Bay Ridge,2781,3,2,39,13,1,1,1,0.17,2651089
+Staten Island,St. George,1288,4,1,18,7,0,0,1,0.1,1346446
+Brooklyn,Bushwick,1505,2,1,12,65,0,1,0,0.71,1299256
+Staten Island,Annadale,2949,3,1,19,50,0,0,0,2.15,1712493
+Queens,Flushing,2390,4,3,48,78,0,0,1,1.94,1459959
+Staten Island,Great Kills,1900,4,3,22,59,0,1,1,0.92,1660497
+Bronx,Fordham,3212,5,3,49,33,0,0,0,0.1,1619042
+Manhattan,Harlem,1320,1,3,15,35,1,1,0,1.43,1881375
+Staten Island,Annadale,949,1,4,1,61,1,1,0,0.67,635308
+Staten Island,St. George,2461,5,3,2,0,0,1,1,1.89,1315049
+Manhattan,Financial District,791,5,2,8,84,0,1,1,1.17,1454510
+Bronx,Norwood,2757,0,4,22,41,0,0,0,1.73,1067371
+Brooklyn,Bushwick,2833,0,4,25,0,1,1,0,2.15,2069493
+Staten Island,New Dorp,1780,2,3,2,95,0,0,0,1.39,681181
+Manhattan,Harlem,1373,2,1,9,83,1,1,0,0.91,1933753
+Queens,Astoria,739,2,3,9,53,1,0,0,1.95,961867
+Manhattan,Financial District,3044,2,1,13,46,1,0,1,0.74,2123810
+Queens,Flushing,1156,4,3,6,99,1,0,0,2.24,908133
+Bronx,Pelham Bay,1445,4,3,30,38,1,0,1,0.27,1192373
+Brooklyn,Park Slope,2738,0,1,15,29,0,1,1,2.11,2093535
+Manhattan,SoHo,2753,1,1,15,6,1,1,1,0.32,2321283
+Staten Island,St. George,3081,5,1,7,21,1,0,1,0.23,1293341
+Bronx,Pelham Bay,3072,1,1,11,49,0,0,1,0.97,1343950
+Manhattan,Financial District,1338,3,2,40,44,0,1,1,2.4,1860128
+Staten Island,St. George,1247,4,1,38,73,1,0,1,2.46,1286690
+Manhattan,Financial District,841,2,3,40,71,0,0,1,0.58,1925857
+Queens,Flushing,2950,2,3,2,90,0,1,0,0.46,1331246
+Manhattan,Financial District,529,3,2,48,9,0,0,0,0.95,1752499
+Manhattan,Harlem,996,1,1,39,13,1,0,0,0.91,1962379
+Manhattan,SoHo,2358,2,3,10,45,1,1,0,1.92,1793313
+Bronx,Mott Haven,1905,1,2,44,74,0,0,0,1.17,1416875
+Manhattan,Upper East Side,1261,5,3,17,5,0,1,1,1.97,1976992
+Staten Island,Great Kills,3040,3,2,7,20,1,1,1,1.9,2081745
+Queens,Jackson Heights,1398,1,2,40,61,1,1,1,1.49,1282903
+Queens,Astoria,2772,5,4,39,96,0,1,1,2.1,2347948
+Manhattan,Upper East Side,2895,1,4,4,18,1,0,1,0.57,2210209
+Bronx,Mott Haven,1951,1,1,35,87,1,1,0,0.49,1556141
+Bronx,Norwood,3266,2,4,47,81,0,1,0,1.9,1411324
+Staten Island,New Dorp,2040,0,2,36,98,0,0,1,0.69,1073231
+Manhattan,Midtown,1911,4,3,31,61,1,1,0,0.11,2518621
+Queens,Astoria,2136,1,3,25,82,1,0,0,2.29,1561277
+Bronx,Riverdale,3156,1,1,41,52,1,1,0,1.6,1500492
+Manhattan,Financial District,1849,1,4,13,23,0,1,0,1.17,2171617
+Bronx,Fordham,2257,0,1,18,55,0,1,0,1.84,889187
+Bronx,Norwood,664,5,2,21,61,0,1,1,0.9,821016
+Queens,Forest Hills,3059,3,4,48,33,0,0,0,2.39,2197672
+Brooklyn,Flatbush,3279,2,1,1,21,1,0,0,0.26,2189986
+Staten Island,New Dorp,3121,0,3,36,67,0,0,1,1.64,1683233
+Staten Island,Tottenville,1862,5,3,8,56,0,1,1,1.97,1446587
+Queens,Long Island City,556,1,1,48,9,1,1,1,1.23,1078627
+Bronx,Pelham Bay,1845,5,1,21,65,0,1,1,1.91,729409
+Manhattan,Harlem,2698,0,1,43,7,1,0,1,2.32,2304386
+Bronx,Fordham,3325,0,2,21,96,0,1,1,1.89,2212560
+Queens,Jamaica,2032,0,2,27,37,1,0,1,0.84,1812811
+Staten Island,St. George,2977,3,3,19,61,1,0,1,1.45,1753643
+Bronx,Fordham,2774,4,2,23,27,1,0,0,2.29,1070793
+Staten Island,New Dorp,3408,2,2,43,9,0,1,1,1.18,2285359
+Manhattan,SoHo,1294,3,4,35,44,1,1,1,1.74,1990052
+Staten Island,Great Kills,2544,3,2,40,64,0,1,0,1.22,1238988
+Staten Island,Tottenville,912,4,4,42,97,0,1,1,0.39,982282
+Brooklyn,Flatbush,615,3,2,48,66,0,0,1,0.24,1336545
+Brooklyn,DUMBO,2572,0,3,5,8,0,0,1,2.39,1791110
+Brooklyn,Williamsburg,2106,0,1,41,4,0,1,1,1.57,1576295
+Staten Island,New Dorp,2506,5,3,8,9,0,1,0,0.35,1872764
+Queens,Flushing,1967,1,2,11,11,1,1,0,2.16,1128740
+Staten Island,Stapleton,2608,3,1,16,81,1,0,1,1.35,1156303
+Queens,Forest Hills,2731,1,1,39,57,0,1,0,1.95,2167659
+Queens,Long Island City,2553,2,1,47,20,0,0,0,0.4,1566988
+Brooklyn,Bushwick,1528,0,4,24,20,0,0,0,2.28,1277708
+Bronx,Pelham Bay,627,5,3,21,64,0,0,0,1.52,786868
+Manhattan,Upper East Side,2765,2,4,23,2,0,0,0,1.87,2886614
+Brooklyn,Bushwick,1887,5,1,49,68,1,0,0,0.18,1821381
+Brooklyn,Park Slope,1201,4,3,38,88,1,0,1,0.86,1179980
+Bronx,Fordham,2022,0,3,47,63,0,0,1,0.74,1402659
+Manhattan,Chelsea,2305,2,2,8,48,0,1,0,2.38,2136938
+Staten Island,Tottenville,3321,4,4,7,71,1,1,0,0.54,1936509
+Staten Island,Stapleton,871,2,4,2,16,0,1,0,1.8,1024511
+Brooklyn,Flatbush,1479,5,2,30,72,0,0,1,0.2,1371697
+Manhattan,Financial District,3072,4,4,13,31,0,0,1,0.57,3131822
+Brooklyn,Bay Ridge,2460,4,1,23,69,1,1,1,0.91,1950201
+Queens,Astoria,1441,0,1,29,20,1,0,1,2.01,1192293
+Brooklyn,Williamsburg,3141,1,4,38,6,0,0,1,2.0,2388603
+Brooklyn,Flatbush,3420,5,2,37,6,1,0,1,2.39,2014591
+Staten Island,Stapleton,2560,5,3,20,26,1,0,0,2.3,1863501
+Staten Island,Tottenville,628,4,4,33,7,0,0,1,0.3,757554
+Staten Island,Stapleton,570,4,3,29,72,1,0,1,2.09,857491
+Queens,Astoria,694,0,2,15,27,1,0,1,1.18,931024
+Staten Island,Stapleton,588,1,3,23,78,1,0,0,2.18,731233
+Manhattan,Midtown,825,5,2,42,65,1,0,1,0.31,1545328
+Bronx,Riverdale,1376,3,2,3,70,1,0,0,2.07,988903
+Manhattan,Harlem,1502,3,1,37,46,1,0,0,0.48,2108244
+Manhattan,Chelsea,3105,1,1,29,81,0,0,1,0.9,2343151
+Staten Island,Great Kills,1318,2,2,45,85,0,1,1,0.17,904597
+Bronx,South Bronx,898,0,4,8,9,0,0,1,0.4,898439
+Bronx,Mott Haven,2221,1,1,22,32,1,0,0,1.17,1043778
+Bronx,Mott Haven,3209,3,2,29,6,0,1,1,2.06,2349527
+Queens,Forest Hills,1265,4,3,2,2,1,1,0,1.96,1316030
+Staten Island,Tottenville,1225,3,3,41,13,1,1,0,0.66,1398664
+Bronx,South Bronx,2258,4,4,49,43,0,0,1,0.46,1396539
+Queens,Jamaica,2518,0,3,45,45,1,0,1,1.03,2082585
+Brooklyn,Williamsburg,2695,4,3,1,60,0,1,1,2.22,1427401
+Brooklyn,Williamsburg,545,1,2,44,35,1,1,0,0.32,1303420
+Queens,Forest Hills,2041,4,3,20,12,0,1,1,1.4,1543893
+Queens,Jackson Heights,1719,2,3,21,15,0,0,0,0.31,1388818
+Staten Island,Annadale,3029,1,3,37,79,0,0,1,1.23,1475889
+Staten Island,Tottenville,869,0,3,8,4,0,1,0,0.4,741922
+Brooklyn,Williamsburg,592,1,2,27,88,1,0,1,0.29,993502
+Bronx,Fordham,1491,2,3,47,37,0,0,1,0.56,1334495
+Brooklyn,Bay Ridge,2941,0,4,35,49,1,1,0,0.71,2268291
+Bronx,Riverdale,451,3,1,6,37,0,1,0,0.76,566933
+Bronx,Riverdale,3329,2,4,45,55,0,1,1,1.65,1506144
+Staten Island,St. George,2810,0,1,44,62,0,0,0,0.23,2025095
+Manhattan,Upper East Side,2220,4,4,19,47,1,0,0,0.29,2546480
+Manhattan,Chelsea,3364,1,1,18,89,0,0,0,0.55,2274373
+Queens,Forest Hills,2921,0,1,1,58,0,0,0,2.19,1786736
+Staten Island,Tottenville,2269,1,1,25,76,1,0,1,1.61,1576926
+Bronx,Fordham,2968,4,1,27,43,0,1,0,1.85,2083604
+Manhattan,Harlem,2186,0,2,7,89,1,0,1,0.99,1625354
+Bronx,Norwood,1854,3,4,44,54,0,0,1,0.61,1500732
+Manhattan,Midtown,2267,2,1,42,54,0,1,1,0.19,1932754
+Manhattan,Upper East Side,3138,0,4,29,0,0,1,0,1.27,2910485
+Manhattan,SoHo,2979,4,3,31,7,1,1,1,1.48,2417606
+Staten Island,Great Kills,2407,0,1,44,3,0,1,1,2.25,1754098
+Brooklyn,Park Slope,1834,1,4,43,84,0,0,1,2.22,1662255
+Bronx,Mott Haven,1239,5,2,36,85,0,0,1,1.12,1068594
+Staten Island,Stapleton,640,0,4,19,52,1,1,1,1.12,876629
+Staten Island,New Dorp,935,3,1,6,57,1,0,0,0.49,837274
+Staten Island,Annadale,1807,0,3,25,36,1,1,1,0.72,1230954
+Staten Island,New Dorp,482,2,4,31,48,1,0,0,2.32,601391
+Staten Island,Annadale,1381,0,3,9,66,1,0,1,0.44,828641
+Queens,Jackson Heights,1350,5,2,20,18,1,0,1,2.42,1308666
+Bronx,Norwood,1010,1,4,10,0,0,1,0,1.31,1073192
+Staten Island,Annadale,973,0,4,37,28,0,1,0,1.2,1055348
+Bronx,Norwood,2733,3,2,27,86,0,0,1,0.52,1265270
+Queens,Flushing,1388,4,2,13,32,0,0,1,1.69,1283488
+Queens,Jackson Heights,858,0,2,41,51,0,1,1,1.2,920913
+Bronx,Riverdale,2573,0,1,2,40,1,1,1,0.99,1912387
+Manhattan,SoHo,1922,2,1,21,22,1,0,1,0.73,1802564
+Brooklyn,DUMBO,2872,3,4,33,4,1,0,0,0.26,2068750
+Manhattan,SoHo,3001,5,4,24,70,0,1,1,1.35,2819745
+Manhattan,Harlem,3057,4,4,44,56,1,0,1,0.85,3272119
+Manhattan,SoHo,2384,1,3,42,5,0,1,0,1.8,1855987
+Staten Island,Annadale,1966,0,2,34,48,1,1,0,1.84,1145972
+Queens,Long Island City,2559,5,4,9,21,0,0,1,0.9,1771154
+Manhattan,Financial District,2849,4,2,2,76,1,0,0,1.71,2503381
+Queens,Long Island City,521,1,1,30,75,0,0,0,0.72,612839
+Bronx,South Bronx,672,5,2,22,3,1,1,0,1.85,809213
+Brooklyn,Bushwick,1717,3,3,46,71,0,1,1,0.14,1611543
+Bronx,Fordham,797,3,3,11,63,1,1,1,0.46,833590
+Bronx,Fordham,2918,4,2,43,36,0,0,1,0.69,1327102
+Staten Island,Great Kills,1384,1,3,17,30,0,0,0,1.96,885382
+Brooklyn,DUMBO,1630,3,3,36,36,0,1,1,0.26,1780351
+Bronx,Riverdale,1533,4,1,13,44,0,1,1,0.55,1218377
+Bronx,South Bronx,1701,3,4,7,89,1,0,0,0.96,1316706
+Brooklyn,Bushwick,2310,3,3,16,7,1,1,1,0.12,2245276
+Brooklyn,Bushwick,3016,5,4,33,39,1,0,0,1.93,1694039
+Bronx,Norwood,1905,5,2,45,96,0,0,0,1.44,1182492
+Brooklyn,Williamsburg,2316,3,2,1,92,1,1,0,2.26,1353255
+Bronx,Pelham Bay,3344,2,3,11,4,0,1,0,0.17,2484440
+Bronx,South Bronx,1219,5,2,6,27,1,1,1,0.75,1115354
+Staten Island,Tottenville,3300,1,1,20,80,0,1,1,1.86,1309182
+Manhattan,Harlem,3157,4,3,35,86,1,1,1,1.72,2337338
+Bronx,Riverdale,2356,4,3,44,8,0,0,0,0.68,2004187
+Queens,Jackson Heights,2768,1,3,37,1,0,1,1,1.53,2233484
+Manhattan,Midtown,578,1,2,41,62,1,0,1,2.01,1575560
+Manhattan,Financial District,1296,1,2,26,95,1,1,0,0.18,1649500
+Manhattan,Harlem,2666,1,3,12,50,1,1,0,1.82,2467586
+Staten Island,New Dorp,3236,0,4,30,30,0,1,1,0.71,1616052
+Bronx,Fordham,2372,4,2,28,6,0,1,0,2.37,1219965
+Staten Island,Stapleton,1951,0,2,27,29,0,1,1,1.39,970314
+Bronx,South Bronx,891,3,3,42,57,1,1,0,0.18,800637
+Staten Island,Annadale,460,3,4,19,2,0,0,0,1.07,885770
+Staten Island,Annadale,1477,4,3,5,50,1,1,1,2.42,1440230
+Queens,Flushing,2103,3,2,5,55,0,1,0,1.85,1059472
+Staten Island,Stapleton,2985,1,3,41,72,1,1,0,0.82,2303226
+Brooklyn,Bay Ridge,3295,0,3,27,9,0,1,0,1.48,1935988
+Queens,Forest Hills,3435,1,3,28,60,0,0,1,1.54,1974009
+Staten Island,Tottenville,464,3,4,26,49,1,0,1,0.16,793112
+Manhattan,Harlem,985,5,3,27,46,0,0,1,0.53,1688804
+Brooklyn,DUMBO,2127,0,2,49,89,0,0,0,1.42,1338491
+Brooklyn,Flatbush,2618,1,3,42,0,1,0,0,1.07,2210129
+Brooklyn,DUMBO,934,4,4,21,93,0,0,0,0.56,1338898
+Queens,Flushing,3140,1,1,1,56,1,1,0,1.95,2171969
+Staten Island,St. George,2555,5,4,28,37,1,1,1,1.27,1443099
+Staten Island,Great Kills,2270,3,3,48,61,0,0,1,0.84,1765889
+Manhattan,Harlem,3261,0,1,15,78,0,1,0,0.49,2463259
+Manhattan,Chelsea,1404,4,3,17,88,0,1,1,1.57,2086427
+Brooklyn,Park Slope,2899,0,4,26,69,1,1,1,1.7,1857173
+Manhattan,Upper East Side,1629,4,1,20,81,0,1,1,1.71,2081024
+Queens,Long Island City,3037,0,1,25,64,1,1,0,0.63,2038794
+Staten Island,Stapleton,1439,3,3,13,61,0,0,1,1.53,1239624
+Brooklyn,Bay Ridge,726,4,3,33,55,0,0,1,2.27,920767
+Manhattan,Financial District,1007,2,4,25,66,1,0,1,0.95,1579127
+Queens,Jackson Heights,3106,0,3,8,16,0,0,1,0.61,1976841
+Queens,Astoria,401,0,1,5,7,0,0,1,1.95,734606
+Manhattan,Harlem,1433,1,2,6,59,0,0,0,0.52,1605847
+Staten Island,St. George,2881,4,2,23,39,0,1,1,0.71,2368524
+Manhattan,Harlem,524,5,4,30,80,0,0,1,0.34,1392839
+Brooklyn,Bushwick,1504,2,3,14,88,1,1,0,0.74,1227670
+Manhattan,Upper East Side,2932,3,4,23,61,0,1,1,1.08,2412092
+Queens,Jackson Heights,3099,1,2,11,40,1,0,0,0.25,1328250
+Manhattan,Chelsea,2261,2,2,31,11,0,0,0,2.19,2292437
+Staten Island,Annadale,1573,4,3,6,92,0,0,0,1.33,1009951
+Bronx,Pelham Bay,3247,2,1,11,88,1,1,0,1.51,1501969
+Manhattan,Midtown,3320,0,3,13,99,0,0,1,0.99,2761449
+Staten Island,New Dorp,528,0,2,12,53,0,0,1,1.71,618098
+Staten Island,Stapleton,837,1,1,2,88,1,0,0,1.14,887145
+Queens,Forest Hills,1150,4,4,35,92,1,1,1,1.93,1366057
+Staten Island,New Dorp,2948,4,2,36,10,0,0,0,2.07,1254707
+Staten Island,Tottenville,1621,2,4,17,59,1,0,1,1.71,1516947
+Staten Island,Tottenville,2658,1,1,28,67,1,1,1,1.28,1493382
+Staten Island,Stapleton,1301,4,4,28,77,1,1,0,1.98,978614
+Brooklyn,Flatbush,2492,5,2,22,45,1,1,1,1.29,1583676
+Brooklyn,DUMBO,1702,5,3,38,37,0,0,0,0.37,1531592
+Queens,Flushing,2982,0,4,7,60,0,0,1,0.38,2326146
+Manhattan,Financial District,1833,2,2,15,16,1,1,1,2.38,1795078
+Staten Island,Stapleton,2908,3,2,32,65,0,0,1,0.61,1333011
+Manhattan,Harlem,790,0,1,11,71,1,1,0,2.06,1332853
+Manhattan,SoHo,1467,1,2,24,35,0,1,0,0.69,1936985
+Queens,Long Island City,426,4,3,3,73,0,1,0,1.13,834514
+Staten Island,Great Kills,3241,0,3,30,6,1,1,1,1.67,2013972
+Staten Island,St. George,3422,3,4,6,99,1,1,0,0.48,1492767
+Bronx,Mott Haven,947,3,4,2,15,0,0,0,1.87,812472
+Manhattan,Harlem,3068,5,4,14,13,0,0,0,1.76,2519171
+Manhattan,Financial District,966,1,4,41,79,0,0,1,1.4,1485471
+Brooklyn,DUMBO,1103,0,3,18,24,1,0,1,1.46,1284721
+Bronx,Mott Haven,1642,2,1,44,3,0,1,1,0.35,1026335
+Brooklyn,Park Slope,584,0,4,31,28,1,0,1,1.15,1165861
+Brooklyn,Bushwick,1990,5,1,13,55,1,1,0,0.31,1540232
+Brooklyn,Williamsburg,2313,3,2,26,5,1,1,1,0.84,2201984
+Queens,Jackson Heights,1247,1,2,44,0,0,0,0,2.26,1415430
+Queens,Jamaica,998,1,4,12,38,1,0,1,1.48,1257737
+Brooklyn,Park Slope,1205,2,2,18,0,0,1,0,1.88,1184203
+Bronx,South Bronx,1757,1,1,9,62,1,0,0,1.48,1372674
+Manhattan,Midtown,2526,5,1,49,56,0,0,1,0.57,2735550
+Bronx,Fordham,3026,5,2,21,66,0,0,0,1.53,1886501
+Staten Island,New Dorp,2278,5,4,48,64,1,0,0,1.91,1242901
+Queens,Astoria,2860,1,1,49,64,1,1,0,0.43,1531715
+Manhattan,Harlem,945,1,1,40,20,0,1,0,2.06,1788341
+Manhattan,Financial District,2032,5,3,43,29,0,0,1,1.43,2071546
+Staten Island,Tottenville,2616,1,4,24,95,1,1,1,0.11,1184430
+Staten Island,New Dorp,3128,1,3,34,32,1,1,0,1.35,1654022
+Brooklyn,Bay Ridge,3030,3,2,8,47,0,0,1,1.05,2535811
+Queens,Jamaica,2962,0,2,44,21,0,0,0,0.81,2032260
+Queens,Jamaica,2479,4,3,33,93,1,1,0,1.95,2136834
+Bronx,Fordham,2734,1,4,23,53,0,1,1,2.26,1395395
+Brooklyn,Flatbush,3041,4,1,13,3,1,1,0,1.93,1665330
+Brooklyn,Park Slope,2326,4,2,49,86,1,0,1,2.13,1867725
+Brooklyn,Bay Ridge,1016,3,4,14,54,1,1,0,2.28,1291666
+Brooklyn,Williamsburg,3472,1,4,14,43,1,1,1,2.29,1982005
+Queens,Flushing,2717,5,2,16,88,0,0,1,0.38,1728698
+Queens,Long Island City,1603,4,2,49,11,1,1,0,1.2,1462900
+Brooklyn,Bushwick,2159,1,4,38,80,1,0,1,0.1,1462234
+Bronx,Mott Haven,2965,2,1,39,78,0,0,0,1.32,1823198
+Manhattan,Financial District,3481,5,3,26,73,0,1,1,2.32,2746484
+Manhattan,Chelsea,3030,2,2,26,98,1,0,0,0.58,1915027
+Bronx,South Bronx,625,2,3,1,51,1,0,1,1.64,546368
+Brooklyn,Park Slope,1069,4,4,32,92,1,1,1,1.65,1258112
+Queens,Forest Hills,2163,2,3,15,75,1,0,1,0.48,1801029
+Manhattan,Midtown,1316,3,1,21,64,1,1,0,0.67,1711501
+Staten Island,Stapleton,2573,3,4,18,64,1,0,1,1.21,1139930
+Staten Island,St. George,3403,4,1,30,9,0,0,0,0.55,2026485
+Bronx,Riverdale,2521,1,4,13,17,0,1,1,1.5,1718159
+Brooklyn,Park Slope,1614,0,1,24,46,1,1,1,1.26,1520051
+Manhattan,Chelsea,2105,1,4,30,65,0,1,0,1.35,1968907
+Brooklyn,Bushwick,2242,1,1,2,48,0,0,1,0.42,1861226
+Manhattan,Financial District,2383,1,4,19,71,1,1,0,1.34,2321356
+Bronx,Riverdale,455,1,1,47,21,0,0,0,0.22,712291
+Bronx,South Bronx,1119,5,4,44,85,0,1,0,2.22,1031454
+Staten Island,Great Kills,3000,0,1,47,25,1,0,0,0.92,1835508
+Brooklyn,Williamsburg,2479,5,2,25,89,1,1,0,2.16,1982011
+Staten Island,St. George,973,2,3,14,8,1,0,1,1.78,1225382
+Brooklyn,DUMBO,1066,1,4,6,20,0,1,0,1.94,1284846
+Staten Island,Stapleton,683,3,1,12,94,1,0,1,0.85,874488
+Queens,Astoria,2144,4,2,20,62,0,0,0,0.65,1177186
+Queens,Astoria,2634,4,4,23,5,1,0,0,1.08,2333170
+Queens,Jackson Heights,897,5,4,30,13,1,0,1,0.16,1140778
+Queens,Flushing,1865,5,4,30,32,1,1,1,2.31,1589743
+Manhattan,Chelsea,529,3,3,38,70,1,0,0,1.03,1487997
+Queens,Astoria,1038,1,1,30,23,0,1,0,2.47,871827
+Bronx,Mott Haven,2561,0,1,41,72,0,0,1,1.93,1608424
+Bronx,Pelham Bay,2460,2,4,30,74,1,1,1,0.29,1035069
+Manhattan,Chelsea,2891,4,4,36,86,0,0,0,1.68,2189383
+Queens,Jamaica,2894,2,4,49,50,1,0,0,0.75,1538731
+Queens,Jamaica,1385,0,2,34,1,1,1,0,0.68,1189892
+Queens,Long Island City,1392,5,4,16,14,0,1,1,0.72,1364639
+Staten Island,Great Kills,3162,4,3,24,34,0,0,0,2.3,1649270
+Brooklyn,Bushwick,2521,2,1,14,35,1,1,1,1.3,1660329
+Staten Island,Stapleton,2984,5,3,26,91,1,1,1,1.71,1816653
+Brooklyn,Flatbush,500,0,4,8,38,1,1,0,0.77,1067016
+Queens,Jamaica,2623,2,2,14,3,0,0,0,1.36,2275525
+Queens,Long Island City,826,1,4,31,63,1,1,1,0.94,980885
+Staten Island,Tottenville,440,5,4,2,73,1,0,0,0.87,649763
+Staten Island,Stapleton,828,0,4,48,5,1,1,0,0.69,1009709
+Brooklyn,DUMBO,743,2,4,4,56,1,1,1,1.08,1128630
+Bronx,Mott Haven,765,1,4,1,29,1,0,0,1.68,884174
+Brooklyn,Bay Ridge,1008,1,1,20,98,1,1,1,0.63,1144875
+Staten Island,Tottenville,3104,0,3,14,73,0,1,1,2.42,1442150
+Staten Island,Stapleton,1127,3,2,40,95,1,1,0,0.4,1083663
+Manhattan,Financial District,2676,4,4,25,66,1,1,1,1.25,2864333
+Staten Island,Stapleton,1224,0,2,25,89,0,1,1,0.3,1116044
+Manhattan,Financial District,1775,1,1,3,14,0,1,0,0.15,2116075
+Bronx,Mott Haven,1288,1,3,5,16,1,1,1,2.31,828411
+Brooklyn,DUMBO,2443,0,4,38,90,0,0,0,2.04,1570692
+Brooklyn,Williamsburg,1741,3,1,26,17,1,0,1,1.77,1859726
+Manhattan,Harlem,3431,4,1,40,18,0,0,1,2.18,2227889
+Brooklyn,Bay Ridge,3283,2,3,38,75,0,0,1,2.03,2365064
+Staten Island,Tottenville,1696,0,4,38,87,1,0,1,1.65,1123838
+Queens,Jackson Heights,516,4,3,4,68,0,1,1,2.13,692346
+Manhattan,Midtown,3265,4,3,7,23,1,0,1,1.04,2531400
+Brooklyn,Flatbush,2815,5,2,30,90,0,0,1,1.43,2453802
+Manhattan,Financial District,1517,1,2,30,47,1,1,0,1.96,1617486
+Manhattan,Upper East Side,567,2,3,19,29,0,0,1,0.3,1632478
+Queens,Jamaica,3401,0,2,39,14,1,1,0,2.16,2457480
+Staten Island,New Dorp,2138,1,1,35,46,1,1,1,0.48,1779344
+Manhattan,Midtown,1764,5,3,40,43,1,0,1,2.17,2061717
+Brooklyn,Flatbush,3108,5,4,33,97,1,0,0,0.85,1965644
+Bronx,South Bronx,1094,1,4,33,26,0,1,0,0.88,1222807
+Manhattan,Chelsea,1324,3,1,14,83,1,1,0,0.28,1749576
+Manhattan,Financial District,551,4,4,38,63,0,0,1,2.23,1551917
+Queens,Flushing,985,0,4,10,40,0,1,0,0.52,949404
+Staten Island,New Dorp,1312,0,3,28,95,1,0,1,1.61,679449
+Bronx,Riverdale,2721,0,1,14,67,1,0,1,1.65,1309599
+Brooklyn,Bushwick,1977,1,3,36,4,0,0,0,0.77,1835566
+Bronx,South Bronx,895,3,1,38,52,0,0,1,2.47,828916
+Brooklyn,Park Slope,2548,2,3,16,7,0,1,0,0.25,1384372
+Staten Island,St. George,956,5,3,21,21,1,1,0,1.56,1149381
+Brooklyn,Williamsburg,1505,1,2,28,6,1,0,0,1.25,1383347
+Queens,Long Island City,1952,2,4,33,21,0,0,0,0.69,1628425
+Queens,Forest Hills,2520,5,1,6,45,0,1,1,0.49,2122488
+Queens,Long Island City,3485,5,4,41,29,0,1,1,1.87,1981645
+Queens,Long Island City,556,3,2,15,15,1,1,0,2.3,1003493
+Bronx,Norwood,1134,4,1,44,78,0,1,0,0.36,1129530
+Staten Island,New Dorp,2579,0,2,3,4,0,1,1,0.57,1754111
+Brooklyn,Bay Ridge,3466,2,4,43,66,0,0,1,2.47,2118596
+Brooklyn,Williamsburg,1827,1,3,47,22,0,0,0,0.14,1407512
+Queens,Astoria,958,2,2,35,60,1,0,1,1.32,1074228
+Queens,Long Island City,2554,4,2,14,73,0,0,1,1.34,1451330
+Manhattan,Midtown,2712,0,3,2,4,1,1,1,0.73,2110011
+Staten Island,Tottenville,554,2,4,29,22,1,1,1,1.69,964032
+Bronx,Norwood,3435,4,2,4,78,0,0,0,2.37,1808807
+Brooklyn,Bay Ridge,1396,1,4,26,81,1,0,1,1.18,1552817
+Manhattan,Chelsea,2694,3,3,12,24,0,1,0,1.9,2337188
+Manhattan,Midtown,930,5,1,2,7,0,0,0,1.65,1711790
+Brooklyn,Park Slope,3305,1,2,17,94,0,0,0,1.24,2682958
+Bronx,Norwood,2371,0,4,35,20,0,1,1,0.22,2016720
+Manhattan,Chelsea,2985,5,3,10,1,0,1,1,1.88,2330168
+Manhattan,Chelsea,1128,1,3,48,21,1,1,0,0.97,1951662
+Staten Island,Tottenville,1577,1,2,22,71,1,0,1,0.64,1059021
+Bronx,South Bronx,553,1,1,41,86,0,1,0,2.38,420149
+Manhattan,Harlem,491,1,2,43,95,1,1,0,1.96,1332835
+Bronx,Norwood,2785,5,4,21,71,0,0,1,2.41,2256854
+Brooklyn,Bushwick,1903,0,3,15,67,1,1,1,0.71,1949872
+Queens,Forest Hills,2116,4,1,35,63,1,0,1,2.11,1391814
+Manhattan,Financial District,2897,2,4,48,93,0,0,0,1.56,2765183
+Staten Island,Annadale,2416,3,2,21,18,1,0,0,2.46,1750959
+Brooklyn,Flatbush,3257,2,3,21,86,1,0,1,2.37,1885981
+Bronx,Pelham Bay,1186,2,2,21,81,1,1,0,2.44,993694
+Brooklyn,Williamsburg,672,3,1,44,52,0,0,0,2.38,1180976
+Manhattan,Chelsea,2427,5,1,32,92,1,1,0,0.12,1950418
+Bronx,Mott Haven,3035,0,1,5,86,1,1,1,1.88,1710013
+Queens,Flushing,576,3,1,39,96,1,1,1,0.75,917349
+Brooklyn,Park Slope,3278,0,1,9,51,1,1,1,1.79,1730278
+Manhattan,SoHo,1042,5,2,18,46,1,1,0,2.45,1605205
+Staten Island,Annadale,2298,2,1,21,81,1,0,1,0.19,1583791
+Bronx,Mott Haven,966,0,1,8,53,1,1,0,1.46,694160
+Brooklyn,Williamsburg,1065,5,3,44,43,1,0,0,1.86,1299409
+Brooklyn,Flatbush,1731,5,1,34,96,1,0,0,0.71,1505629
+Queens,Jamaica,3315,4,3,10,6,0,0,1,0.64,1645837
+Queens,Jackson Heights,2198,3,3,41,91,1,1,0,0.24,1750536
+Staten Island,St. George,1469,4,3,24,0,1,1,1,0.33,1300161
+Staten Island,Annadale,2749,2,2,40,62,1,1,0,1.68,1464929
+Manhattan,Harlem,3315,3,2,24,97,1,1,1,1.31,1947319
+Manhattan,SoHo,3359,2,4,32,38,1,0,1,0.17,2360305
+Staten Island,Tottenville,807,4,4,33,18,0,1,1,2.43,1266618
+Staten Island,Annadale,1612,5,3,38,30,0,1,1,1.67,1249018
+Bronx,Mott Haven,3269,2,2,44,76,0,0,1,1.34,2127194
+Queens,Jackson Heights,2253,3,1,49,23,0,0,1,0.75,1264037
+Manhattan,Chelsea,1552,3,4,34,68,1,0,1,1.68,1914392
+Queens,Astoria,3008,2,2,11,86,1,0,1,0.97,2324791
+Queens,Jamaica,1541,3,1,31,82,1,0,0,1.79,1018240
+Staten Island,Stapleton,2911,5,1,18,64,0,0,0,1.74,1945646
+Bronx,Riverdale,543,5,2,23,32,0,0,0,0.32,974025
+Brooklyn,Flatbush,2889,3,4,22,58,0,1,0,2.28,2238514
+Bronx,Riverdale,886,2,2,43,32,0,1,0,1.27,695797
+Bronx,Norwood,1259,4,4,18,31,1,0,1,1.04,959843
+Queens,Astoria,2335,3,3,40,58,1,0,1,2.39,1248540
+Bronx,Fordham,547,3,2,47,91,0,1,1,1.15,837246
+Manhattan,Harlem,1759,3,2,41,40,1,0,1,1.83,2153934
+Queens,Flushing,1757,3,4,47,11,0,0,1,1.67,1867814
+Manhattan,SoHo,3258,2,4,39,72,0,0,0,0.5,1801956
+Brooklyn,Williamsburg,3113,4,2,20,10,0,0,0,2.48,2013685
+Queens,Astoria,489,4,1,13,96,0,0,1,1.21,706576
+Brooklyn,Bushwick,1757,0,1,45,18,1,1,0,1.05,1626050
+Queens,Forest Hills,598,3,1,1,53,1,0,0,2.31,641908
+Staten Island,St. George,937,3,3,4,56,0,0,1,1.37,825543
+Bronx,South Bronx,700,0,3,24,41,0,0,1,1.79,877222
+Staten Island,New Dorp,1123,4,4,36,97,1,1,0,2.13,845459
+Brooklyn,DUMBO,1998,1,3,36,70,1,1,0,0.67,1580585
+Bronx,Norwood,3410,5,1,45,30,0,0,1,0.51,2445887
+Queens,Astoria,1859,1,2,2,51,0,0,0,0.26,1662294
+Bronx,Fordham,467,4,3,28,1,0,0,1,2.25,669135
+Manhattan,Midtown,2906,3,3,26,82,0,0,0,0.58,2923347
+Bronx,South Bronx,1937,1,1,23,37,0,1,0,0.84,1026207
+Manhattan,Financial District,797,2,3,15,31,1,1,1,0.79,1626417
+Bronx,Fordham,1019,2,4,36,9,1,0,0,0.83,1095963
+Manhattan,Midtown,1984,0,2,27,7,0,0,1,1.7,2289243
+Brooklyn,Park Slope,1563,4,1,6,89,0,1,0,2.39,1564931
+Staten Island,Great Kills,1129,4,4,35,93,0,1,0,0.89,1011152
+Queens,Jackson Heights,955,1,1,39,74,0,0,1,1.08,939709
+Bronx,Fordham,2352,3,4,38,19,1,0,0,1.95,1659215
+Staten Island,Stapleton,3228,4,2,35,19,1,0,1,1.14,1810182
+Queens,Long Island City,2151,1,2,36,8,0,1,1,2.32,1558010
+Queens,Jackson Heights,3341,1,4,10,71,1,1,0,1.31,1578350
+Manhattan,Midtown,3057,5,4,30,14,0,1,1,0.93,2504790
+Brooklyn,Williamsburg,3195,5,4,41,97,0,1,1,2.43,2672219
+Brooklyn,Park Slope,2729,4,4,38,87,1,0,1,1.12,2338079
+Staten Island,Great Kills,3108,1,4,29,96,0,1,0,0.65,1859080
+Brooklyn,Williamsburg,3371,0,4,43,62,1,1,1,0.53,2187720
+Bronx,Mott Haven,1395,0,2,39,90,0,1,1,2.49,1110455
+Brooklyn,Williamsburg,2359,5,4,4,20,0,0,0,1.91,1999819
+Staten Island,New Dorp,2001,4,3,5,4,0,1,1,1.08,1803568
+Brooklyn,Bay Ridge,3193,3,2,4,34,0,1,1,2.08,1743956
+Bronx,Norwood,1880,0,1,36,84,1,1,1,1.41,1102343
+Manhattan,Financial District,2534,0,2,45,67,0,0,0,0.86,2519974
+Staten Island,Tottenville,1502,5,1,16,47,1,1,0,1.88,1403347
+Manhattan,Chelsea,3238,5,1,25,79,1,0,0,1.89,2474819
+Manhattan,Harlem,2751,4,3,14,94,0,0,0,1.3,2000167
+Manhattan,Midtown,1803,5,4,11,89,1,1,0,0.21,2269501
+Queens,Astoria,2577,2,4,29,61,0,0,0,0.28,1766530
+Queens,Forest Hills,3043,1,2,34,34,1,1,1,1.99,2299084
+Manhattan,Chelsea,1699,0,4,22,69,1,0,0,2.08,1743969
+Staten Island,St. George,2122,2,3,14,96,0,0,0,1.73,871115
+Bronx,Fordham,3005,3,2,24,20,0,1,0,2.11,1161621
+Bronx,South Bronx,1298,2,2,39,79,1,1,0,1.83,976460
+Brooklyn,Park Slope,1606,4,2,26,38,0,0,1,2.25,1332790
+Staten Island,Tottenville,1935,3,4,43,33,0,0,1,0.46,1210560
+Queens,Forest Hills,477,3,4,36,14,1,0,0,1.03,981549
+Manhattan,Upper East Side,3231,5,4,39,5,1,0,1,1.21,2739483
+Brooklyn,Williamsburg,3121,2,2,16,65,0,1,0,0.81,1695635
+Bronx,South Bronx,1932,4,2,38,87,1,0,1,1.84,995029
+Queens,Jamaica,637,0,1,32,55,0,0,0,2.29,898826
+Queens,Forest Hills,1557,5,1,6,48,0,1,0,1.09,935198
+Manhattan,Harlem,2396,2,4,34,91,1,0,0,2.36,2010193
+Bronx,Norwood,1615,0,2,8,0,0,1,0,1.34,969823
+Staten Island,Stapleton,677,2,4,30,64,1,1,1,1.35,1088630
+Queens,Astoria,3489,5,4,27,27,0,1,0,1.54,2192051
+Manhattan,SoHo,923,0,1,7,99,0,0,1,0.74,1337524
+Staten Island,Stapleton,579,5,3,27,19,0,1,1,1.02,839391
+Bronx,Mott Haven,522,2,4,25,47,1,1,1,1.43,695701
+Queens,Forest Hills,1669,3,3,46,71,1,1,0,2.36,1627977
+Staten Island,Great Kills,2157,1,3,41,64,0,0,1,1.64,1271073
+Staten Island,New Dorp,1494,3,2,15,89,1,0,1,0.9,846568
+Staten Island,Great Kills,879,5,2,25,50,1,0,1,0.13,978896
+Queens,Jackson Heights,3490,5,4,22,42,0,0,0,2.46,2199376
+Queens,Astoria,2197,5,1,18,48,1,1,1,1.28,1798436
+Brooklyn,Williamsburg,2531,0,1,12,24,1,1,0,2.35,1332734
+Bronx,Fordham,3012,4,4,23,73,1,1,1,1.42,1784242
+Manhattan,Harlem,3066,5,4,45,75,0,0,1,1.55,2268374
+Staten Island,New Dorp,2804,3,1,39,40,0,1,0,1.81,1914105
+Brooklyn,Williamsburg,1215,1,3,25,70,1,0,0,0.87,1353024
+Manhattan,Chelsea,3094,5,4,10,63,0,0,1,1.78,3173848
+Brooklyn,Flatbush,842,5,3,30,60,1,0,0,1.36,1067050
+Queens,Jackson Heights,2970,5,4,10,11,0,1,1,1.71,2036314
+Staten Island,New Dorp,542,0,4,34,80,1,1,1,2.11,745440
+Manhattan,SoHo,591,5,3,46,68,0,0,0,0.54,1542143
+Manhattan,Harlem,1810,3,3,13,13,1,1,0,1.57,1835735
+Manhattan,Harlem,777,2,1,29,33,0,0,0,0.23,1522525
+Manhattan,Financial District,3028,4,4,38,47,1,1,1,0.35,2147496
+Manhattan,Harlem,934,5,2,41,60,0,0,1,1.72,2018939
+Brooklyn,Flatbush,2116,0,2,45,80,0,0,1,0.27,1818787
+Staten Island,Stapleton,1432,3,4,9,34,0,0,0,1.53,845966
+Queens,Astoria,1810,5,4,13,64,1,1,0,0.63,1297403
+Queens,Forest Hills,2540,0,4,37,58,1,1,0,0.83,1639313
+Queens,Forest Hills,2389,2,3,14,35,1,1,1,0.41,1550215
+Queens,Forest Hills,2976,1,2,37,78,0,1,0,0.7,1401294
+Brooklyn,Park Slope,1577,5,2,9,18,1,1,0,2.07,1459088
+Bronx,Norwood,804,3,2,8,41,0,0,1,1.63,829933
+Staten Island,Great Kills,3287,0,4,39,68,0,1,0,2.38,1985739
+Manhattan,Midtown,1572,0,3,40,18,0,0,0,0.22,2016150
+Bronx,Mott Haven,1288,5,4,3,38,1,1,1,2.0,1181386
+Queens,Jackson Heights,821,0,1,47,68,0,1,1,1.78,970425
+Bronx,South Bronx,2041,1,1,40,51,1,1,1,0.73,1068317
+Staten Island,Stapleton,871,0,2,33,11,1,0,1,1.85,966997
+Manhattan,Harlem,3340,4,4,32,82,0,1,1,1.82,2891969
+Manhattan,Harlem,946,4,1,7,46,1,0,1,1.2,1598120
+Staten Island,Stapleton,1030,0,1,19,75,0,1,0,1.75,721622
+Staten Island,Tottenville,1437,5,4,34,35,0,0,0,1.17,1442272
+Queens,Forest Hills,3225,4,3,14,62,1,0,1,0.91,1763246
+Manhattan,Midtown,2229,3,4,47,75,0,0,1,1.22,2471272
+Bronx,Fordham,763,4,4,46,81,0,0,0,2.25,1038352
+Brooklyn,Bushwick,2566,0,3,19,50,0,1,1,1.02,1691116
+Brooklyn,Bay Ridge,945,5,2,26,42,1,1,1,1.07,1431509
+Staten Island,New Dorp,2969,2,2,17,33,1,0,0,1.56,1981807
+Queens,Jamaica,1033,5,2,28,96,1,1,0,1.91,1343015
+Brooklyn,DUMBO,2336,5,3,19,48,0,0,1,1.86,1650156
+Manhattan,Harlem,2080,5,1,27,17,0,1,1,0.15,2648824
+Staten Island,Tottenville,1362,3,3,48,60,1,1,0,1.75,823606
+Bronx,Fordham,3405,1,4,19,56,1,1,1,1.18,2221148
+Staten Island,Annadale,1282,0,3,33,92,1,0,0,1.36,919335
+Bronx,Fordham,3227,1,1,7,4,1,1,0,1.45,1332369
+Staten Island,New Dorp,1270,2,1,29,88,1,0,1,1.86,782030
+Staten Island,St. George,915,1,4,43,23,0,1,0,2.1,873072
+Staten Island,Tottenville,3385,0,2,5,92,1,0,0,1.65,1642904
+Bronx,Norwood,1820,0,1,30,63,0,1,0,1.45,835021
+Bronx,Mott Haven,1265,2,1,49,58,0,0,1,1.0,975732
+Staten Island,Annadale,2553,0,1,43,37,0,0,1,0.43,1484280
+Brooklyn,Flatbush,1508,2,4,8,32,0,0,1,2.4,1393607
+Queens,Astoria,613,2,1,42,9,1,1,0,1.21,954137
+Queens,Jackson Heights,3297,0,2,12,36,0,0,0,1.46,2413516
+Queens,Flushing,2644,4,4,42,96,1,1,1,1.9,2096779
+Bronx,Fordham,418,2,2,13,86,0,0,0,0.26,421277
+Bronx,South Bronx,1041,0,1,26,10,1,0,0,2.15,832096
+Brooklyn,Bay Ridge,3483,4,1,18,23,1,0,1,2.01,2593493
+Queens,Long Island City,1504,2,2,42,87,0,1,0,1.96,917716
+Queens,Jamaica,729,4,4,49,70,1,1,0,0.15,1145494
+Staten Island,Stapleton,1265,3,4,20,20,0,1,0,1.36,1090733
+Bronx,Norwood,1173,5,2,16,19,1,1,0,0.23,1333132
+Queens,Forest Hills,791,3,1,37,9,0,1,0,1.42,1091968
+Brooklyn,Williamsburg,1036,4,3,3,88,0,1,0,1.82,1215719
+Brooklyn,DUMBO,2754,2,2,27,46,1,1,1,0.39,1773978
+Queens,Forest Hills,3342,0,2,15,99,1,0,1,1.77,2271917
+Bronx,Norwood,3099,1,2,34,46,0,0,0,1.18,1577381
+Brooklyn,Bay Ridge,3288,0,1,45,14,0,1,1,2.05,2161797
+Staten Island,Great Kills,1425,1,4,22,43,1,1,1,1.38,1153284
+Brooklyn,Bay Ridge,2967,1,1,40,61,0,1,1,0.91,2540100
+Manhattan,Chelsea,2074,2,2,23,5,0,1,0,0.9,1827865
+Manhattan,Financial District,3083,4,1,49,65,0,1,1,2.25,2211308
+Bronx,Mott Haven,1139,0,1,4,75,1,0,0,1.19,792973
+Queens,Flushing,1945,4,2,41,3,0,1,1,1.07,1643842
+Bronx,Riverdale,868,3,1,23,22,0,1,1,0.2,748762
+Bronx,Fordham,2659,2,3,47,12,1,1,0,0.97,1520032
+Bronx,Fordham,1535,2,1,9,80,0,0,1,2.14,898162
+Bronx,Riverdale,1431,3,1,24,30,0,0,0,1.93,958689
+Staten Island,Annadale,3251,0,4,21,15,0,0,1,0.63,2238499
+Staten Island,New Dorp,2924,5,4,41,40,0,0,1,1.09,1344607
+Brooklyn,Park Slope,1273,3,2,46,89,1,1,1,0.57,1644475
+Manhattan,Midtown,859,0,2,16,91,0,0,1,2.39,1469673
+Bronx,Riverdale,2700,1,4,25,0,0,0,0,1.54,1269667
+Brooklyn,Bay Ridge,1949,2,3,26,11,0,0,0,1.91,1605312
+Manhattan,Upper East Side,1151,0,1,49,55,0,0,1,1.81,1633706
+Queens,Long Island City,1861,4,3,45,49,0,0,0,2.2,1129922
+Staten Island,Tottenville,2177,4,3,9,19,1,1,1,2.38,1660976
+Manhattan,SoHo,3428,2,4,15,65,1,0,0,0.18,2949008
+Queens,Astoria,1253,3,2,39,35,0,0,0,2.44,1075507
+Manhattan,Chelsea,2683,5,1,33,78,0,0,0,2.19,1933223
+Staten Island,Stapleton,1729,3,2,1,37,1,1,1,1.02,1041018
+Staten Island,Stapleton,877,0,3,5,21,1,1,0,2.11,963121
+Brooklyn,Bushwick,3126,3,3,9,60,1,1,0,1.87,1703824
+Bronx,Fordham,3491,2,2,44,49,0,1,1,2.0,2446263
+Manhattan,Midtown,2663,0,2,6,95,0,1,1,0.63,2257993
+Manhattan,Harlem,3302,1,4,28,58,0,1,1,1.66,2883158
+Queens,Astoria,534,3,2,45,19,0,1,0,0.16,956904
+Staten Island,Tottenville,3352,3,2,26,35,0,1,0,2.14,1802318
+Manhattan,Harlem,1552,5,4,28,96,0,0,0,2.38,2157984
+Staten Island,Great Kills,809,0,2,40,14,1,0,0,1.69,946298
+Manhattan,Upper East Side,1845,4,3,15,61,1,1,0,1.33,2052245
+Brooklyn,Park Slope,1717,3,2,6,2,0,0,0,1.84,1656954
+Bronx,Fordham,1669,2,1,27,92,0,1,1,0.88,1121976
+Manhattan,Harlem,1979,3,3,38,90,0,0,0,1.6,1939132
+Staten Island,Stapleton,485,5,4,4,4,1,0,0,1.83,853237
+Brooklyn,Bushwick,3003,1,3,11,55,1,1,0,0.44,1736665
+Manhattan,Upper East Side,2265,5,4,21,30,1,0,1,0.44,2717217
+Queens,Jackson Heights,1869,3,1,30,85,1,1,0,1.82,1358509
+Bronx,Norwood,777,4,1,18,34,0,1,1,1.14,694453
+Manhattan,Upper East Side,2080,3,3,35,70,1,0,0,2.23,2018403
+Brooklyn,Flatbush,1474,0,2,3,69,1,1,1,0.85,953043
+Queens,Jamaica,641,3,3,12,25,0,0,1,0.2,922574
+Brooklyn,DUMBO,1319,4,3,27,0,0,0,1,1.66,1444590
+Brooklyn,Bay Ridge,1986,0,1,30,82,0,1,0,1.74,1617956
+Queens,Forest Hills,2713,2,4,21,6,1,1,1,1.43,2452934
+Brooklyn,Flatbush,3159,0,3,38,35,0,1,0,1.74,2680108
+Queens,Astoria,1671,5,2,21,75,1,1,1,1.36,1112739
+Manhattan,SoHo,469,1,1,38,83,1,1,0,1.76,1415929
+Queens,Forest Hills,2504,5,3,40,86,1,0,1,0.21,2109459
+Queens,Forest Hills,1805,0,3,15,24,1,1,1,0.98,1316121
+Bronx,South Bronx,2486,2,2,18,93,0,0,0,0.61,1447379
+Queens,Forest Hills,2407,3,3,29,58,0,1,1,0.34,2058457
+Queens,Jamaica,1200,0,3,48,60,1,0,0,0.66,1271872
+Manhattan,Upper East Side,1441,5,3,38,28,0,0,1,0.56,1930416
+Bronx,Norwood,3179,0,3,21,94,1,0,1,2.44,2044944
+Staten Island,New Dorp,1224,0,2,17,17,1,0,0,0.79,1235391
+Manhattan,Upper East Side,1155,0,3,41,40,0,0,0,0.65,1839601
+Manhattan,SoHo,2799,2,3,18,18,0,1,0,2.1,2320427
+Staten Island,Great Kills,2395,4,3,37,3,1,0,1,1.11,2077512
+Queens,Jackson Heights,2239,4,1,38,64,0,1,0,1.11,1492897
+Brooklyn,Flatbush,1721,0,2,12,40,1,0,0,1.16,1249235
+Bronx,Riverdale,2730,2,1,11,14,0,1,1,1.1,1548162
+Brooklyn,Williamsburg,2009,2,1,48,53,1,0,0,0.88,2146824
+Staten Island,St. George,509,0,2,49,63,1,0,0,0.79,811146
+Manhattan,SoHo,1416,5,1,20,71,0,1,1,2.22,1959582
+Manhattan,Midtown,2361,5,1,9,14,0,1,1,0.49,2249488
+Bronx,South Bronx,2991,1,1,1,78,1,0,1,0.53,1303073
+Manhattan,Financial District,2169,0,2,3,49,0,0,1,1.47,2276027
+Manhattan,Harlem,424,1,3,21,21,0,1,1,0.92,1425808
+Bronx,Pelham Bay,1242,5,4,23,17,1,0,0,1.11,1197300
+Bronx,Riverdale,3238,5,4,9,79,1,0,1,2.04,1843598
+Staten Island,New Dorp,1137,0,2,19,1,0,1,1,2.27,1103018
+Manhattan,Financial District,2504,1,4,45,35,0,0,1,2.0,2695387
+Manhattan,Midtown,579,1,2,46,19,1,0,0,0.66,1542521
+Staten Island,Great Kills,631,0,2,19,15,1,1,0,2.45,651922
+Queens,Flushing,2317,1,4,23,66,1,0,0,0.97,1274463
+Queens,Astoria,742,3,1,27,29,1,1,0,0.51,1182651
+Queens,Flushing,876,5,3,27,54,1,1,1,1.3,1263184
+Staten Island,New Dorp,2222,4,4,39,65,1,0,1,1.84,1715712
+Manhattan,Harlem,3023,2,4,36,98,1,0,1,0.3,2181309
+Staten Island,Annadale,854,1,4,12,25,1,1,0,1.62,955181
+Staten Island,Great Kills,1655,1,4,27,56,0,1,1,2.16,1301323
+Queens,Long Island City,688,2,2,46,68,0,0,0,0.73,866517
+Brooklyn,Flatbush,1636,1,2,34,1,0,1,0,1.76,1899648
+Manhattan,SoHo,2705,2,3,33,55,1,0,0,1.06,2338653
+Queens,Forest Hills,929,0,3,28,83,0,1,1,1.09,1056904
+Brooklyn,Park Slope,3134,3,4,31,61,1,1,1,0.77,1975393
+Brooklyn,Bay Ridge,3376,3,4,32,33,0,1,1,1.6,1785002
+Bronx,Fordham,2676,5,4,20,97,1,0,1,0.97,1660697
+Manhattan,Chelsea,995,4,3,40,55,1,1,0,2.09,1630456
+Brooklyn,Bushwick,834,1,4,35,54,0,1,1,2.41,1205868
+Queens,Astoria,1281,4,1,31,19,1,1,0,2.34,1281689
+Bronx,Fordham,3468,0,3,31,49,0,1,0,0.49,1831637
+Manhattan,Chelsea,2181,3,1,38,24,0,0,0,0.13,2362999
+Staten Island,Tottenville,801,0,4,22,83,0,1,0,1.15,794412
+Queens,Astoria,3069,0,2,45,24,0,0,0,1.85,1516256
+Brooklyn,Williamsburg,2535,1,1,41,52,0,1,0,2.45,2283628
+Brooklyn,Bushwick,3031,0,3,9,13,0,1,0,1.98,2134600
+Queens,Jamaica,1965,3,1,9,59,0,0,1,1.49,1022013
+Brooklyn,Williamsburg,708,4,3,15,42,0,0,1,0.16,1190831
+Bronx,Riverdale,3353,3,4,13,61,0,1,0,2.08,1753559
+Manhattan,Financial District,742,1,1,22,75,1,1,1,0.53,1692944
+Bronx,Fordham,835,3,2,16,68,1,1,1,0.23,860169
+Brooklyn,DUMBO,576,2,1,32,62,0,0,1,2.14,919325
+Staten Island,Annadale,538,4,2,2,1,1,1,1,1.46,679047
+Manhattan,Upper East Side,593,2,3,26,53,1,0,0,0.41,1566757
+Manhattan,SoHo,1584,2,4,14,15,0,1,1,1.03,2075560
+Queens,Jackson Heights,1342,5,4,38,54,0,0,0,0.31,1378092
+Queens,Astoria,924,1,2,34,93,1,0,0,1.63,827842
+Staten Island,Stapleton,2024,0,3,8,42,0,0,1,0.78,870820
+Manhattan,Upper East Side,3362,2,4,36,60,0,1,1,2.18,2309721
+Staten Island,Great Kills,2657,3,3,21,37,0,1,0,0.96,1938018
+Queens,Jackson Heights,1140,0,2,46,44,1,0,0,1.29,1383394
+Queens,Flushing,1261,3,2,43,50,0,0,1,0.25,1079525
+Manhattan,Harlem,1353,3,1,28,41,1,0,1,0.76,1659520
+Bronx,Pelham Bay,1702,0,4,46,23,0,1,0,1.72,1279498
+Brooklyn,Flatbush,1674,0,4,44,29,0,1,1,1.87,1807049
+Queens,Long Island City,2143,3,1,48,36,1,1,0,0.68,1654041
+Queens,Astoria,3280,1,2,6,52,0,0,0,1.31,1609199
+Bronx,Pelham Bay,2587,4,2,20,62,1,1,0,2.06,1354729
+Bronx,Pelham Bay,1191,5,2,31,10,1,1,0,1.01,1272757
+Staten Island,New Dorp,945,4,2,33,77,0,1,1,0.42,871988
+Staten Island,Great Kills,2244,1,3,44,22,0,0,0,1.14,1059069
+Brooklyn,Williamsburg,1416,5,4,7,79,1,1,0,1.54,1331189
+Brooklyn,Flatbush,2327,0,4,8,49,1,1,1,0.12,1969599
+Manhattan,Upper East Side,1953,5,2,9,84,0,1,1,0.94,1871182
+Staten Island,Great Kills,456,3,2,2,54,0,1,0,1.56,749427
+Queens,Forest Hills,2559,4,2,17,54,0,1,1,2.38,1526321
+Staten Island,St. George,404,5,4,45,3,0,0,1,1.08,1112248
+Queens,Jamaica,1837,3,4,37,96,0,0,0,0.49,1095145
+Bronx,Fordham,3484,1,2,42,53,1,0,1,1.38,2463275
+Staten Island,St. George,1762,5,3,44,60,1,0,1,0.79,1214824
+Bronx,Riverdale,2220,3,1,17,77,1,1,1,0.62,985927
+Brooklyn,Park Slope,1682,1,1,38,82,1,1,1,1.52,1654799
+Brooklyn,Bushwick,2537,0,1,35,4,0,0,1,2.3,2228508
+Manhattan,Chelsea,3063,1,4,47,99,1,0,0,2.1,1986364
+Staten Island,St. George,3338,1,4,39,94,0,0,1,0.54,2564562
+Bronx,Mott Haven,3145,4,1,30,17,0,1,0,1.94,1470687
+Queens,Forest Hills,1673,3,1,6,43,0,1,0,0.65,1320257
+Brooklyn,Williamsburg,3345,5,3,4,30,0,1,1,0.8,1585454
+Brooklyn,Williamsburg,3418,4,4,37,93,0,0,1,2.31,1924587
+Queens,Jackson Heights,1531,2,4,35,20,1,0,1,2.29,1323675
+Bronx,Mott Haven,1067,1,1,9,46,0,0,1,0.5,908234
+Bronx,South Bronx,3041,2,3,6,29,0,1,1,0.25,1754160
+Staten Island,Stapleton,3036,4,3,13,54,0,1,1,0.8,1777857
+Staten Island,Great Kills,2932,3,1,22,67,1,0,1,1.5,2070427
+Manhattan,Chelsea,3429,4,1,28,68,0,0,1,2.2,2333274
+Brooklyn,Park Slope,3419,3,4,30,40,0,1,1,0.39,1689596
+Staten Island,Great Kills,1681,3,1,36,44,0,1,1,1.1,1382634
+Bronx,Norwood,3086,0,2,2,73,1,0,1,0.75,1063844
+Queens,Flushing,1396,1,3,36,90,0,0,1,0.14,1122003
+Bronx,Fordham,2326,4,1,8,79,1,1,0,1.99,1334541
+Brooklyn,Flatbush,681,3,2,45,29,1,0,1,2.05,1203216
+Bronx,Riverdale,3433,4,3,42,76,0,0,0,0.63,2510107
+Manhattan,SoHo,1627,4,2,9,99,1,1,0,0.46,1840575
+Brooklyn,Park Slope,2463,3,2,1,84,1,0,1,0.45,1524778
+Queens,Flushing,1335,5,1,13,44,0,1,0,1.21,1143928
+Manhattan,SoHo,653,2,3,15,44,0,0,1,0.69,1433499
+Brooklyn,Flatbush,1611,1,2,32,78,0,1,1,1.33,1357065
+Queens,Forest Hills,728,1,4,34,83,0,0,0,1.02,879474
+Manhattan,Harlem,2991,5,3,43,83,1,0,1,0.61,2943291
+Manhattan,Chelsea,3230,0,4,31,44,1,0,0,1.9,2938858
+Brooklyn,Bay Ridge,3444,5,1,14,54,0,1,0,0.46,1916317
+Staten Island,Great Kills,1820,0,4,47,58,0,0,1,2.02,1019968
+Manhattan,Upper East Side,1940,0,3,14,4,0,0,0,1.45,2441171
+Manhattan,SoHo,3292,5,2,48,31,1,1,0,2.1,2030984
+Queens,Astoria,1592,1,2,29,5,0,0,1,0.11,1707581
+Bronx,South Bronx,2116,2,3,47,93,1,1,0,1.9,1437378
+Brooklyn,Bay Ridge,2813,1,2,19,25,1,1,1,0.22,2544571
+Brooklyn,Flatbush,1601,1,4,27,36,1,1,1,2.38,1362293
+Staten Island,Annadale,1054,1,2,9,12,1,0,1,1.79,830865
+Staten Island,Stapleton,1785,5,2,37,92,0,1,1,0.87,1402349
+Brooklyn,Williamsburg,1159,5,4,37,68,0,0,0,0.87,1628997
+Staten Island,St. George,3086,5,4,43,24,0,1,1,2.17,1513116
+Queens,Long Island City,2198,1,4,28,12,1,0,0,2.27,1875318
+Brooklyn,Bay Ridge,1463,2,1,24,87,1,1,0,2.24,1155571
+Staten Island,Great Kills,3371,0,4,28,94,0,1,1,2.04,1718720
+Brooklyn,Williamsburg,815,4,4,36,19,1,0,1,2.07,1338930
+Bronx,Fordham,654,0,1,18,71,1,1,1,1.47,665999
+Manhattan,Financial District,1566,0,2,25,59,1,0,0,0.17,1592182
+Brooklyn,Bushwick,2276,4,4,35,72,0,1,1,0.31,1491401
+Manhattan,Midtown,3157,1,3,4,20,0,0,0,1.66,2027760
+Staten Island,Annadale,3024,2,4,14,60,0,1,1,1.06,1336391
+Manhattan,Chelsea,1299,2,4,39,83,1,1,1,1.46,1613572
+Brooklyn,Williamsburg,2458,0,1,26,78,0,0,0,0.65,1489791
+Bronx,Riverdale,425,4,3,8,25,0,1,0,1.66,774180
+Staten Island,Great Kills,3404,3,2,24,53,0,0,1,0.68,2469357
+Brooklyn,DUMBO,820,1,2,16,41,1,0,1,1.21,1106239
+Staten Island,Stapleton,1644,0,3,20,10,1,1,1,1.25,1028378
+Queens,Long Island City,2276,2,4,15,36,1,1,0,0.53,1378622
+Manhattan,Upper East Side,2943,5,1,7,10,1,1,1,2.2,2834018
+Queens,Jamaica,1660,5,3,17,26,1,0,1,1.36,1497158
+Brooklyn,Flatbush,2684,4,3,22,93,0,0,0,2.18,2466421
+Bronx,Pelham Bay,1408,4,2,22,82,0,1,1,0.73,799106
+Staten Island,Annadale,618,0,1,12,33,1,0,0,0.51,766033
+Manhattan,Upper East Side,1910,3,3,18,37,1,1,0,0.14,2045376
+Staten Island,Tottenville,2359,2,1,46,60,0,1,1,0.33,1893543
+Brooklyn,Park Slope,2908,0,4,47,86,1,1,1,0.45,2327782
+Staten Island,Tottenville,1062,3,2,15,52,1,0,0,0.29,944934
+Manhattan,Harlem,3082,4,4,37,64,1,0,0,2.25,2668480
+Brooklyn,DUMBO,1389,5,1,16,2,1,1,1,2.29,1646006
+Staten Island,Tottenville,588,1,4,5,66,1,0,0,2.35,574076
+Bronx,Riverdale,654,5,2,2,27,0,1,0,2.4,640734
+Brooklyn,Park Slope,467,2,1,28,13,0,1,1,1.28,1009207
+Brooklyn,Bay Ridge,1015,2,3,41,51,1,0,0,1.37,1077868
+Bronx,South Bronx,2783,5,4,27,29,1,1,0,0.41,1621071
+Queens,Flushing,3118,5,2,31,57,0,1,0,0.43,2564111
+Manhattan,Midtown,3268,3,3,41,53,1,1,0,1.95,2769410
+Queens,Long Island City,1273,0,2,36,68,0,1,0,2.15,1182212
+Staten Island,Tottenville,2747,4,1,47,14,1,1,0,1.98,1900764
+Bronx,Norwood,2025,3,1,43,37,0,0,1,2.1,1524667
+Queens,Long Island City,756,1,4,1,77,0,0,1,0.76,1002868
+Brooklyn,Flatbush,655,5,2,29,13,1,1,1,1.22,1403909
+Staten Island,Annadale,1407,1,2,1,56,1,0,1,1.2,958581
+Staten Island,Tottenville,2800,1,2,8,58,0,1,0,2.49,1367180
+Queens,Forest Hills,2155,3,1,16,7,1,1,1,2.38,1467732
+Queens,Astoria,2971,4,4,28,71,0,1,0,1.54,1771113
+Bronx,South Bronx,3397,2,2,22,18,1,1,1,0.43,1649115
+Manhattan,SoHo,3203,0,2,18,31,1,0,0,0.72,2841170
+Queens,Jackson Heights,683,2,3,22,94,1,0,1,0.97,950052
+Queens,Flushing,498,4,2,41,28,0,1,0,2.2,1072657
+Brooklyn,Williamsburg,596,2,4,12,40,0,0,1,0.51,1042661
+Staten Island,St. George,2929,5,3,19,74,1,1,1,0.63,1835786
+Manhattan,SoHo,1277,5,3,25,44,0,0,1,0.94,1788550
+Brooklyn,Bay Ridge,2268,3,3,5,12,1,1,1,2.32,2038843
+Bronx,Mott Haven,3062,1,1,34,26,0,1,1,1.31,1824019
+Bronx,Mott Haven,3065,4,3,39,18,1,1,0,1.65,1637806
+Queens,Long Island City,1788,4,2,10,25,0,0,1,1.03,1703265
+Queens,Astoria,2815,2,1,47,52,0,0,0,0.55,1470665
+Bronx,Riverdale,969,3,1,7,50,0,1,1,0.63,808239
+Queens,Forest Hills,3037,2,1,37,36,0,0,1,2.03,1752892
+Manhattan,Chelsea,1465,2,1,47,8,0,0,1,2.24,1877873
+Queens,Flushing,821,4,1,15,91,0,0,0,1.28,895312
+Staten Island,Great Kills,3283,2,1,42,95,1,0,1,0.96,2266545
+Queens,Long Island City,1604,1,1,24,51,1,0,1,2.04,1136881
+Brooklyn,Bushwick,944,2,3,26,53,0,0,0,1.72,1395348
+Manhattan,Harlem,470,1,4,26,2,1,0,0,0.2,1651893
+Brooklyn,Flatbush,1623,4,2,46,95,0,0,0,0.94,1323679
+Brooklyn,Bushwick,1167,3,2,26,68,1,0,0,1.74,1240048
+Staten Island,New Dorp,2754,5,3,10,7,1,0,1,1.48,1938883
+Manhattan,Midtown,2106,1,3,17,13,1,0,0,2.45,1697810
+Manhattan,Financial District,2824,3,1,14,2,1,0,0,2.18,1997434
+Manhattan,Financial District,1054,3,4,2,23,0,0,1,0.24,1619589
+Manhattan,Financial District,3125,1,1,48,12,1,1,0,1.84,2695204
+Manhattan,Harlem,2846,4,3,13,42,1,1,0,0.91,2166543
+Staten Island,Stapleton,2196,0,1,27,28,1,0,0,1.74,1275786
+Queens,Astoria,620,3,2,9,71,0,0,1,1.58,793696
+Brooklyn,DUMBO,581,3,2,7,50,1,0,0,1.31,852650
+Manhattan,Chelsea,706,4,1,48,41,0,1,0,2.15,1459101
+Queens,Flushing,2969,4,4,10,30,0,1,0,1.8,2390210
+Queens,Forest Hills,1819,2,1,9,62,1,0,1,2.23,1423804
+Brooklyn,Williamsburg,1413,4,1,22,25,0,0,1,0.78,1292230
+Staten Island,New Dorp,2451,3,4,23,17,1,0,0,0.94,1202991
+Bronx,Norwood,3310,1,4,7,81,1,0,1,1.59,1685080
+Bronx,Mott Haven,1247,0,4,48,56,1,0,0,2.42,791165
+Queens,Forest Hills,1203,2,2,9,6,1,1,1,0.99,1379523
+Brooklyn,Bay Ridge,614,1,1,27,47,1,0,1,0.18,1125032
+Bronx,Riverdale,3419,0,3,24,79,1,1,0,1.17,2393818
+Queens,Astoria,1843,0,4,29,59,1,0,0,1.41,1661346
+Staten Island,Stapleton,500,0,4,17,32,0,0,0,2.02,683730
+Bronx,Riverdale,3410,5,1,20,2,0,1,1,1.85,2137177
+Queens,Astoria,972,1,3,7,3,1,1,0,2.42,1224291
+Queens,Astoria,1732,2,1,43,99,1,0,1,1.98,1296754
+Manhattan,Chelsea,1057,2,1,40,3,0,1,1,0.82,1500014
+Staten Island,New Dorp,3386,0,4,7,41,1,0,0,1.64,1765983
+Manhattan,Midtown,1933,1,4,28,8,0,1,1,1.71,1834576
+Brooklyn,Bay Ridge,2056,5,2,19,50,0,1,1,2.5,1858660
+Manhattan,Harlem,625,0,3,20,16,1,0,0,0.43,1564843
+Manhattan,Chelsea,504,4,3,44,16,1,0,1,0.56,1689447
+Bronx,South Bronx,2397,2,4,39,96,0,1,1,0.47,1395438
+Queens,Jackson Heights,1171,3,4,40,19,0,0,0,1.51,1389325
+Staten Island,St. George,828,0,4,7,13,1,1,0,0.42,821168
+Manhattan,SoHo,833,4,3,6,21,1,1,0,1.67,1552258
+Staten Island,New Dorp,1630,2,2,25,51,0,0,1,2.03,1346015
+Manhattan,Upper East Side,3499,5,3,41,26,0,1,1,1.14,3259191
+Brooklyn,Williamsburg,3129,1,4,13,42,0,0,1,1.45,2206392
+Manhattan,Financial District,3035,2,4,39,2,1,0,0,2.29,2319512
+Bronx,South Bronx,1265,1,2,40,87,1,1,1,1.47,1171449
+Queens,Jackson Heights,3193,1,1,22,93,1,0,1,0.6,2266270
+Brooklyn,Williamsburg,3311,5,1,49,7,0,1,1,0.92,2055826
+Manhattan,SoHo,2815,5,3,17,85,0,1,0,1.37,2726856
+Staten Island,St. George,650,0,1,48,88,1,0,0,0.47,784219
+Brooklyn,DUMBO,3306,0,1,22,9,0,0,0,1.57,1615772
+Brooklyn,DUMBO,1255,2,3,34,28,0,1,1,2.5,1555725
+Manhattan,Chelsea,1593,5,4,8,39,0,0,1,1.67,1768895
+Brooklyn,Bay Ridge,960,4,1,49,64,0,1,0,0.99,1182689
+Staten Island,Tottenville,1869,2,4,45,20,0,1,0,0.9,1609541
+Brooklyn,DUMBO,2741,3,3,18,23,1,1,1,2.34,2248557
+Staten Island,St. George,1318,1,4,24,72,1,1,0,2.19,812410
+Manhattan,Chelsea,1573,1,4,42,59,1,1,1,1.23,2294918
+Queens,Flushing,832,0,3,2,25,1,0,0,0.95,910521
+Brooklyn,DUMBO,2506,4,4,2,8,1,1,0,1.81,2412530
+Queens,Jackson Heights,1368,5,1,27,19,0,1,0,0.85,1552859
+Staten Island,Tottenville,1235,5,1,14,55,0,1,1,0.39,952205
+Brooklyn,Park Slope,2646,0,1,48,98,0,1,0,0.84,1401916
+Bronx,Norwood,2662,3,1,39,35,1,1,1,1.14,1597041
+Queens,Jackson Heights,1297,2,4,12,35,0,1,0,0.71,1003160
+Brooklyn,Bay Ridge,871,2,1,32,72,0,0,0,0.62,1074918
+Queens,Astoria,646,4,4,28,21,0,0,1,0.11,1119173
+Brooklyn,Bay Ridge,2829,0,2,28,0,1,1,1,1.61,1774913
+Manhattan,Midtown,1390,0,4,46,68,0,1,0,1.57,1901358
+Queens,Jackson Heights,1326,3,1,25,72,0,1,1,0.55,1046897
+Bronx,South Bronx,1591,2,2,4,36,1,0,0,2.36,1018477
+Bronx,Riverdale,3007,0,3,26,82,1,1,1,1.08,1227256
+Staten Island,Great Kills,1474,5,4,36,71,0,1,1,0.16,1490716
+Brooklyn,Bay Ridge,2234,4,1,3,95,1,1,0,0.63,1611106
+Queens,Flushing,1088,2,1,1,12,0,1,0,1.76,1134828
+Staten Island,Stapleton,2827,3,1,17,83,1,1,1,0.58,1167387
+Queens,Forest Hills,2921,4,3,7,99,0,1,1,0.23,1348248
+Brooklyn,Flatbush,3144,1,2,48,42,0,0,0,1.58,1631339
+Bronx,Pelham Bay,1884,5,2,5,36,1,1,1,1.34,1003545
+Manhattan,Upper East Side,3358,3,1,19,93,1,1,1,1.93,2077898
+Bronx,Fordham,1359,4,4,39,73,1,1,1,1.95,1003307
+Staten Island,Stapleton,877,0,1,46,94,1,1,1,2.4,763688
+Manhattan,Financial District,3451,1,1,34,24,0,1,0,0.24,3167896
+Staten Island,Great Kills,3373,3,4,35,92,1,1,0,0.19,1787547
+Brooklyn,Bay Ridge,1106,0,1,49,87,0,1,1,2.47,1244102
+Manhattan,SoHo,3301,5,3,16,20,0,1,1,1.65,3242025
+Staten Island,Great Kills,1537,1,1,40,40,0,1,0,1.82,1294111
+Brooklyn,Bay Ridge,3464,2,3,47,72,1,0,1,0.33,2433352
+Bronx,Norwood,1153,0,1,39,41,0,0,1,0.27,1143557
+Brooklyn,Bushwick,2950,4,2,27,41,0,0,1,0.48,2550868
+Queens,Jamaica,2059,3,4,41,1,1,1,1,1.13,1585129
+Brooklyn,DUMBO,3264,1,2,38,67,0,0,1,0.36,2204903
+Brooklyn,Williamsburg,987,0,1,25,7,0,0,0,1.17,1188832
+Queens,Astoria,1734,2,1,26,95,0,0,1,1.45,1476526
+Staten Island,Annadale,1892,3,3,14,60,1,0,1,0.1,1607478
+Staten Island,St. George,2247,3,1,14,13,0,1,1,0.37,1255712
+Brooklyn,Flatbush,3155,0,1,14,76,0,0,0,1.0,2230044
+Queens,Jamaica,606,2,1,25,20,0,0,1,0.23,919392
+Queens,Flushing,2598,5,2,36,23,1,1,1,0.42,1712143
+Bronx,Riverdale,3115,5,3,4,49,1,0,0,0.66,2157198
+Staten Island,St. George,2975,1,2,47,81,1,1,0,1.13,1606482
+Manhattan,Chelsea,564,0,3,15,44,0,0,0,1.82,1369730
+Staten Island,Stapleton,3364,1,2,32,63,0,0,0,0.42,2483423
+Staten Island,Stapleton,2398,5,1,18,63,0,0,1,1.87,1314956
+Bronx,South Bronx,3457,3,2,14,25,0,1,1,2.15,1884360
+Manhattan,Chelsea,2484,1,2,1,31,0,0,1,1.66,2538787
+Bronx,Norwood,732,2,3,42,56,1,0,0,0.2,982799
+Manhattan,Midtown,802,4,3,20,52,0,1,1,1.16,1861799
+Brooklyn,Park Slope,813,5,2,10,32,0,0,0,1.68,1217445
+Manhattan,Chelsea,444,5,3,10,51,1,0,0,2.45,1460881
+Bronx,Mott Haven,2653,2,3,24,94,1,0,1,2.38,1192449
+Staten Island,St. George,461,1,3,34,17,0,0,0,1.05,876644
+Manhattan,Chelsea,2867,0,4,28,34,1,0,0,1.58,2927934
+Manhattan,Chelsea,1267,3,3,27,11,1,1,1,2.24,2029960
+Queens,Long Island City,1891,4,4,40,50,1,1,1,2.09,1300356
+Staten Island,Stapleton,3267,0,4,1,88,0,1,0,1.25,1186718
+Brooklyn,Williamsburg,418,0,3,33,94,1,0,1,0.73,882779
+Bronx,Mott Haven,764,2,2,4,9,0,0,1,0.43,904287
+Brooklyn,DUMBO,3478,1,3,7,51,1,0,0,1.27,2215947
+Staten Island,Stapleton,2875,5,1,9,33,0,0,0,1.83,1871338
+Manhattan,Midtown,1540,5,2,16,66,0,0,1,2.43,1840662
+Manhattan,Harlem,979,2,4,5,38,0,1,1,2.17,1789735
+Staten Island,Stapleton,945,1,4,34,7,1,1,0,0.59,1146411
+Manhattan,Midtown,2129,2,2,23,95,1,1,1,1.83,2045433
+Manhattan,Chelsea,2772,5,2,43,28,1,0,0,0.79,2476499
+Manhattan,Midtown,454,0,3,25,21,0,1,0,1.74,1396689
+Bronx,Fordham,1177,3,4,13,83,1,1,1,1.7,780564
+Bronx,Norwood,3439,1,1,24,69,1,1,1,0.75,2500710
+Queens,Astoria,441,4,3,11,60,0,1,1,0.66,939981
+Brooklyn,Flatbush,1720,4,2,17,42,1,0,1,0.35,1832873
+Staten Island,St. George,630,0,4,37,48,0,0,1,0.22,999731
+Staten Island,Great Kills,852,2,2,13,28,1,1,0,2.16,856582
+Staten Island,New Dorp,2841,2,2,27,80,0,1,1,0.22,1367217
+Queens,Jamaica,1945,5,2,20,30,0,1,0,0.31,1748022
+Bronx,Mott Haven,1781,0,3,33,52,1,1,1,0.67,1049171
+Queens,Long Island City,1867,5,1,42,33,0,1,0,2.23,1475913
+Staten Island,Great Kills,1551,5,1,32,37,1,1,1,0.9,1068958
+Brooklyn,Park Slope,3138,4,4,8,56,1,1,1,0.56,1994238
+Manhattan,Financial District,2839,5,2,29,3,1,1,0,1.82,2734053
+Bronx,Fordham,1616,5,1,40,1,1,1,1,0.87,1128911
+Bronx,Norwood,3051,4,2,19,11,0,0,1,0.9,1257837
+Queens,Forest Hills,1280,2,4,6,34,0,1,0,1.87,1266022
+Bronx,Fordham,484,1,2,44,69,0,0,0,0.7,733348
+Staten Island,St. George,1453,3,1,39,71,1,0,0,2.25,1104047
+Staten Island,New Dorp,448,5,2,48,20,1,1,1,1.45,807878
+Queens,Astoria,1568,1,1,41,60,0,1,0,1.39,1290742
+Staten Island,Annadale,468,4,4,21,34,0,0,0,0.74,885195
+Brooklyn,Williamsburg,3144,1,2,22,47,1,0,1,2.1,2209683
+Queens,Jamaica,2926,3,1,42,14,1,1,1,1.47,1524941
+Brooklyn,Bushwick,3267,1,4,10,70,1,0,1,0.47,2792204
+Manhattan,Harlem,2101,1,2,10,14,0,1,1,0.6,1869172
+Brooklyn,Bay Ridge,1998,1,4,29,5,1,1,1,1.22,1441936
+Manhattan,Midtown,2594,1,1,16,80,0,0,1,1.97,1975252
+Manhattan,SoHo,2269,0,2,1,67,1,1,0,2.35,1861476
+Brooklyn,DUMBO,1415,5,2,17,21,0,0,0,1.69,1752938
+Queens,Jamaica,3056,4,2,30,31,1,1,1,1.31,1519292
+Staten Island,Great Kills,845,3,4,26,21,0,1,0,0.7,945266
+Staten Island,Stapleton,2668,4,4,46,26,0,0,0,1.71,1668704
+Manhattan,Midtown,1801,0,1,19,14,0,0,0,2.46,1962323
+Manhattan,Chelsea,2542,0,3,21,43,1,1,0,1.24,1833530
+Queens,Jamaica,661,0,2,17,85,0,1,1,0.49,628133
+Bronx,South Bronx,2248,5,2,46,91,0,0,1,0.35,1121308
+Brooklyn,DUMBO,1296,0,1,40,8,1,1,0,0.75,1333477
+Manhattan,SoHo,1494,1,2,21,33,0,0,1,1.47,1969097
+Staten Island,Annadale,2666,4,4,41,99,0,0,0,2.37,1878930
+Queens,Astoria,1956,2,4,40,72,1,0,0,0.82,1646911
+Brooklyn,Park Slope,491,3,2,45,14,0,1,1,0.83,1023304
+Queens,Jamaica,526,0,2,49,61,1,0,0,1.25,962795
+Brooklyn,Park Slope,479,4,4,19,44,0,1,1,2.3,1039595
+Brooklyn,Bay Ridge,2247,0,2,7,83,1,0,1,1.11,1189702
+Manhattan,SoHo,1382,5,4,17,71,0,1,1,0.64,1817165
+Queens,Forest Hills,1315,0,3,1,57,0,1,1,0.49,1257182
+Queens,Astoria,2933,0,3,37,91,0,0,1,1.2,1640789
+Staten Island,Tottenville,1093,0,2,6,18,1,0,1,2.02,695558
+Staten Island,Tottenville,424,0,2,26,15,0,0,1,0.8,673756
+Manhattan,Financial District,555,3,2,2,74,0,1,1,1.33,1537423
+Manhattan,Midtown,3079,4,4,32,7,1,1,1,1.55,2125649
+Bronx,Fordham,2212,5,3,48,32,1,1,0,1.18,1547528
+Staten Island,New Dorp,1953,0,3,5,73,1,0,1,0.56,1068102
+Brooklyn,Park Slope,2366,0,1,37,17,0,0,0,2.31,1565599
+Queens,Flushing,2133,0,1,31,34,0,0,1,1.46,1220642
+Manhattan,Chelsea,1480,0,2,12,42,0,0,0,1.85,1501229
+Queens,Long Island City,2028,1,4,35,49,1,0,1,1.63,1363153
+Queens,Jackson Heights,418,1,2,30,2,1,1,1,2.5,855886
+Bronx,Pelham Bay,1807,2,3,48,90,0,0,1,1.2,1188653
+Staten Island,New Dorp,1616,0,2,6,58,0,1,0,1.12,1227157
+Manhattan,Harlem,2684,2,2,15,27,1,0,0,0.96,1917236
+Queens,Flushing,1810,3,3,15,45,1,0,1,0.97,1701098
+Manhattan,Chelsea,676,2,3,16,63,1,0,0,0.76,1548125
+Brooklyn,Flatbush,1144,4,3,20,69,0,0,1,2.45,972863
+Bronx,South Bronx,951,1,3,13,46,1,0,0,2.19,1047007
+Brooklyn,Flatbush,1576,1,1,44,13,1,1,0,0.86,1392324
+Manhattan,SoHo,1038,0,4,42,6,1,0,0,0.83,1965048
+Manhattan,SoHo,636,0,4,46,73,1,1,1,0.35,1296522
+Staten Island,Great Kills,1397,3,3,31,78,0,1,0,2.2,1063216
+Queens,Jackson Heights,2502,5,4,34,30,1,1,0,0.99,1867555
+Queens,Forest Hills,2403,3,4,29,92,0,1,1,1.47,1416267
+Brooklyn,Flatbush,1859,4,4,3,80,0,0,1,2.26,1585968
+Bronx,Pelham Bay,3131,0,4,9,50,1,0,0,1.08,1808420
+Queens,Forest Hills,2556,0,3,11,28,1,0,0,2.04,1619040
+Staten Island,Great Kills,1607,3,2,11,14,0,0,1,1.13,1490455
+Brooklyn,Park Slope,1791,3,2,25,89,1,0,1,1.78,1902159
+Brooklyn,Flatbush,2406,3,2,22,75,0,1,1,1.13,2193656
+Staten Island,Great Kills,1621,1,1,42,24,1,0,1,1.04,1630087
+Bronx,Norwood,1794,2,4,46,60,0,0,1,2.48,1140501
+Staten Island,Great Kills,772,2,3,9,40,0,1,0,1.57,816552
+Bronx,Riverdale,3420,0,3,20,68,0,0,1,0.98,1416995
+Staten Island,Annadale,1920,1,1,21,3,1,0,1,0.72,1766925
+Staten Island,St. George,2648,3,3,10,56,0,1,0,0.2,1109505
+Manhattan,Midtown,1248,0,2,22,30,0,0,1,1.8,1617364
+Brooklyn,Bushwick,2956,1,1,29,2,1,1,1,0.99,1707010
+Staten Island,Tottenville,1745,4,3,9,66,1,1,1,2.07,1106840
+Staten Island,Stapleton,2722,5,1,5,89,0,0,0,0.97,1123304
+Queens,Long Island City,2658,1,1,40,49,0,1,1,1.0,1869831
+Brooklyn,Williamsburg,903,0,3,11,16,1,0,1,1.97,1008479
+Queens,Forest Hills,1102,2,2,1,59,0,0,1,1.27,1076217
+Brooklyn,Williamsburg,2489,3,3,42,73,1,0,1,2.22,2271643
+Queens,Flushing,714,5,4,1,65,1,1,0,1.52,1094967
+Staten Island,Stapleton,3235,4,4,39,87,1,1,0,0.68,1433797
+Staten Island,New Dorp,2776,5,3,46,74,0,1,1,1.46,2090014
+Manhattan,Chelsea,1440,5,2,5,23,1,1,1,0.11,2103876
+Queens,Jackson Heights,682,1,4,49,98,0,1,1,0.85,767124
+Bronx,Riverdale,3390,0,4,22,86,0,1,1,0.6,2042673
+Manhattan,Financial District,657,0,3,26,31,1,1,1,1.67,1581384
+Queens,Astoria,974,5,3,6,86,1,1,1,0.43,1088846
+Queens,Jamaica,973,3,3,32,97,1,1,1,0.8,864675
+Manhattan,Chelsea,3059,0,1,48,18,1,1,0,0.9,2649551
+Staten Island,Great Kills,1442,5,1,11,65,0,1,1,0.11,1240731
+Queens,Forest Hills,1952,0,1,10,59,0,0,0,0.21,1130145
+Staten Island,New Dorp,3284,3,3,47,65,1,1,0,0.85,2278067
+Manhattan,Harlem,822,4,2,39,14,0,0,1,0.63,1832349
+Staten Island,Tottenville,1889,5,4,34,84,1,0,0,0.38,1510511
+Brooklyn,Williamsburg,1796,2,1,31,34,0,0,0,0.47,1501168
+Bronx,Pelham Bay,1157,2,2,12,68,0,0,0,2.11,679112
+Queens,Jackson Heights,3210,5,3,44,26,0,1,1,1.74,2561156
+Bronx,Mott Haven,1504,1,1,16,87,1,0,0,1.26,1135325
+Staten Island,Stapleton,1974,4,3,38,6,0,0,0,2.28,1320925
+Queens,Astoria,2871,1,2,3,5,0,0,1,0.17,1726049
+Staten Island,Great Kills,828,2,1,2,32,0,1,1,0.93,905658
+Brooklyn,DUMBO,2421,3,1,5,57,0,0,0,2.08,1954061
+Manhattan,Upper East Side,603,5,1,11,48,1,0,1,1.61,1592492
+Queens,Forest Hills,2643,0,1,25,16,0,1,1,2.46,1757971
+Brooklyn,Park Slope,3175,2,2,35,41,1,1,0,2.37,2517455
+Brooklyn,DUMBO,2732,4,1,35,93,1,1,0,0.51,2267245
+Queens,Long Island City,2392,2,4,22,71,0,1,0,2.43,1235335
+Staten Island,Annadale,2643,4,4,37,39,0,1,1,2.37,1771058
+Brooklyn,Bay Ridge,706,4,3,22,45,1,1,0,1.0,1224414
+Bronx,Riverdale,2087,5,1,11,70,1,1,0,2.46,1387216
+Brooklyn,Bushwick,413,4,4,32,69,1,1,1,0.19,995682
+Staten Island,Stapleton,2260,1,4,35,67,0,1,1,1.69,1333012
+Staten Island,New Dorp,2361,3,4,31,0,0,0,1,0.74,1533102
+Bronx,Mott Haven,1480,2,2,45,78,1,1,1,0.41,920933
+Brooklyn,Flatbush,1122,3,1,8,94,1,0,0,1.49,936318
+Staten Island,Annadale,1179,0,2,20,88,1,0,0,0.84,953135
+Queens,Jamaica,1633,2,2,42,96,0,1,0,1.7,1172579
+Manhattan,Midtown,928,3,4,34,51,0,1,1,1.4,1690270
+Manhattan,Chelsea,1197,3,4,4,34,1,1,0,1.04,1785164
+Manhattan,Harlem,743,5,3,18,68,0,1,1,0.54,1629523
+Brooklyn,Park Slope,1702,5,1,4,4,1,0,1,1.54,1638142
+Bronx,Norwood,608,0,1,20,99,0,0,1,2.09,421452
+Staten Island,Annadale,1040,4,4,9,16,1,1,0,1.54,985791
+Queens,Forest Hills,1711,2,4,16,52,0,0,1,1.57,1571413
+Queens,Flushing,2699,5,1,26,51,0,1,0,1.33,1832404
+Brooklyn,Bushwick,2718,2,3,38,13,0,0,0,1.03,2245898
+Manhattan,Harlem,2347,0,4,25,28,0,0,0,1.2,2308260
+Brooklyn,Williamsburg,1319,5,3,4,7,0,1,1,2.47,1145732
+Bronx,Riverdale,2123,5,2,41,97,0,1,0,1.9,1459353
+Bronx,Riverdale,2444,4,4,45,0,0,0,0,1.13,1259434
+Staten Island,Stapleton,818,2,2,41,28,1,1,1,1.2,1174018
+Staten Island,Tottenville,2149,2,4,38,35,1,0,0,1.3,1316839
+Bronx,South Bronx,3242,2,2,19,50,1,1,1,1.68,1835549
+Bronx,Riverdale,1788,4,4,14,36,0,1,0,1.22,872682
+Bronx,Riverdale,1499,5,3,21,92,0,1,1,1.75,1344396
+Brooklyn,Bay Ridge,3172,0,3,15,68,0,1,1,0.89,2674429
+Bronx,Fordham,2880,2,3,3,52,1,1,1,1.09,1204677
+Queens,Jackson Heights,2556,3,2,37,95,1,1,1,2.17,1280527
+Manhattan,SoHo,3088,4,3,46,51,1,1,1,0.89,2063943
+Bronx,Fordham,1945,1,2,16,87,1,0,0,2.41,1411318
+Manhattan,Harlem,1470,0,4,14,82,1,1,0,0.51,1642204
+Brooklyn,Bay Ridge,2826,3,2,9,11,1,0,0,0.68,2018211
+Manhattan,Harlem,2250,2,4,47,51,0,1,0,1.21,1704858
+Brooklyn,Bay Ridge,1519,1,1,7,0,1,0,1,2.01,1509091
+Queens,Long Island City,1357,0,1,14,6,0,1,1,1.86,1230273
+Brooklyn,Williamsburg,502,4,1,6,16,1,1,0,0.52,1154636
+Brooklyn,Bay Ridge,3339,1,2,21,97,1,0,1,0.67,2517413
+Staten Island,New Dorp,3301,5,1,15,42,0,1,0,1.48,1410482
+Bronx,Pelham Bay,1569,1,1,8,70,0,1,1,0.81,952633
+Bronx,Mott Haven,2303,3,1,34,16,0,1,1,1.11,1694748
+Queens,Flushing,3498,0,4,40,58,1,1,0,1.27,2024449
+Queens,Jackson Heights,2155,3,3,1,2,1,1,0,1.53,1269680
+Bronx,Mott Haven,2977,3,2,32,28,0,0,1,0.7,2148968
+Staten Island,Great Kills,1078,2,1,49,21,1,1,0,0.49,1230644
+Bronx,Pelham Bay,2368,4,4,5,37,0,0,0,1.06,1957750
+Staten Island,Annadale,1388,1,3,30,53,1,0,0,0.3,1233410
+Queens,Flushing,1505,0,3,22,92,1,0,0,1.36,966562
+Manhattan,Chelsea,2875,5,3,20,49,1,0,1,2.12,2397494
+Queens,Forest Hills,2007,4,4,16,68,0,0,1,0.39,1185351
+Queens,Jackson Heights,3269,4,1,7,29,1,0,1,0.37,1852673
+Brooklyn,Bushwick,1902,0,3,7,22,0,0,1,0.29,1326160
+Brooklyn,Park Slope,2189,4,4,2,84,0,0,0,2.13,1311323
+Brooklyn,DUMBO,1585,2,4,47,89,0,1,0,0.29,1760716
+Brooklyn,Bushwick,1331,4,2,14,46,0,0,0,2.46,1529567
+Staten Island,Tottenville,1825,2,4,31,20,0,1,1,0.96,1778277
+Bronx,Fordham,1461,1,3,41,19,0,0,1,0.89,982758
+Manhattan,Financial District,2378,1,3,14,22,0,0,1,0.32,2600777
+Queens,Astoria,2958,3,4,5,67,0,1,1,1.51,1424092
+Staten Island,New Dorp,2840,2,3,11,20,0,0,0,1.51,1697148
+Manhattan,SoHo,2442,5,4,40,20,1,1,0,1.29,2559044
+Staten Island,Annadale,3160,1,3,5,0,0,0,0,0.85,1737266
+Staten Island,New Dorp,2941,4,2,29,14,1,1,1,0.98,2460772
+Queens,Long Island City,1678,0,1,11,16,0,1,1,0.87,1218068
+Bronx,South Bronx,1602,0,2,5,50,1,0,1,1.12,1005128
+Brooklyn,DUMBO,2994,2,2,49,62,1,0,1,0.92,1648540
+Bronx,Pelham Bay,993,5,1,32,13,1,0,1,1.72,1150673
+Queens,Jackson Heights,2836,3,3,36,58,1,0,1,0.81,1822901
+Queens,Flushing,1821,4,1,15,82,1,1,0,0.94,1364708
+Queens,Jackson Heights,2605,2,4,19,49,1,1,1,1.15,1987204
+Manhattan,Midtown,1427,0,1,22,33,0,1,1,0.11,1890104
+Bronx,Norwood,2614,2,2,34,5,0,1,1,1.28,1562010
+Bronx,South Bronx,1359,4,1,17,48,0,1,0,0.71,1010688
+Staten Island,New Dorp,2856,5,3,12,5,0,1,0,0.23,2023339
+Staten Island,New Dorp,2641,5,2,25,68,0,1,1,2.29,2018666
+Staten Island,Annadale,2682,1,4,17,6,0,0,0,0.87,2067568
+Queens,Flushing,3165,4,3,10,96,1,0,0,1.12,1240329
+Bronx,Riverdale,1573,1,2,28,76,0,0,0,2.09,671532
+Queens,Jamaica,1215,1,4,18,50,1,0,1,0.5,1223739
+Manhattan,Midtown,803,1,3,18,0,1,0,0,2.14,1769800
+Staten Island,Annadale,1292,2,4,45,12,1,0,0,0.68,1075435
+Queens,Long Island City,3125,0,1,32,42,1,0,0,1.51,2137551
+Queens,Jackson Heights,467,5,1,14,26,1,0,1,1.75,1035557
+Manhattan,Harlem,487,2,4,16,70,1,1,0,2.27,1402189
+Brooklyn,Bushwick,2664,0,1,18,2,0,0,1,1.56,1630899
+Bronx,Pelham Bay,2448,5,4,16,57,1,0,0,1.19,1957301
+Brooklyn,Flatbush,1558,4,3,17,88,1,0,1,1.47,1533277
+Staten Island,New Dorp,2120,5,2,7,96,0,1,1,0.58,1265468
+Queens,Jamaica,1774,5,4,12,16,0,0,1,1.75,1410236
+Manhattan,Chelsea,2587,5,2,34,44,0,1,1,0.55,2259739
+Manhattan,Upper East Side,3065,3,2,10,77,0,1,1,1.44,2577219
+Bronx,South Bronx,2580,4,4,5,57,0,0,0,1.65,1323571
+Brooklyn,DUMBO,2043,2,1,21,55,0,1,0,2.26,1433895
+Bronx,South Bronx,577,2,3,3,53,0,0,0,1.18,715907
+Queens,Jamaica,3257,0,2,19,86,1,0,1,1.96,1423928
+Bronx,Mott Haven,1781,2,3,45,87,0,0,1,0.5,957616
+Manhattan,Chelsea,2827,1,2,44,28,1,1,1,0.47,2806706
+Manhattan,Midtown,1307,5,4,35,53,0,0,0,1.36,2318539
+Staten Island,Great Kills,3105,2,1,6,26,0,0,1,1.53,1386167
+Staten Island,Tottenville,2897,0,3,14,44,1,0,1,1.62,1301784
+Queens,Jamaica,985,0,2,4,86,0,1,1,1.89,1001036
+Brooklyn,Flatbush,2910,1,4,45,30,0,1,1,0.81,2165502
+Bronx,Mott Haven,1389,0,4,18,35,0,1,0,1.59,943245
+Queens,Jamaica,1531,3,2,29,80,0,1,1,0.55,930816
+Staten Island,Annadale,2569,5,2,35,60,0,0,1,0.63,1177787
+Bronx,South Bronx,2464,5,2,38,36,0,0,1,0.26,1825320
+Staten Island,Annadale,1619,5,1,16,66,0,1,1,1.89,1250521
+Bronx,Pelham Bay,2774,4,2,20,35,1,0,0,1.32,1940549
+Brooklyn,DUMBO,717,2,2,24,4,0,1,1,0.67,1189497
+Queens,Jamaica,3256,3,1,35,45,1,0,0,1.43,2153290
+Bronx,Norwood,1902,2,4,44,78,1,0,0,0.95,1686722
+Manhattan,SoHo,2434,3,2,19,51,1,1,1,2.11,2001460
+Manhattan,SoHo,2442,2,3,4,48,1,1,1,1.37,2265168
+Bronx,Riverdale,902,1,4,33,5,1,0,0,0.17,798391
+Bronx,Fordham,2422,0,3,2,9,1,1,1,2.46,1223260
+Bronx,Pelham Bay,518,0,2,13,95,1,0,1,0.28,519646
+Manhattan,Harlem,1109,1,1,45,22,0,0,0,1.77,1620061
+Manhattan,Upper East Side,444,3,1,30,16,0,0,0,1.15,1542530
+Bronx,South Bronx,713,4,1,34,83,0,0,0,0.7,749870
+Staten Island,Great Kills,817,3,2,30,43,1,1,0,1.72,1104584
+Staten Island,New Dorp,3003,0,2,24,40,0,0,0,0.4,1647584
+Brooklyn,DUMBO,1501,4,3,48,14,1,0,0,2.16,1632905
+Queens,Long Island City,725,2,1,44,43,1,0,1,0.7,947417
+Staten Island,Stapleton,1839,4,2,33,57,0,1,1,0.97,1340016
+Manhattan,Harlem,2386,3,4,41,85,1,0,1,1.62,2296342
+Staten Island,St. George,2962,1,2,49,49,1,1,1,0.1,1236263
+Brooklyn,Bushwick,2661,2,2,10,51,0,1,1,1.23,2131662
+Brooklyn,DUMBO,473,3,4,18,69,1,1,1,2.25,1052286
+Queens,Long Island City,2002,2,1,19,67,0,1,1,1.73,1410065
+Staten Island,Great Kills,908,4,4,7,62,1,1,1,1.03,960278
+Manhattan,Harlem,2779,0,1,19,57,1,1,1,1.69,2847676
+Manhattan,Upper East Side,1087,3,4,24,22,0,1,0,2.35,1676768
+Bronx,Riverdale,1056,1,3,15,43,0,0,0,0.55,841678
+Manhattan,Chelsea,1942,4,1,41,82,0,0,1,1.38,1925553
+Queens,Jamaica,1692,3,2,42,94,1,1,1,0.66,1043722
+Queens,Astoria,1799,1,3,23,43,1,1,0,2.15,1516997
+Manhattan,Financial District,3475,3,1,4,51,0,1,0,1.83,2337987
+Manhattan,Harlem,3047,4,1,38,66,0,0,0,2.02,1911456
+Bronx,South Bronx,1952,3,1,4,27,0,1,1,2.36,922569
+Manhattan,SoHo,1475,2,4,5,66,1,0,0,0.66,2002238
+Bronx,Riverdale,724,4,1,41,77,1,0,0,0.22,619191
+Bronx,Pelham Bay,1391,3,2,44,17,0,1,0,0.8,1248195
+Manhattan,Chelsea,2393,0,1,23,26,0,0,1,1.06,1882538
+Brooklyn,Flatbush,1116,3,2,40,50,0,1,0,1.6,1154750
+Brooklyn,DUMBO,3170,2,2,37,59,1,1,1,2.01,1689077
+Bronx,South Bronx,676,1,2,11,73,0,1,0,0.94,575723
+Manhattan,Chelsea,2983,1,3,11,48,0,0,0,1.24,2149013
+Brooklyn,Bushwick,551,1,2,13,14,0,1,1,1.99,821227
+Manhattan,Upper East Side,1354,0,4,14,82,1,0,0,0.64,1820907
+Manhattan,Financial District,1906,2,1,8,72,1,1,0,0.62,1973300
+Manhattan,SoHo,658,4,4,25,67,0,1,0,1.51,1455368
+Staten Island,St. George,2771,1,3,18,14,1,1,1,1.15,1705553
+Manhattan,Upper East Side,3464,2,1,44,50,0,1,1,2.38,2184421
+Staten Island,Tottenville,1268,3,2,44,47,0,1,1,0.96,1155930
+Bronx,Norwood,1591,0,1,18,71,0,0,0,1.92,871228
+Brooklyn,Williamsburg,1087,2,3,10,0,0,1,1,1.5,1153165
+Brooklyn,Bay Ridge,709,2,3,7,6,1,1,0,0.23,1083974
+Brooklyn,Flatbush,3250,4,4,44,52,0,1,0,0.3,2168058
+Brooklyn,Flatbush,1902,2,1,14,30,0,0,0,0.59,1784973
+Brooklyn,DUMBO,3067,4,1,15,17,1,1,0,0.44,1745043
+Brooklyn,Park Slope,872,0,1,16,11,0,1,0,0.89,1024942
+Brooklyn,Flatbush,2908,0,4,2,47,1,1,0,1.49,1859562
+Bronx,Norwood,1213,3,3,30,29,0,1,0,1.55,996759
+Manhattan,Upper East Side,1245,4,2,30,96,0,0,0,1.51,1380695
+Queens,Jamaica,1564,4,1,18,6,0,1,1,0.38,1316641
+Staten Island,New Dorp,1066,1,4,31,91,0,0,1,1.54,846801
+Queens,Forest Hills,2709,1,4,44,2,1,0,0,1.08,1565859
+Queens,Long Island City,2208,3,2,48,62,0,0,1,2.27,1280028
+Manhattan,Midtown,1843,0,3,13,5,1,0,1,2.29,1591526
+Manhattan,Harlem,2167,5,1,20,94,1,1,1,1.94,2339750
+Manhattan,Midtown,1664,1,1,49,14,1,1,0,1.79,2370305
+Brooklyn,Williamsburg,754,2,4,35,70,0,0,1,0.38,1117373
+Bronx,Norwood,2272,0,3,23,42,1,0,0,0.3,1205405
+Brooklyn,Park Slope,2424,5,1,42,93,1,0,1,2.12,2017492
+Bronx,Norwood,3217,2,2,33,90,1,1,1,1.12,1892528
+Bronx,South Bronx,579,4,3,38,80,0,0,1,1.18,729818
+Queens,Astoria,465,0,3,35,17,0,0,0,2.13,841979
+Queens,Forest Hills,1219,3,4,36,21,1,0,0,1.59,1276069
+Bronx,Fordham,1771,4,4,20,60,1,0,0,0.53,1042982
+Bronx,Pelham Bay,570,4,1,3,60,0,0,0,0.61,651687
+Brooklyn,Bay Ridge,2921,2,4,8,52,1,1,0,0.12,1850390
+Brooklyn,Bay Ridge,2981,4,3,40,25,1,0,0,1.81,1642243
+Queens,Flushing,1790,1,1,32,90,1,1,0,1.27,1287790
+Manhattan,Midtown,1530,0,1,29,39,0,1,0,2.38,1747945
+Bronx,Mott Haven,2886,1,3,7,87,1,1,0,1.81,1667819
+Brooklyn,Bay Ridge,1234,2,1,2,7,1,1,1,0.35,1605036
+Queens,Jackson Heights,626,5,2,21,20,0,1,1,0.49,1027532
+Brooklyn,Park Slope,841,2,2,6,92,1,0,0,1.3,898898
+Bronx,Pelham Bay,2843,0,1,28,42,0,1,1,2.32,1925529
+Bronx,Riverdale,1127,4,4,48,20,0,1,1,0.69,1338849
+Staten Island,St. George,2004,3,2,42,2,0,0,0,2.08,1409161
+Manhattan,Harlem,2531,2,1,36,30,1,1,0,0.85,1920888
+Staten Island,Great Kills,1436,0,2,32,26,1,0,1,0.75,1110812
+Queens,Forest Hills,2232,3,4,45,26,1,0,0,2.26,1270598
+Brooklyn,Bay Ridge,2248,4,3,42,72,1,0,1,0.21,2123646
+Queens,Forest Hills,3140,5,1,46,56,1,0,0,1.69,2157253
+Bronx,Norwood,892,2,1,9,96,1,0,1,0.2,536380
+Staten Island,Annadale,1948,5,1,11,32,1,1,0,2.02,1663913
+Staten Island,Great Kills,1543,0,1,23,89,1,0,1,2.09,1090309
+Staten Island,Tottenville,1369,5,1,11,91,0,0,1,2.24,1230095
+Queens,Flushing,2800,5,1,49,43,1,1,1,0.55,2572392
+Bronx,Norwood,2487,0,4,2,42,1,1,1,0.4,966945
+Brooklyn,DUMBO,1039,0,3,3,30,0,1,0,1.31,1051142
+Brooklyn,DUMBO,572,2,4,11,64,1,1,1,0.75,949096
+Queens,Flushing,1970,5,4,35,83,0,0,0,1.56,1942597
+Staten Island,New Dorp,658,3,3,15,75,1,1,1,1.33,1078040
+Manhattan,Midtown,916,0,4,43,16,1,0,0,0.45,1844026
+Queens,Jackson Heights,3177,4,2,11,14,0,1,1,1.87,1636099
+Queens,Flushing,922,5,4,31,33,0,1,0,2.03,994376
+Bronx,Pelham Bay,2317,0,1,28,79,1,1,1,2.41,1494775
+Brooklyn,Bay Ridge,3286,3,2,28,3,0,1,1,1.05,2394747
+Queens,Flushing,2564,2,2,32,71,1,1,0,0.91,1626311
+Queens,Jamaica,2631,5,3,25,97,1,0,1,0.56,1664586
+Staten Island,Tottenville,2329,0,4,20,88,1,0,1,0.53,1505401
+Staten Island,Great Kills,1539,0,4,28,78,1,0,1,0.87,1394937
+Manhattan,SoHo,2609,4,2,25,27,1,1,1,2.46,2254492
+Bronx,Pelham Bay,2990,4,4,11,72,1,0,0,0.32,1360020
+Manhattan,Chelsea,1238,5,4,19,1,0,1,1,0.72,2079253
+Staten Island,Stapleton,1489,0,3,28,16,0,1,0,0.31,1414580
+Brooklyn,Bay Ridge,1493,5,2,1,57,0,0,0,0.76,1382977
+Staten Island,St. George,2894,0,1,5,73,1,0,0,0.32,1243327
+Bronx,Pelham Bay,2863,4,2,10,8,0,1,0,1.32,1357407
+Staten Island,Tottenville,2979,3,3,42,30,1,1,1,1.15,1584519
+Bronx,Norwood,2888,1,3,46,65,0,0,1,0.52,1180896
+Bronx,Norwood,3185,1,3,34,87,1,1,0,0.52,1962502
+Bronx,South Bronx,2369,0,4,36,61,1,0,1,1.6,1296533
+Bronx,Mott Haven,2911,4,2,2,18,1,0,1,1.03,1863855
+Bronx,South Bronx,2843,2,4,18,80,1,1,0,0.23,999497
+Brooklyn,Flatbush,3158,2,4,13,73,1,1,0,2.31,1651141
+Manhattan,Chelsea,1974,1,2,5,54,0,1,0,1.07,1946119
+Queens,Astoria,1980,3,3,20,27,1,1,1,1.52,1499745
+Manhattan,Harlem,2842,1,1,2,91,0,0,0,2.22,1965254
+Bronx,South Bronx,2773,0,1,11,49,1,1,0,1.07,1906583
+Brooklyn,Bushwick,1514,3,2,30,64,1,0,1,2.07,1288686
+Staten Island,New Dorp,1149,2,2,32,2,1,0,1,2.3,1099261
+Brooklyn,Park Slope,1493,4,3,32,78,0,1,1,0.52,1430946
+Bronx,Fordham,1589,4,2,38,51,1,0,1,2.24,1388001
+Brooklyn,Williamsburg,3089,0,2,28,9,0,1,1,0.39,2034339
+Brooklyn,DUMBO,2661,1,3,10,20,1,1,1,0.76,1833303
+Bronx,Norwood,2275,0,3,22,36,0,0,1,2.04,1414050
+Brooklyn,Bay Ridge,2187,4,4,17,14,0,0,1,2.26,1709822
+Queens,Forest Hills,2816,2,2,22,86,0,0,0,1.74,1916282
+Queens,Forest Hills,2007,4,1,43,77,1,1,1,0.35,1465876
+Brooklyn,DUMBO,448,3,2,19,78,1,1,0,1.36,991691
+Staten Island,Tottenville,1475,5,1,17,73,0,0,1,1.47,1085538
+Bronx,Fordham,1712,4,1,24,8,1,1,1,0.78,1655050
+Queens,Astoria,2049,4,1,36,43,1,1,0,2.48,1419660
+Staten Island,Stapleton,2580,5,4,32,38,1,0,1,0.91,2126046
+Brooklyn,Bay Ridge,3446,3,3,46,4,0,1,0,0.6,2183078
+Staten Island,New Dorp,3233,1,3,36,24,0,0,1,0.36,1633701
+Manhattan,Harlem,1589,4,4,28,55,1,0,0,1.01,1852099
+Queens,Jackson Heights,1797,0,3,14,89,0,0,0,1.76,1511443
+Brooklyn,Flatbush,2820,4,4,36,63,1,1,1,0.66,1899612
+Bronx,Riverdale,2228,0,2,6,71,1,0,0,1.95,1066788
+Brooklyn,Park Slope,878,3,4,9,85,0,0,0,0.42,913557
+Bronx,Pelham Bay,1231,4,3,21,51,0,0,1,1.16,1228937
+Brooklyn,Park Slope,3097,3,3,12,88,1,0,1,1.79,1721880
+Staten Island,Stapleton,2014,3,2,30,75,1,1,0,0.42,1191056
+Staten Island,Great Kills,1081,1,4,31,8,1,0,1,1.53,1342471
+Staten Island,Tottenville,3135,4,2,40,9,0,1,0,2.02,2603819
+Manhattan,Upper East Side,1723,0,1,4,9,0,0,0,1.53,1678808
+Bronx,Norwood,481,0,4,31,72,1,1,0,1.33,640458
+Staten Island,Stapleton,486,4,2,27,61,1,1,1,2.11,788848
+Manhattan,Financial District,2672,5,2,25,89,0,1,1,2.47,1685586
+Bronx,Mott Haven,2463,1,3,5,98,1,1,0,0.54,1635414
+Brooklyn,Bushwick,1221,1,4,6,90,0,0,0,1.76,1286632
+Manhattan,Harlem,562,1,1,5,59,0,0,0,0.29,1356650
+Queens,Long Island City,2961,0,1,27,94,1,1,1,0.2,1193050
+Manhattan,SoHo,2797,3,4,8,18,1,1,0,0.77,2170574
+Manhattan,Midtown,2332,5,4,9,37,0,1,1,2.43,2502279
+Bronx,Pelham Bay,3128,1,2,15,5,1,0,0,1.43,2414507
+Brooklyn,Flatbush,2250,0,3,36,14,0,1,0,0.74,1550196
+Queens,Jackson Heights,2260,0,3,41,92,0,1,0,0.42,1778957
+Staten Island,New Dorp,1515,3,3,7,46,0,0,0,2.31,911608
+Staten Island,Annadale,2628,4,4,32,44,1,0,1,0.97,1889414
+Manhattan,Financial District,3190,4,3,8,4,1,0,1,0.84,2150289
+Bronx,Riverdale,3107,1,2,47,77,1,0,1,2.16,1819603
+Bronx,Pelham Bay,2282,1,4,15,52,0,0,1,1.55,1152848
+Staten Island,St. George,2940,5,4,37,65,0,0,1,0.5,2298201
+Queens,Forest Hills,1322,3,3,19,61,0,1,0,1.11,1085948
+Brooklyn,DUMBO,2575,1,1,39,22,0,1,1,2.33,1698551
+Queens,Long Island City,1849,3,1,6,43,1,0,1,2.26,1578082
+Brooklyn,Bushwick,1982,0,2,19,51,1,1,1,0.27,1510831
+Staten Island,New Dorp,964,1,3,28,45,1,0,1,0.74,978617
+Brooklyn,Park Slope,2997,0,3,17,18,0,1,0,0.47,2066839
+Bronx,Norwood,2900,2,4,42,87,0,0,0,1.38,1926638
+Manhattan,Financial District,870,3,4,19,83,1,0,0,1.9,1582865
+Manhattan,Upper East Side,1387,2,3,31,46,0,1,1,0.81,1628178
+Staten Island,Annadale,3185,1,4,11,90,1,1,0,1.92,1693953
+Bronx,Norwood,2334,0,3,15,51,0,0,0,1.7,1766327
+Queens,Flushing,623,1,2,10,23,0,0,1,1.85,735694
+Bronx,South Bronx,2601,2,4,43,16,0,0,1,2.38,1579237
+Manhattan,Financial District,3007,1,3,23,88,0,0,1,1.12,2568984
+Manhattan,SoHo,750,5,4,3,45,0,0,0,0.92,1471897
+Bronx,Norwood,2328,4,2,3,63,1,0,1,1.74,1184089
+Bronx,Mott Haven,748,2,4,18,94,1,1,0,2.04,757176
+Manhattan,SoHo,581,1,3,25,27,1,1,0,0.56,1420065
+Queens,Flushing,1036,0,4,43,49,0,1,0,2.13,1176673
+Staten Island,Annadale,1417,1,4,20,63,1,1,0,0.24,1388392
+Staten Island,Great Kills,2626,0,3,29,27,1,1,0,0.12,1432297
+Bronx,Pelham Bay,1171,4,1,22,85,0,0,1,0.48,759165
+Staten Island,Tottenville,3341,1,4,15,55,0,0,0,2.45,2315354
+Manhattan,SoHo,3474,4,4,39,58,1,1,0,1.36,3206573
+Manhattan,Midtown,1415,2,2,10,4,1,0,0,0.21,1686376
+Bronx,Fordham,2511,0,1,21,53,1,1,0,2.49,1151977
+Bronx,Riverdale,428,5,2,29,43,1,1,0,1.89,829090
+Bronx,Fordham,2819,2,3,32,41,1,0,1,2.11,1617445
+Queens,Flushing,2544,0,3,10,71,0,0,0,0.61,1448645
+Staten Island,New Dorp,2293,4,2,13,91,1,1,0,0.35,1858865
+Bronx,Riverdale,1865,3,4,47,56,1,1,0,1.34,1121570
+Brooklyn,Williamsburg,1626,1,1,23,46,1,1,0,1.95,1715329
+Brooklyn,Bay Ridge,3440,4,2,23,75,1,1,1,1.63,2376697
+Manhattan,Chelsea,2468,0,2,31,24,1,0,0,1.61,1769958
+Staten Island,St. George,3182,0,3,4,43,1,1,0,1.92,2067927
+Bronx,Riverdale,1525,0,4,49,14,0,0,0,0.64,1241345
+Brooklyn,Flatbush,465,0,1,3,50,0,1,0,1.69,794155
+Staten Island,Tottenville,3050,1,2,21,52,0,1,1,1.04,1520770
+Manhattan,Midtown,1534,2,1,2,33,1,0,1,0.27,1871682
+Queens,Flushing,737,5,1,4,76,1,0,1,0.59,1029520
+Staten Island,New Dorp,2570,3,2,1,7,0,0,0,2.01,2056095
+Staten Island,St. George,2128,1,1,15,76,1,0,1,2.25,1525442
+Queens,Astoria,846,0,3,33,99,1,0,1,0.78,775580
+Staten Island,Tottenville,3058,1,4,6,69,1,1,1,0.56,2088861
+Manhattan,Upper East Side,3118,4,4,7,95,0,1,1,0.16,2005171
+Manhattan,Harlem,3062,5,4,19,20,0,1,1,2.37,2250888
+Queens,Long Island City,3344,0,3,44,6,0,0,0,1.74,1771343
+Bronx,Riverdale,680,3,3,1,89,1,0,1,2.4,637520
+Brooklyn,DUMBO,995,0,3,39,78,0,0,1,2.17,1068816
+Bronx,Fordham,2386,5,4,19,55,0,1,1,0.92,1363495
+Staten Island,Tottenville,3150,3,1,45,48,0,0,0,0.37,1606943
+Brooklyn,Bushwick,1474,5,3,26,41,1,1,0,1.3,1475845
+Queens,Jackson Heights,609,3,2,44,22,0,1,1,0.16,1051221
+Queens,Jamaica,525,2,3,12,51,0,1,0,0.46,1008327
+Brooklyn,Bushwick,891,2,2,22,78,1,0,0,0.66,1197156
+Manhattan,Midtown,3407,1,4,13,52,0,1,1,1.7,2768359
+Brooklyn,Flatbush,1369,1,2,28,15,1,1,0,1.32,1535695
+Staten Island,Stapleton,980,3,3,14,95,1,1,1,0.83,905728
+Manhattan,Financial District,3224,0,3,22,36,0,0,1,1.46,2840901
+Queens,Jamaica,2705,4,1,30,17,0,1,1,0.4,1367207
+Brooklyn,Williamsburg,1611,4,4,44,19,0,0,0,1.91,1524802
+Bronx,Norwood,629,0,2,20,45,1,0,1,1.81,543601
+Bronx,Mott Haven,588,0,4,44,1,0,1,1,0.62,759496
+Staten Island,New Dorp,2457,2,3,27,86,0,1,0,1.56,1379979
+Bronx,Fordham,3123,4,1,38,93,0,0,1,1.31,2126339
+Brooklyn,Williamsburg,901,3,3,42,62,1,1,0,0.25,1351948
+Brooklyn,DUMBO,2532,5,3,41,2,1,0,0,0.77,1592601
+Bronx,Norwood,448,1,3,34,45,1,0,1,2.5,652328
+Brooklyn,Flatbush,3285,5,2,39,48,0,0,0,0.34,2303746
+Staten Island,New Dorp,3455,2,3,41,0,0,1,1,1.32,1472534
+Manhattan,Midtown,1088,4,4,44,21,1,0,0,2.14,1744878
+Staten Island,Tottenville,786,0,4,37,92,0,0,0,0.82,1051413
+Staten Island,Stapleton,1369,4,1,1,13,0,1,0,0.73,1126203
+Brooklyn,Bay Ridge,1405,3,4,15,91,1,1,0,2.24,1591127
+Manhattan,SoHo,2665,2,3,32,84,1,0,1,0.83,2821381
+Brooklyn,Bushwick,2124,0,3,8,44,1,0,1,1.66,1948574
+Queens,Forest Hills,2404,5,4,33,95,0,0,0,1.88,1238226
+Brooklyn,Williamsburg,3452,3,1,18,5,0,1,1,1.99,1805852
+Brooklyn,DUMBO,2702,5,1,45,64,0,0,1,2.49,1613227
+Brooklyn,Flatbush,2683,1,4,29,20,1,0,1,2.03,1519575
+Manhattan,SoHo,3497,2,2,32,3,1,1,1,1.68,2817947
+Brooklyn,Bay Ridge,2007,3,2,33,2,0,1,1,2.25,2056634
+Manhattan,Financial District,2189,3,2,5,29,1,0,1,2.27,2536135
+Bronx,Mott Haven,670,5,2,18,30,1,1,1,2.44,878362
+Queens,Jackson Heights,522,0,4,48,33,0,0,0,1.96,994326
+Manhattan,Harlem,3103,1,1,10,82,1,0,1,0.57,2668099
+Bronx,Pelham Bay,1680,5,3,36,19,0,1,0,1.8,1039979
+Manhattan,Harlem,1844,3,3,33,86,1,0,0,0.28,1968679
+Manhattan,Chelsea,658,2,4,23,53,0,0,0,0.86,1654817
+Queens,Jackson Heights,1347,3,3,40,24,1,1,1,0.38,1005893
+Staten Island,Stapleton,2494,4,2,5,14,0,0,1,2.38,1554836
+Staten Island,Annadale,1262,2,1,34,37,1,1,0,0.91,1345140
+Manhattan,Chelsea,924,2,4,24,22,1,0,0,1.81,1568609
+Brooklyn,Bay Ridge,1287,3,1,17,51,1,1,1,1.47,1570355
+Bronx,Norwood,607,0,4,31,65,1,1,1,0.36,700199
+Brooklyn,Williamsburg,3194,2,4,7,56,1,1,1,1.45,2463348
+Brooklyn,Bay Ridge,548,4,4,17,56,0,1,0,1.69,1055371
+Manhattan,SoHo,837,5,4,28,78,0,1,0,2.22,1375415
+Manhattan,Harlem,2602,0,1,38,51,0,1,1,0.27,1898900
+Manhattan,Upper East Side,2121,0,3,22,34,1,0,1,0.81,2279146
+Manhattan,Harlem,757,0,4,15,73,0,0,0,1.76,1562262
+Staten Island,Great Kills,1640,2,2,37,13,1,1,1,0.18,1513306
+Manhattan,Financial District,2330,0,4,15,90,1,0,1,0.59,2618512
+Staten Island,St. George,855,3,1,25,13,0,1,0,0.62,1076217
+Staten Island,Great Kills,3223,0,4,21,98,0,1,0,1.71,1168602
+Manhattan,Chelsea,2032,4,2,38,32,1,0,0,0.79,2261580
+Queens,Long Island City,1028,1,1,2,51,1,1,0,1.54,909562
+Bronx,Norwood,3279,4,4,27,0,0,0,1,2.42,1869676
+Brooklyn,Bushwick,885,2,2,49,33,0,1,0,2.0,1244515
+Staten Island,St. George,2980,0,1,32,18,1,1,1,0.9,1500217
+Bronx,Fordham,599,0,4,21,23,1,0,1,1.23,859025
+Queens,Jackson Heights,770,3,2,4,3,0,1,1,0.58,909680
+Brooklyn,DUMBO,1413,5,1,44,35,1,1,0,0.14,1752132
+Brooklyn,Park Slope,2382,0,4,19,76,1,1,0,0.8,2134610
+Staten Island,Tottenville,3300,4,1,2,57,0,0,1,0.99,1154350
+Manhattan,SoHo,1871,2,2,26,31,0,0,1,1.45,2222358
+Queens,Forest Hills,647,1,4,34,8,1,0,0,2.37,1100781
+Staten Island,New Dorp,1187,0,4,14,79,1,0,1,2.37,667978
+Queens,Long Island City,2711,1,4,15,66,0,0,1,0.27,2021212
+Manhattan,Upper East Side,2478,0,2,20,19,1,1,1,1.58,2017441
+Manhattan,Upper East Side,1921,2,3,34,73,0,0,1,0.2,1881916
+Staten Island,St. George,1672,5,4,36,61,1,0,1,1.66,1055587
+Manhattan,Financial District,1004,4,2,19,57,0,1,1,0.38,1761926
+Bronx,Pelham Bay,2089,2,1,9,21,1,1,1,2.37,1270610
+Brooklyn,DUMBO,1817,1,1,7,66,1,0,1,2.17,1382225
+Staten Island,St. George,2220,0,2,30,74,1,1,0,0.15,1104027
+Queens,Jackson Heights,901,1,3,13,88,0,1,0,1.98,955912
+Bronx,Pelham Bay,3333,4,2,27,47,0,1,1,1.63,2392801
+Staten Island,St. George,948,2,1,44,7,0,0,1,1.29,1041422
+Manhattan,Midtown,1765,1,1,35,72,1,1,0,1.55,1753177
+Manhattan,Chelsea,1238,1,4,13,14,1,1,0,1.73,1555799
+Manhattan,Midtown,1830,4,3,15,31,0,0,0,2.22,2288506
+Manhattan,Upper East Side,1848,0,2,46,52,0,1,1,1.94,1822361
+Queens,Flushing,1247,1,1,9,66,1,1,0,1.48,791508
+Bronx,South Bronx,1013,4,1,45,3,1,0,0,2.08,954106
+Brooklyn,DUMBO,811,0,1,23,29,1,0,1,2.47,1235970
+Queens,Jackson Heights,2879,5,2,36,12,1,0,0,0.82,1987948
+Queens,Jamaica,1077,0,2,40,20,0,1,1,0.38,950361
+Brooklyn,Park Slope,558,5,3,3,40,0,0,0,1.86,1116383
+Brooklyn,Flatbush,2461,2,4,34,18,1,0,0,2.45,2026618
+Manhattan,Chelsea,772,4,4,19,47,1,1,0,0.38,1739352
+Queens,Long Island City,2672,0,4,28,85,1,1,0,1.14,1348196
+Staten Island,St. George,1496,5,1,23,62,0,1,0,0.25,1362371
+Brooklyn,Bushwick,2958,5,4,40,19,0,1,1,1.96,2034470
+Brooklyn,Williamsburg,1002,2,1,49,63,1,1,1,2.38,1271751
+Bronx,Mott Haven,615,3,3,45,36,1,0,0,1.3,809612
+Staten Island,Stapleton,2396,4,1,7,30,1,0,1,1.08,1391449
+Staten Island,Annadale,1964,3,3,41,73,1,0,0,2.28,973700
+Brooklyn,Park Slope,2240,0,3,12,17,1,1,0,0.42,1303836
+Manhattan,Midtown,2362,4,4,14,19,1,0,0,2.24,2115890
+Bronx,Norwood,3435,2,4,46,81,0,1,0,1.04,1981458
+Staten Island,New Dorp,3287,0,1,15,10,0,1,0,1.44,2186867
+Brooklyn,Park Slope,1126,4,2,3,85,0,0,1,1.37,1131210
+Staten Island,New Dorp,1644,4,4,15,43,1,0,1,1.58,1612261
+Bronx,Norwood,3001,3,4,24,81,1,1,1,2.36,1478119
+Bronx,Norwood,1465,0,2,46,63,1,1,1,2.38,936542
+Queens,Flushing,1075,2,2,8,33,0,0,0,2.09,831336
+Brooklyn,DUMBO,3320,2,4,5,86,1,0,1,0.56,2189853
+Bronx,South Bronx,682,0,2,4,64,0,1,0,0.9,732134
+Queens,Long Island City,1481,0,1,14,54,1,1,0,1.27,1438304
+Queens,Jackson Heights,3281,5,3,16,73,1,1,1,2.27,1676199
+Staten Island,New Dorp,2984,1,3,20,0,1,1,1,1.35,1509990
+Staten Island,St. George,2308,3,4,24,37,0,0,0,2.45,1719890
+Queens,Jamaica,3370,0,4,6,8,0,0,0,2.46,2171452
+Staten Island,Tottenville,1552,0,1,31,94,0,1,0,1.54,1328313
+Bronx,Fordham,3289,1,2,6,70,1,1,1,2.21,1184182
+Manhattan,Financial District,1347,1,4,35,16,0,0,0,2.5,2039514
+Bronx,Riverdale,1064,4,3,15,98,1,1,0,2.14,585276
+Queens,Forest Hills,2117,2,1,29,51,1,1,0,1.68,1528643
+Queens,Long Island City,1548,3,1,3,17,0,1,0,2.13,1036727
+Bronx,Pelham Bay,466,4,2,11,62,0,1,1,0.3,684105
+Staten Island,Annadale,2453,0,4,3,32,1,1,1,1.62,1536546
+Staten Island,St. George,1036,1,4,28,3,1,1,0,0.62,875496
+Queens,Astoria,713,5,1,10,86,1,0,1,0.38,724818
+Brooklyn,Bushwick,964,2,3,33,74,1,1,0,2.24,1137790
+Staten Island,St. George,2001,4,4,48,51,0,0,1,1.64,1311581
+Bronx,Norwood,1225,5,3,16,8,0,0,1,0.68,848484
+Staten Island,St. George,2953,2,1,10,63,0,0,1,1.03,1462437
+Bronx,Pelham Bay,1505,5,4,33,29,1,1,1,2.44,1313052
+Queens,Jamaica,1425,1,3,36,7,1,1,0,2.17,1171447
+Staten Island,Great Kills,2651,4,1,3,4,1,1,0,0.14,1521423
+Bronx,Riverdale,1061,4,3,5,75,0,0,0,2.45,1023629
+Queens,Astoria,1204,2,4,12,62,1,0,1,0.98,952381
+Brooklyn,Bushwick,2851,5,2,44,0,1,1,1,1.77,2542888
+Bronx,Fordham,935,1,3,13,14,0,1,0,1.81,879574
+Brooklyn,DUMBO,1791,0,2,24,88,0,0,1,2.29,1697846
+Brooklyn,Bay Ridge,1635,4,4,44,81,1,0,1,2.22,1413697
+Manhattan,Midtown,3024,0,2,32,37,0,0,0,0.78,2730947
+Staten Island,St. George,3210,1,1,16,41,1,1,1,1.64,1152888
+Bronx,South Bronx,2320,4,2,32,45,0,0,0,1.04,1885114
+Brooklyn,Bay Ridge,2564,4,3,45,52,1,0,1,1.36,1835878
+Manhattan,Financial District,1027,5,3,37,25,0,0,0,1.43,1846241
+Queens,Astoria,1148,0,2,36,60,0,1,1,1.05,866780
+Bronx,South Bronx,504,5,1,21,66,0,1,1,1.21,724233
+Brooklyn,Park Slope,2942,3,4,47,53,0,1,1,0.6,2514092
+Staten Island,Annadale,445,0,2,12,21,1,0,1,1.56,593413
+Manhattan,Harlem,3270,0,3,21,25,1,0,1,1.92,2161294
+Brooklyn,Flatbush,1754,3,3,21,82,0,0,0,1.13,1480324
+Staten Island,Great Kills,1639,1,2,43,59,1,0,1,2.45,1008887
+Brooklyn,Williamsburg,1381,1,2,6,38,0,1,0,0.24,1150249
+Bronx,Fordham,1359,4,2,9,35,0,0,0,1.51,1314959
+Bronx,Riverdale,1915,2,4,1,20,1,0,0,1.5,1327771
+Bronx,Mott Haven,2236,5,3,12,40,1,1,1,0.19,1765313
+Manhattan,Chelsea,3292,2,3,14,47,1,0,0,0.64,2471600
+Bronx,Mott Haven,2896,4,3,6,25,1,0,1,2.27,1795712
+Staten Island,Annadale,2983,2,4,1,62,1,0,1,1.41,1680450
+Brooklyn,Bay Ridge,2958,0,1,22,76,1,1,1,1.15,1604347
+Queens,Flushing,1881,0,3,34,35,1,0,0,1.1,1388669
+Staten Island,Annadale,1959,3,3,11,23,0,1,1,2.23,1278756
+Staten Island,New Dorp,2987,3,1,3,89,1,0,1,0.98,2236797
+Bronx,Mott Haven,1907,4,4,42,20,0,1,1,2.16,1453446
+Manhattan,Harlem,2463,4,1,6,17,1,1,0,0.84,2624002
+Brooklyn,Bay Ridge,2400,4,1,6,14,1,1,0,1.38,1989320
+Manhattan,Midtown,2690,0,1,20,78,0,0,0,0.45,2170068
+Brooklyn,Williamsburg,2373,2,1,21,5,0,0,0,2.08,1767567
+Brooklyn,Flatbush,1311,5,4,2,42,0,1,1,1.87,1351321
+Manhattan,Harlem,1694,4,4,26,30,0,1,0,1.37,1813897
+Staten Island,Great Kills,3208,4,1,31,27,1,0,1,0.16,2441295
+Brooklyn,Williamsburg,2202,0,2,26,7,1,1,0,1.26,2013238
+Manhattan,Chelsea,3152,5,2,32,28,0,0,1,0.64,2255105
+Brooklyn,Flatbush,2153,0,2,10,20,0,0,0,1.09,2010678
+Queens,Flushing,514,5,2,23,80,1,1,0,2.16,717849
+Staten Island,Great Kills,2003,0,3,6,87,1,1,0,1.95,1192883
+Bronx,Pelham Bay,1722,2,4,23,57,0,0,1,0.68,1051719
+Brooklyn,Flatbush,2260,4,4,28,59,1,0,1,2.46,1498824
+Queens,Astoria,2844,1,1,49,49,1,0,0,2.27,1318856
+Bronx,Norwood,2841,1,3,30,99,0,1,0,1.37,1244676
+Bronx,South Bronx,1498,4,1,14,30,0,0,0,1.37,918700
+Brooklyn,Bay Ridge,1377,4,1,37,46,0,1,0,2.26,1361130
+Manhattan,Financial District,1905,4,4,32,33,0,1,0,1.63,1816410
+Brooklyn,Park Slope,1526,4,3,49,1,1,0,0,1.39,1389220
+Queens,Jackson Heights,696,5,2,34,66,0,1,1,1.9,848005
+Bronx,Mott Haven,3449,2,4,41,93,1,1,1,0.66,1952310
+Brooklyn,Flatbush,2625,1,3,44,71,1,1,1,2.21,2303934
+Manhattan,Financial District,3414,3,3,22,51,1,1,1,1.38,2191331
+Brooklyn,Bushwick,2762,1,4,31,6,1,0,1,1.55,1579305
+Staten Island,Annadale,1462,1,4,7,75,0,0,1,0.32,1271486
+Manhattan,Upper East Side,658,0,1,41,18,1,1,0,0.84,1413868
+Queens,Astoria,2454,4,1,21,89,0,1,0,1.12,1847544
+Bronx,South Bronx,2496,4,1,16,91,1,1,0,1.09,910389
+Brooklyn,Bushwick,2608,4,2,20,14,0,1,0,1.97,1583969
+Manhattan,Upper East Side,2292,0,4,43,77,1,1,0,0.78,1796689
+Staten Island,New Dorp,575,2,3,44,47,1,0,1,0.54,685469
+Manhattan,Financial District,3473,2,4,47,13,0,0,1,1.5,3298024
+Staten Island,Stapleton,1400,3,3,19,2,0,0,1,1.58,1013149
+Queens,Astoria,2318,2,2,48,49,0,0,1,0.39,2157196
+Bronx,Fordham,2902,2,4,32,92,0,1,1,0.11,1437745
+Queens,Forest Hills,2067,4,3,15,53,1,1,0,2.3,1819136
+Brooklyn,Bushwick,675,5,3,5,5,1,0,1,0.29,1153385
+Manhattan,SoHo,2945,1,1,11,48,1,0,1,2.25,1985020
+Staten Island,Great Kills,1075,2,2,15,22,1,0,1,1.06,1031411
+Staten Island,Stapleton,2223,2,4,29,91,1,1,0,1.67,938452
+Manhattan,Financial District,1451,0,1,45,77,0,1,0,0.55,1804022
+Manhattan,Harlem,1756,3,2,4,77,0,1,0,2.08,1765751
+Brooklyn,Bay Ridge,3472,5,1,49,19,1,0,0,0.53,2643440
+Queens,Jamaica,2503,0,4,36,76,0,0,0,1.03,1265236
+Staten Island,Tottenville,946,4,3,48,90,1,1,0,0.67,1113588
+Brooklyn,Williamsburg,1535,1,4,23,59,1,1,1,2.11,1433196
+Queens,Flushing,2483,3,2,15,98,0,1,1,2.16,1929818
+Brooklyn,Park Slope,2440,0,4,46,44,1,0,1,0.99,1604846
+Staten Island,St. George,838,2,2,44,60,0,1,0,0.84,1185647
+Manhattan,Financial District,2152,2,1,3,55,1,1,0,1.96,2259447
+Manhattan,Upper East Side,2015,3,2,32,1,0,0,0,2.21,2456776
+Queens,Forest Hills,2249,2,3,10,44,1,1,0,1.6,1529971
+Bronx,Norwood,3042,0,3,40,39,1,1,1,2.33,1697313
+Queens,Forest Hills,2000,0,3,38,23,0,1,0,1.02,1109246
+Bronx,South Bronx,2063,2,1,22,28,1,1,0,0.46,1779775
+Brooklyn,Williamsburg,706,2,2,14,66,1,0,0,0.53,1141202
+Brooklyn,Bushwick,1018,4,1,17,67,0,1,0,1.71,934983
+Staten Island,Annadale,1532,1,4,21,65,0,0,0,1.08,984319
+Bronx,Mott Haven,1795,3,4,48,83,0,1,1,0.48,1676161
+Staten Island,St. George,2804,0,4,15,53,1,0,0,0.8,1137766
+Manhattan,Upper East Side,2628,3,4,15,52,0,1,0,1.37,2003020
+Bronx,South Bronx,1779,4,3,1,78,0,1,1,0.39,1567726
+Queens,Flushing,2099,0,2,24,48,0,0,0,0.11,1748848
+Manhattan,SoHo,2515,4,3,12,31,1,1,0,2.3,2685757
+Manhattan,SoHo,2739,4,2,10,60,0,1,1,0.83,1892618
+Queens,Flushing,3139,5,2,46,41,1,0,1,0.63,1770926
+Manhattan,Midtown,580,2,1,42,0,1,1,1,1.78,1592289
+Bronx,Riverdale,2881,5,4,42,62,0,1,1,2.15,1749786
+Staten Island,Tottenville,1887,3,2,31,34,1,1,1,1.62,1316659
+Manhattan,Upper East Side,1313,3,4,11,50,1,1,1,0.71,2172531
+Bronx,South Bronx,1957,2,4,16,70,1,1,1,2.17,1671486
+Brooklyn,Flatbush,2513,5,4,9,44,1,0,1,1.33,1707491
+Bronx,Mott Haven,1444,3,3,47,76,1,0,1,1.01,937946
+Staten Island,Great Kills,2035,5,4,14,64,0,1,1,1.55,1143052
+Bronx,Riverdale,2831,2,2,19,13,0,1,0,1.78,1585270
+Queens,Jamaica,2038,0,3,31,92,0,0,1,1.53,1089522
+Staten Island,St. George,1982,4,4,9,2,1,0,1,2.31,1413986
+Brooklyn,Flatbush,2486,4,1,36,23,0,0,1,1.61,1927846
+Queens,Forest Hills,1708,5,4,39,64,1,0,1,2.21,1713204
+Bronx,Fordham,1221,3,4,26,47,1,0,1,1.51,1032417
+Staten Island,New Dorp,1001,5,3,8,9,1,0,0,0.89,1060835
+Brooklyn,Bushwick,2020,5,2,24,12,1,1,0,1.38,2106343
+Queens,Flushing,1184,1,4,8,99,0,1,0,0.31,986999
+Brooklyn,Park Slope,1611,4,3,19,72,1,1,1,0.65,1662433
+Bronx,Riverdale,1070,2,3,47,13,0,1,1,1.94,1013916
+Brooklyn,Bushwick,1666,5,2,48,99,0,1,0,1.69,1891833
+Manhattan,Financial District,1496,1,3,30,9,1,0,1,0.5,1847247
+Queens,Forest Hills,2926,1,2,22,39,0,0,1,1.15,1862118
+Brooklyn,Williamsburg,2397,4,1,9,22,0,0,0,0.44,1778495
+Bronx,Norwood,3008,4,4,44,98,0,0,1,2.15,2346181
+Bronx,Fordham,500,4,3,48,54,1,0,1,0.36,706995
+Brooklyn,Park Slope,2961,2,1,4,62,1,0,1,1.67,1483377
+Bronx,Norwood,2179,1,3,37,70,1,1,1,1.56,1399828
+Staten Island,Great Kills,575,3,3,8,41,0,1,1,1.23,673873
+Staten Island,Stapleton,637,2,1,1,98,0,0,1,0.77,672548
+Staten Island,New Dorp,3357,0,3,28,65,1,1,1,1.07,2483393
+Manhattan,Midtown,1522,5,3,6,78,1,0,0,2.04,2085172
+Brooklyn,Bushwick,3318,4,1,47,72,0,1,0,1.93,1706625
+Manhattan,Midtown,2377,1,3,36,46,1,0,1,1.87,2009301
+Bronx,Pelham Bay,2942,5,2,11,80,1,0,1,1.9,1761950
+Manhattan,SoHo,3394,2,3,5,51,0,1,0,0.45,2808778
+Bronx,Mott Haven,2403,0,4,24,17,0,0,0,0.34,1566857
+Bronx,Norwood,1937,2,3,47,78,1,1,0,2.17,1478253
+Queens,Long Island City,1154,2,4,18,17,1,1,0,2.11,1230104
+Staten Island,St. George,2658,3,4,20,23,1,0,0,1.74,1278080
+Bronx,Pelham Bay,1546,5,3,28,22,1,0,0,1.55,1353207
+Queens,Jackson Heights,1811,3,1,13,11,0,0,0,0.98,1053673
+Staten Island,New Dorp,539,2,2,5,22,1,1,1,0.64,717583
+Bronx,Riverdale,940,0,2,30,20,1,1,0,1.7,953046
+Bronx,Riverdale,1814,1,3,1,63,0,0,0,2.29,1110969
+Manhattan,SoHo,669,1,1,22,89,0,0,0,1.15,1440281
+Manhattan,Financial District,1435,5,1,18,71,0,0,1,0.83,1779616
+Staten Island,Annadale,2290,4,2,46,93,0,0,1,0.75,1117889
+Bronx,Fordham,905,4,1,5,33,0,0,1,0.16,824083
+Brooklyn,DUMBO,1529,1,3,31,1,0,0,0,1.35,1609991
+Manhattan,Midtown,2479,2,3,6,68,0,0,0,2.47,1860786
+Staten Island,Stapleton,2272,2,1,27,30,1,1,0,2.06,1655786
+Bronx,Mott Haven,1492,3,3,25,96,1,1,1,2.25,1196074
+Bronx,Norwood,1212,5,4,29,67,0,0,1,1.59,1142720
+Brooklyn,Williamsburg,761,3,2,28,69,1,0,1,1.26,1257740
+Staten Island,Great Kills,1856,4,3,16,86,1,1,1,2.48,1480199
+Bronx,Pelham Bay,1328,1,1,12,18,0,0,1,1.17,1245698
+Manhattan,Financial District,499,2,2,20,71,0,1,1,2.3,1529940
+Brooklyn,Flatbush,2081,1,3,18,12,0,1,0,1.93,1515696
+Staten Island,Stapleton,2456,0,2,34,64,0,0,1,0.89,1386625
+Brooklyn,DUMBO,3144,1,1,23,5,0,1,1,1.31,2404699
+Manhattan,Financial District,1452,0,4,45,70,1,1,1,1.02,1642301
+Staten Island,Great Kills,2909,3,4,27,26,1,0,1,0.43,2166924
+Brooklyn,Bay Ridge,1320,3,3,49,78,0,0,0,0.96,1409533
+Queens,Jamaica,2837,4,4,17,51,0,1,0,2.23,1374091
+Manhattan,Upper East Side,1031,1,3,48,97,1,0,1,1.91,1628828
+Manhattan,Upper East Side,1081,1,2,21,86,1,1,0,0.77,1349465
+Manhattan,Midtown,2604,0,3,40,47,1,1,0,0.98,1758666
+Queens,Forest Hills,2782,3,3,31,87,0,1,0,1.58,2158796
+Queens,Astoria,2707,0,3,3,78,0,1,0,1.1,1539847
+Bronx,South Bronx,2529,3,4,17,98,1,1,0,1.31,1392200
+Brooklyn,DUMBO,1153,0,3,26,67,0,1,0,1.78,1099023
+Bronx,Mott Haven,1864,3,1,23,43,1,0,0,1.22,1234702
+Brooklyn,Park Slope,1119,0,3,6,16,0,0,1,0.56,1067450
+Queens,Long Island City,474,3,2,28,94,0,0,0,1.35,988765
+Queens,Long Island City,1693,5,1,8,37,1,0,1,0.95,1533902
+Bronx,Mott Haven,2322,0,2,45,9,1,1,0,0.8,1711246
+Staten Island,Great Kills,3073,1,2,8,53,0,1,0,0.89,1103223
+Bronx,Mott Haven,461,4,2,19,90,1,1,0,1.15,779350
+Brooklyn,Bay Ridge,1273,5,1,38,5,0,1,1,2.23,1625071
+Bronx,Mott Haven,719,5,1,29,5,1,1,0,1.86,731297
+Manhattan,Chelsea,2549,0,4,23,51,1,0,1,1.7,1858159
+Brooklyn,Williamsburg,1852,4,1,47,14,0,0,0,1.23,1948627
+Brooklyn,Flatbush,1273,1,3,32,67,0,0,0,0.1,1443230
+Staten Island,Stapleton,2145,5,2,10,56,0,1,1,0.92,1370759
+Queens,Astoria,3401,1,4,27,55,1,1,0,2.05,1469727
+Brooklyn,Bushwick,2702,3,1,49,6,1,0,0,1.03,1963391
+Queens,Jamaica,1955,4,2,1,50,0,1,0,1.45,1252348
+Bronx,Norwood,3017,2,1,39,57,1,1,1,0.59,1695087
+Manhattan,Harlem,511,3,4,29,63,0,0,0,2.3,1405064
+Staten Island,Tottenville,3432,4,1,45,25,0,1,0,2.32,2127963
+Queens,Forest Hills,3445,0,1,3,57,0,0,0,0.45,2223933
+Brooklyn,Bushwick,860,0,2,47,30,0,0,1,1.84,1199078
+Queens,Flushing,3155,1,3,37,65,0,0,0,0.28,2056217
+Brooklyn,DUMBO,1286,5,1,31,91,1,0,1,1.54,1063521
+Queens,Jamaica,1515,2,4,11,12,1,1,0,0.53,1266608
+Brooklyn,DUMBO,1475,0,1,22,17,0,1,0,0.45,1201650
+Bronx,Mott Haven,919,4,1,18,93,1,1,1,0.11,726469
+Brooklyn,Bay Ridge,1211,5,3,35,74,0,0,1,2.36,1627386
+Brooklyn,Bushwick,2683,5,2,6,12,1,1,1,2.09,2185029
+Manhattan,Upper East Side,2324,4,4,3,23,1,0,1,0.29,2024031
+Brooklyn,Bay Ridge,2004,5,2,5,56,0,1,1,1.54,1505573
+Manhattan,Midtown,1326,0,2,9,28,1,1,0,0.66,1511393
+Staten Island,Stapleton,956,4,2,28,55,0,0,0,0.73,849623
+Manhattan,Chelsea,3096,4,1,19,53,1,1,1,2.2,2603300
+Bronx,Riverdale,2681,1,3,28,4,0,0,0,0.37,1385124
+Manhattan,Financial District,1455,2,1,27,34,0,0,0,1.54,1664789
+Staten Island,St. George,978,1,4,13,18,0,1,1,1.06,806145
+Bronx,Pelham Bay,941,2,3,38,54,0,1,1,0.56,908842
+Queens,Astoria,2561,4,2,43,76,0,1,1,1.18,1949394
+Queens,Jackson Heights,2651,5,3,21,68,0,1,0,2.36,2282818
+Manhattan,Chelsea,1452,2,4,27,43,1,0,1,1.98,1595367
+Manhattan,Midtown,3090,4,1,46,77,0,0,0,0.42,2991902
+Staten Island,St. George,873,4,1,6,37,1,1,1,2.14,944039
+Staten Island,St. George,3144,1,2,38,61,0,1,1,2.35,1495938
+Brooklyn,Park Slope,2700,1,1,49,21,1,1,1,0.76,1697483
+Staten Island,Annadale,1304,5,1,11,72,0,0,1,0.9,1107473
+Brooklyn,Park Slope,2345,3,4,47,39,0,1,0,0.4,1817395
+Bronx,Mott Haven,785,0,3,41,25,1,0,0,0.93,769334
+Manhattan,Midtown,461,3,1,17,4,0,1,0,1.72,1504506
+Bronx,Norwood,914,3,4,39,92,0,1,1,0.75,827948
+Staten Island,Annadale,829,5,4,7,53,0,0,0,0.12,983160
+Bronx,South Bronx,979,2,2,30,85,0,0,0,0.91,718121
+Bronx,Mott Haven,1960,5,4,21,48,1,1,0,1.19,1292733
+Bronx,Norwood,1564,5,2,1,2,0,0,1,1.46,1297179
+Staten Island,St. George,3190,4,1,25,91,1,0,0,1.74,2461411
+Bronx,Fordham,1723,4,2,32,37,0,1,1,0.25,902981
+Brooklyn,Bay Ridge,3122,4,4,8,13,0,0,1,1.23,1975159
+Staten Island,Stapleton,2758,0,3,5,46,0,0,0,0.74,1856830
+Bronx,Mott Haven,870,2,3,30,13,0,1,0,2.38,879438
+Staten Island,St. George,1816,2,1,8,74,1,1,1,0.96,1349436
+Queens,Jackson Heights,2065,4,1,49,72,0,0,1,0.34,2092387
+Brooklyn,Williamsburg,1868,3,3,19,37,0,1,1,0.2,1779972
+Bronx,Norwood,1208,0,2,44,63,0,0,0,0.74,821931
+Queens,Long Island City,571,3,1,30,43,1,0,1,0.53,1029769
+Queens,Jackson Heights,3023,1,4,15,69,1,0,1,1.66,2404337
+Staten Island,Great Kills,430,2,1,36,64,1,1,1,2.13,686509
+Queens,Jackson Heights,446,2,2,44,24,1,0,0,0.85,873281
+Brooklyn,Bay Ridge,529,3,1,27,15,0,0,1,1.49,1310700
+Brooklyn,DUMBO,2799,0,4,13,14,0,0,1,1.85,2486575
+Manhattan,SoHo,1377,2,4,14,97,1,1,1,1.06,2020327
+Brooklyn,DUMBO,2045,3,4,37,80,0,1,1,0.26,1500399
+Queens,Jamaica,2004,5,2,48,2,0,1,1,0.65,2023227
+Brooklyn,DUMBO,457,5,2,30,66,1,0,0,2.22,1120888
+Staten Island,St. George,1529,0,4,39,36,0,0,0,2.08,936634
+Manhattan,Chelsea,3259,3,4,47,80,1,1,1,0.31,2761883
+Queens,Jamaica,1753,5,2,13,54,1,0,1,0.64,1565696
+Manhattan,Financial District,1167,0,2,16,37,1,0,1,1.95,1887069
+Queens,Jackson Heights,1082,4,2,44,62,1,0,1,1.27,1316550
+Staten Island,New Dorp,2408,0,3,7,0,1,0,1,1.92,1288635
+Manhattan,SoHo,3444,1,2,48,70,1,1,1,0.61,2713071
+Bronx,Riverdale,2733,4,4,27,89,0,1,0,2.39,1414990
+Queens,Astoria,2190,3,3,45,18,0,1,1,1.98,2009701
+Bronx,Fordham,1877,4,2,35,51,0,0,1,0.57,768076
+Manhattan,Upper East Side,1285,4,4,15,29,1,0,0,1.44,2067431
+Bronx,Riverdale,796,3,1,28,54,1,1,0,0.37,938998
+Bronx,Mott Haven,1938,3,3,35,13,1,1,0,0.97,1611743
+Manhattan,Upper East Side,2473,5,4,7,12,0,1,0,1.68,2297405
+Staten Island,Tottenville,712,1,1,46,83,0,0,1,0.89,877788
+Bronx,Norwood,2573,3,4,46,89,1,1,0,1.68,2052870
+Bronx,Norwood,1988,2,2,20,26,1,0,0,0.69,1524778
+Staten Island,Great Kills,1621,2,2,32,88,1,1,0,1.83,861556
+Bronx,Riverdale,1210,1,1,38,8,1,0,1,0.96,975337
+Bronx,Riverdale,2635,0,2,40,40,1,0,1,2.0,1762336
+Bronx,Pelham Bay,3145,0,4,32,47,0,1,1,0.43,1518944
+Brooklyn,Williamsburg,3257,2,1,26,11,1,0,0,0.97,2406402
+Staten Island,St. George,3163,3,4,39,9,1,0,1,1.21,2307796
+Bronx,Norwood,2432,1,4,20,5,1,1,0,1.12,1892598
+Staten Island,Annadale,1907,0,4,18,33,1,1,0,1.14,1288727
+Queens,Long Island City,849,0,2,15,51,0,1,0,1.17,975297
+Queens,Forest Hills,2970,4,2,22,40,1,0,0,2.47,1324197
+Bronx,South Bronx,2294,2,4,22,82,1,0,1,0.56,1330625
+Staten Island,Great Kills,1777,3,3,21,5,1,1,1,1.94,1114802
+Staten Island,Tottenville,3433,1,4,2,1,0,1,1,1.42,2322853
+Staten Island,Great Kills,3105,0,4,40,14,1,0,1,1.09,2421008
+Brooklyn,Williamsburg,996,4,1,43,16,0,1,0,1.62,1246559
+Queens,Jamaica,2547,2,4,18,15,1,1,0,2.15,1536936
+Staten Island,Great Kills,1015,2,2,23,27,1,0,0,1.22,1076740
+Staten Island,Tottenville,1347,1,1,13,84,1,0,0,2.18,1050143
+Brooklyn,Bushwick,1981,0,3,41,71,1,1,0,0.33,1726439
+Brooklyn,Flatbush,955,1,1,9,9,1,0,1,1.67,1376145
+Staten Island,Stapleton,677,1,3,49,9,1,0,1,0.9,1105640
+Manhattan,Financial District,2413,5,1,7,9,1,1,0,1.03,2260323
+Staten Island,New Dorp,890,4,1,41,72,1,1,0,1.47,876538
+Staten Island,New Dorp,654,2,3,1,27,1,1,1,1.25,822872
+Brooklyn,Williamsburg,2828,5,2,2,23,0,0,1,1.02,2322445
+Brooklyn,Flatbush,1291,3,2,4,18,0,1,0,0.84,1419161
+Staten Island,Stapleton,941,2,2,14,96,0,0,1,1.58,925942
+Staten Island,St. George,1687,2,1,32,67,0,1,1,1.31,864610
+Staten Island,Great Kills,2033,4,4,36,55,1,0,0,0.88,1846539
+Brooklyn,Bushwick,1224,3,1,2,66,1,0,0,0.59,1358557
+Staten Island,New Dorp,3326,0,4,40,41,0,1,1,1.96,1780833
+Staten Island,Annadale,1752,3,4,14,11,0,0,1,2.02,1201841
+Bronx,Riverdale,680,0,2,20,17,0,1,0,0.61,643400
+Manhattan,SoHo,1698,3,4,25,22,0,1,1,0.73,2276726
+Queens,Long Island City,1172,1,1,42,83,1,0,1,0.67,1228575
+Manhattan,SoHo,3290,3,1,49,5,0,0,1,2.22,2960367
+Bronx,Pelham Bay,3166,5,2,8,52,1,0,0,1.96,1073798
+Queens,Jamaica,727,5,3,28,97,1,1,1,0.28,792390
+Staten Island,Tottenville,2658,4,1,46,41,1,1,1,2.1,1752291
+Bronx,Norwood,3174,0,4,21,65,0,1,0,0.19,1398318
+Staten Island,Tottenville,1322,2,1,23,29,0,1,0,0.71,1003950
+Brooklyn,DUMBO,951,4,1,32,8,1,1,1,2.31,1158078
+Bronx,Riverdale,2473,5,1,8,90,0,1,0,2.17,1090200
+Brooklyn,Bushwick,2474,5,3,31,41,0,0,0,1.98,2090002
+Bronx,Mott Haven,1101,0,4,37,33,1,1,1,1.2,1133661
+Bronx,Riverdale,2319,5,2,16,39,1,1,0,0.87,1374114
+Brooklyn,Flatbush,3129,5,1,40,87,0,1,1,2.22,2258830
+Queens,Jackson Heights,2860,0,4,42,16,1,1,1,1.68,1421294
+Manhattan,Harlem,566,5,4,27,28,0,0,0,0.81,1535796
+Staten Island,St. George,568,2,2,40,99,0,0,1,1.21,788201
+Bronx,Mott Haven,628,1,1,41,49,1,0,1,2.22,662064
+Staten Island,Stapleton,2402,4,3,18,75,1,1,1,2.27,1275047
+Brooklyn,Bushwick,766,2,4,35,94,0,1,1,1.68,1048841
+Staten Island,Great Kills,927,2,2,49,48,1,1,1,1.86,957436
+Brooklyn,Park Slope,1190,1,3,15,72,0,0,0,0.19,1242954
+Staten Island,New Dorp,923,4,4,27,60,1,1,0,1.55,776391
+Manhattan,Midtown,1495,2,1,17,82,0,1,1,1.75,1374376
+Manhattan,Harlem,2068,5,4,40,45,1,0,1,0.15,2542541
+Manhattan,SoHo,2553,1,3,2,45,0,0,0,2.13,2144966
+Manhattan,Upper East Side,3179,4,3,49,16,0,1,1,2.33,2563369
+Manhattan,SoHo,2308,3,1,31,65,1,0,1,0.67,2639702
+Manhattan,Upper East Side,3412,0,1,37,4,0,1,1,2.13,2457244
+Brooklyn,Park Slope,1705,5,2,41,53,0,1,0,1.7,1811463
+Bronx,Mott Haven,532,1,1,41,15,0,0,1,1.49,789852
+Staten Island,New Dorp,2981,0,2,34,80,0,1,0,2.12,1240601
+Manhattan,Chelsea,3422,3,3,34,90,0,0,1,0.79,2765638
+Brooklyn,Bushwick,2716,2,3,3,6,1,0,1,2.0,1968136
+Brooklyn,Park Slope,3120,2,4,17,7,0,1,0,0.85,2616055
+Brooklyn,Flatbush,2042,4,4,14,71,0,0,0,1.99,1389127
+Bronx,Norwood,3238,1,2,14,86,0,1,1,1.18,2170061
+Staten Island,New Dorp,2288,1,1,46,95,1,1,1,0.38,1849225
+Bronx,Mott Haven,2170,4,1,38,81,1,0,1,1.02,1738148
+Queens,Jackson Heights,417,0,4,35,37,0,0,0,0.66,793028
+Brooklyn,Bay Ridge,2177,2,3,1,53,0,0,1,0.34,1845032
+Queens,Flushing,516,2,2,48,75,1,1,0,0.36,1040267
+Manhattan,Chelsea,1197,1,3,29,14,1,1,1,1.97,1652933
+Manhattan,SoHo,2998,1,3,4,91,0,1,1,2.22,2445715
+Bronx,Pelham Bay,3376,4,1,33,49,1,1,1,2.33,2339190
+Staten Island,Tottenville,2111,3,2,17,55,0,1,1,2.15,1266283
+Queens,Long Island City,1152,0,3,28,94,0,1,1,2.09,812969
+Staten Island,Annadale,2869,5,4,26,8,0,1,1,0.27,2000469
+Bronx,Riverdale,1792,3,4,8,7,1,0,1,2.0,924705
+Manhattan,Upper East Side,3093,3,1,34,18,0,1,0,1.98,2376962
+Staten Island,Stapleton,3005,1,4,18,50,0,1,1,0.42,1615108
+Staten Island,St. George,2497,1,4,31,71,1,0,1,1.69,1994973
+Manhattan,Chelsea,1077,1,3,27,97,0,1,1,1.19,1590559
+Queens,Flushing,505,3,4,16,56,0,1,1,2.26,1062710
+Manhattan,Financial District,1057,0,4,10,67,0,0,0,1.77,1335709
+Staten Island,Annadale,2346,1,3,40,30,1,1,0,2.38,1609303
+Queens,Jamaica,1848,2,1,12,2,1,0,1,0.35,1509785
+Queens,Jamaica,1495,0,1,22,98,0,1,1,0.2,1273175
+Manhattan,Upper East Side,1387,2,2,16,82,1,1,0,2.44,2000441
+Staten Island,Great Kills,3289,0,4,12,42,0,0,0,0.29,2175311
+Bronx,South Bronx,2208,1,3,11,28,0,0,0,1.03,1517124
+Staten Island,St. George,2182,5,2,20,9,1,1,1,1.66,1496888
+Brooklyn,Bushwick,845,4,1,1,11,1,1,0,2.21,1289225
+Bronx,Pelham Bay,2348,1,1,27,45,0,0,0,0.71,1460987
+Queens,Astoria,2517,3,3,3,29,1,1,1,0.17,1304334
+Bronx,Fordham,2397,5,2,12,93,1,0,1,1.35,1908794
+Queens,Jamaica,2597,3,2,30,81,1,0,1,1.23,2102053
+Queens,Long Island City,1173,0,3,9,87,0,0,0,0.84,811161
+Bronx,Norwood,1961,3,3,37,31,0,1,0,2.2,1647903
+Queens,Jackson Heights,2075,5,2,1,72,1,1,0,1.9,1575742
+Queens,Jamaica,1522,5,1,42,46,0,1,0,2.16,1338096
+Brooklyn,Bay Ridge,1701,1,4,49,87,0,0,1,0.49,1332025
+Staten Island,St. George,1986,2,1,4,62,1,1,0,1.76,1665781
+Staten Island,Tottenville,2086,1,3,15,25,0,0,1,2.44,1547370
+Brooklyn,Bay Ridge,1343,0,2,27,2,1,0,0,1.57,1370177
+Bronx,South Bronx,854,3,2,8,22,0,1,0,0.51,840163
+Manhattan,Chelsea,1527,2,4,23,74,0,1,0,2.49,1949438
+Manhattan,Harlem,1345,4,2,15,73,1,0,1,1.37,1763755
+Manhattan,Upper East Side,1000,5,4,27,49,0,1,0,2.12,1727691
+Brooklyn,Flatbush,3100,2,1,31,35,1,0,1,0.46,2141165
+Brooklyn,Williamsburg,1124,2,1,39,12,0,1,1,1.7,1385214
+Queens,Forest Hills,2680,1,2,47,28,0,0,1,2.29,2203989
+Manhattan,Financial District,1817,4,2,8,37,0,1,1,1.38,2312550
+Bronx,Norwood,1924,5,3,30,76,1,0,0,0.79,1643416
+Bronx,Fordham,650,0,3,42,89,0,1,0,0.41,868673
+Manhattan,Upper East Side,1944,0,2,18,83,0,0,1,0.81,2308008
+Manhattan,Midtown,478,2,2,4,4,1,0,1,0.95,1468839
+Manhattan,Harlem,1297,2,1,47,19,1,0,0,1.8,2032018
+Brooklyn,Williamsburg,3368,3,2,43,77,0,0,0,0.53,1590628
+Brooklyn,Williamsburg,1180,4,3,22,13,1,0,1,0.35,1422172
+Brooklyn,Park Slope,625,5,1,3,7,1,0,0,1.03,1227644
+Staten Island,Great Kills,1474,2,4,15,47,1,1,0,1.2,1117767
+Bronx,Mott Haven,1609,3,3,35,12,1,0,0,1.61,1347075
+Bronx,Mott Haven,1457,4,3,47,23,0,0,1,1.8,1442774
+Queens,Forest Hills,1202,5,1,38,78,1,1,1,2.23,1068615
+Brooklyn,Bay Ridge,1141,0,4,33,64,0,1,1,0.79,1505150
+Staten Island,St. George,2578,3,3,14,85,0,0,1,1.37,1470593
+Staten Island,Tottenville,3470,4,2,48,33,0,1,1,0.98,2787797
+Bronx,Riverdale,3079,3,3,1,50,1,1,0,0.1,1596511
+Brooklyn,DUMBO,3285,2,1,49,2,1,0,0,1.49,2437833
+Queens,Astoria,3206,1,1,26,89,0,0,0,2.06,1721640
+Brooklyn,Park Slope,1103,0,1,8,77,0,1,1,0.19,1243382
+Manhattan,SoHo,2944,2,3,16,57,1,1,0,0.11,2064779
+Brooklyn,Park Slope,1826,2,4,38,71,1,1,1,1.85,1428668
+Manhattan,Midtown,2770,4,2,10,54,0,1,1,1.74,1845506
+Manhattan,SoHo,1014,3,1,42,79,1,1,1,1.07,1666290
+Queens,Flushing,728,0,4,37,41,1,1,1,1.69,1137408
+Bronx,Norwood,1795,2,2,26,20,0,0,1,2.39,999405
+Brooklyn,Williamsburg,1883,4,1,28,9,1,1,1,0.69,1708212
+Manhattan,Midtown,532,0,2,12,56,1,0,0,0.69,1433329
+Brooklyn,Bay Ridge,1234,3,2,20,24,0,0,1,0.55,1267746
+Bronx,South Bronx,3098,2,4,49,55,1,1,0,1.84,1575084
+Bronx,Pelham Bay,520,5,2,14,37,0,0,1,0.95,657856
+Staten Island,Stapleton,3053,2,1,46,85,1,1,0,2.47,1578691
+Bronx,Riverdale,1875,2,4,35,60,0,0,1,1.82,1023895
+Queens,Jamaica,1364,0,3,29,46,1,1,1,0.98,1190287
+Manhattan,Harlem,528,0,3,12,53,0,0,0,0.46,1326816
+Staten Island,Great Kills,1998,0,4,18,45,1,1,1,1.52,1652461
+Queens,Long Island City,2476,0,3,44,67,1,0,1,0.81,2036514
+Brooklyn,DUMBO,3169,4,2,2,3,1,1,0,2.27,2483833
+Manhattan,SoHo,1947,1,1,2,93,0,0,0,1.16,2023212
+Bronx,Mott Haven,732,4,2,17,65,1,0,1,0.8,777302
+Manhattan,Midtown,1553,2,4,10,92,0,0,0,1.51,1753604
+Brooklyn,Bay Ridge,1716,4,1,18,42,1,1,0,0.43,1335771
+Staten Island,Stapleton,1596,3,4,22,61,1,1,1,1.45,1215219
+Staten Island,Tottenville,3391,5,4,19,99,1,1,0,0.23,2562665
+Staten Island,St. George,3495,0,4,1,84,1,1,1,1.56,1545772
+Bronx,Riverdale,1829,3,2,24,84,1,1,0,1.37,1079574
+Queens,Flushing,755,5,1,36,84,1,0,1,1.35,1156668
+Queens,Jackson Heights,538,3,1,25,3,0,1,1,1.74,986746
+Manhattan,Harlem,1926,2,1,36,64,0,1,1,0.21,1872632
+Bronx,South Bronx,1597,0,2,31,61,1,0,0,1.2,938541
+Staten Island,St. George,428,3,3,31,89,1,1,1,1.17,809171
+Staten Island,Great Kills,1330,2,2,2,1,1,1,0,1.2,942897
+Brooklyn,Park Slope,2943,0,2,19,8,1,1,1,2.45,2173678
+Brooklyn,Flatbush,1413,1,4,12,56,1,1,1,0.43,1671497
+Staten Island,New Dorp,3102,2,1,10,44,0,1,1,1.76,2269858
+Staten Island,Great Kills,1227,4,1,31,17,1,1,0,1.06,987602
+Bronx,Riverdale,750,0,3,45,47,1,0,1,1.33,792940
+Queens,Jackson Heights,3001,3,3,22,41,0,1,1,1.93,1610590
+Brooklyn,Williamsburg,2424,5,4,23,40,0,1,0,0.48,2008616
+Queens,Forest Hills,698,3,1,23,74,0,1,1,1.93,929491
+Bronx,South Bronx,2143,4,3,15,88,1,0,1,0.27,1769684
+Staten Island,Stapleton,2265,4,3,26,89,1,0,0,1.26,1464993
+Queens,Forest Hills,1615,3,1,3,57,1,0,0,1.88,1151518
+Staten Island,Tottenville,2095,5,2,23,99,1,0,0,0.56,1373868
+Staten Island,New Dorp,2511,0,3,20,41,1,1,1,1.95,1177399
+Manhattan,Financial District,1154,2,1,45,34,0,0,0,0.5,1839555
+Queens,Jackson Heights,1169,4,3,40,37,1,1,1,2.02,1209782
+Queens,Flushing,1638,4,4,39,66,1,1,1,1.23,1666658
+Staten Island,Stapleton,1233,4,3,8,40,1,1,0,1.74,1123748
+Bronx,South Bronx,2613,5,1,18,98,0,0,0,2.3,1342259
+Manhattan,Harlem,2306,1,3,41,49,1,1,1,1.08,2314804
+Staten Island,Great Kills,1964,5,4,6,85,1,0,0,0.66,1049092
+Brooklyn,Bay Ridge,1618,0,4,27,71,1,1,0,2.18,1174495
+Brooklyn,Bushwick,905,0,3,36,78,1,0,1,0.49,1333450
+Manhattan,Financial District,1757,0,3,15,44,0,0,0,1.62,2142033
+Bronx,Mott Haven,3240,0,4,37,70,0,1,0,2.32,1153339
+Staten Island,Annadale,3280,0,4,5,18,0,1,0,1.72,2197970
+Queens,Jamaica,1860,3,2,39,16,1,1,1,0.57,1546640
+Manhattan,Midtown,3305,4,2,9,64,0,0,0,0.47,2504057
+Bronx,Mott Haven,1816,5,4,7,92,0,0,0,0.71,1270175
+Queens,Astoria,3253,3,3,41,76,1,0,1,1.04,1727563
+Brooklyn,Bushwick,1572,5,1,20,55,1,1,1,0.48,1244791
+Brooklyn,DUMBO,1160,1,3,10,92,0,0,1,2.01,1038975
+Queens,Long Island City,1232,2,3,26,40,0,1,1,0.96,1068562
+Manhattan,Upper East Side,1828,4,2,4,41,0,0,0,2.35,1593153
+Brooklyn,Bushwick,682,1,2,38,5,0,0,1,2.12,1246894
+Staten Island,Tottenville,778,3,2,24,68,1,0,1,2.28,955878
+Queens,Jackson Heights,597,2,4,14,97,1,1,0,0.81,920050
+Queens,Long Island City,3462,1,4,41,74,0,1,1,1.48,1806208
+Brooklyn,Bushwick,3471,5,3,1,72,0,1,1,0.87,1873298
+Manhattan,Chelsea,955,2,3,17,39,0,0,0,0.72,1553604
+Staten Island,Annadale,755,5,1,45,40,1,0,1,1.56,1045595
+Manhattan,SoHo,1963,1,3,24,8,1,0,1,2.06,1944343
+Bronx,Riverdale,1440,3,3,27,7,1,0,0,0.32,1385237
+Bronx,Mott Haven,3086,5,2,7,43,0,1,0,0.76,1617532
+Brooklyn,Bushwick,778,2,2,9,57,1,0,0,0.59,1244026
+Brooklyn,Bushwick,1079,1,2,43,66,0,0,0,2.02,1164117
+Brooklyn,DUMBO,2953,5,2,35,12,0,1,0,2.34,1705104
+Bronx,Mott Haven,2179,3,2,12,18,1,1,0,0.29,1447405
+Manhattan,Chelsea,1298,4,1,21,97,0,1,0,1.01,1983060
+Manhattan,Harlem,475,3,1,3,95,1,0,0,2.29,1341754
+Brooklyn,Bushwick,630,3,1,15,48,1,1,0,0.93,1034612
+Staten Island,Annadale,2139,4,2,21,79,0,0,0,1.81,1037426
+Manhattan,Financial District,1361,3,4,10,99,0,1,0,0.34,1785606
+Bronx,South Bronx,2749,4,2,33,81,1,0,0,1.17,1840704
+Queens,Long Island City,3173,4,2,46,77,1,0,1,1.31,2501046
+Queens,Flushing,2662,5,1,6,29,1,0,0,1.92,1882146
+Queens,Long Island City,2516,5,2,2,65,1,0,0,0.79,1185274
+Staten Island,New Dorp,792,4,1,29,76,1,0,0,0.73,781238
+Brooklyn,Flatbush,1508,1,2,40,90,1,0,0,0.83,1488887
+Bronx,Pelham Bay,666,2,3,33,58,1,1,0,1.43,881422
+Staten Island,New Dorp,1492,1,4,4,52,0,0,1,2.2,1318306
+Bronx,Pelham Bay,1010,4,4,4,51,1,0,1,2.09,810228
+Bronx,Fordham,1770,2,1,29,80,0,0,1,0.24,1471248
+Brooklyn,Bay Ridge,1408,5,3,37,30,0,0,1,2.21,1815264
+Queens,Forest Hills,1361,2,4,20,14,1,1,0,0.33,1354582
+Brooklyn,Park Slope,3175,4,1,41,19,1,0,1,1.1,2667071
+Staten Island,Annadale,1072,5,2,23,4,1,0,1,1.94,1029378
+Staten Island,Stapleton,2870,2,2,45,6,1,1,0,0.3,2078263
+Staten Island,New Dorp,2100,2,3,18,17,1,0,1,0.2,1891551
+Brooklyn,Bay Ridge,2562,1,4,49,55,0,1,1,0.89,1605407
+Bronx,Pelham Bay,2667,2,2,25,74,0,0,0,1.85,1808524
+Bronx,Norwood,430,4,1,1,95,1,0,0,1.35,510365
+Manhattan,Chelsea,1766,0,2,15,90,1,1,1,1.1,2146067
+Staten Island,Great Kills,1800,0,2,34,89,1,1,0,2.05,1373385
+Bronx,Riverdale,1553,0,4,48,44,1,1,1,1.94,1460335
+Manhattan,Chelsea,1016,4,4,20,27,0,0,0,1.99,1909868
+Bronx,South Bronx,938,0,1,37,49,0,1,1,1.2,798010
+Staten Island,Annadale,3186,1,3,27,1,0,1,1,0.15,1339992
+Queens,Jackson Heights,3473,4,3,22,83,1,0,1,0.51,2364491
+Staten Island,New Dorp,1270,5,2,5,67,1,0,0,1.88,962349
+Brooklyn,Bushwick,500,4,1,34,76,1,0,0,1.91,1223779
+Bronx,Norwood,1812,4,3,39,23,0,1,1,2.43,982127
+Bronx,Pelham Bay,3139,2,3,3,47,0,0,0,0.56,2180159
+Brooklyn,Bushwick,1340,2,2,17,44,0,1,0,0.4,1287468
+Brooklyn,Bushwick,740,2,1,24,92,1,1,1,0.43,1239109
+Queens,Astoria,3308,3,3,24,57,0,1,0,0.54,2368169
+Bronx,South Bronx,1443,1,4,3,35,1,1,0,1.37,785362
+Bronx,South Bronx,437,4,4,45,1,0,0,1,2.44,769163
+Queens,Jackson Heights,1059,4,2,7,17,1,0,1,1.51,1269645
+Manhattan,SoHo,2433,2,2,25,48,1,1,0,1.35,2532553
+Queens,Forest Hills,1960,4,2,3,7,1,1,0,1.72,1418464
+Staten Island,St. George,2056,5,2,15,57,1,0,0,0.28,1775416
+Bronx,Pelham Bay,3375,4,3,29,14,0,0,1,2.06,1669243
+Brooklyn,Williamsburg,1449,0,1,29,16,0,1,0,1.65,1269578
+Staten Island,Tottenville,853,5,2,10,22,0,1,0,0.51,952415
+Bronx,Riverdale,2104,5,2,32,65,1,1,0,1.61,1121273
+Queens,Flushing,1746,4,3,23,69,0,1,0,1.53,1268186
+Staten Island,New Dorp,3184,3,2,39,92,1,1,0,0.26,2207307
+Bronx,Pelham Bay,1218,2,2,9,26,0,0,0,0.74,894896
+Manhattan,SoHo,1172,1,1,37,36,0,1,1,1.04,1702449
+Manhattan,Harlem,412,1,4,40,48,1,0,1,0.69,1477380
+Brooklyn,DUMBO,3362,0,2,14,63,1,1,1,0.68,2249558
+Bronx,Norwood,1320,1,3,4,33,1,0,0,1.48,993815
+Manhattan,Upper East Side,1224,1,1,20,17,0,1,0,1.23,1898777
+Queens,Forest Hills,2818,2,3,28,63,1,0,1,1.7,1477985
+Bronx,Mott Haven,1714,2,1,14,73,0,0,1,2.4,1284430
+Queens,Forest Hills,2779,3,1,44,43,0,1,1,1.69,2213378
+Queens,Flushing,2708,0,2,34,16,0,1,1,1.5,2035478
+Manhattan,Chelsea,2417,1,2,13,58,1,0,1,2.13,2220804
+Bronx,Riverdale,1628,3,2,31,12,0,0,0,1.62,1040812
+Staten Island,St. George,1096,0,4,33,51,1,0,0,0.5,1073172
+Manhattan,Upper East Side,3134,5,4,39,59,1,1,0,0.86,2908739
+Manhattan,Financial District,1349,1,3,28,41,0,0,0,1.86,1778249
+Bronx,South Bronx,2834,1,2,25,90,0,1,0,1.87,1294268
+Bronx,Riverdale,3268,2,4,32,63,0,1,1,2.47,1909472
+Queens,Jackson Heights,2915,4,2,9,65,0,1,1,1.6,2148180
+Bronx,South Bronx,1838,0,4,28,33,1,1,0,2.26,809260
+Queens,Astoria,468,1,4,31,94,1,1,1,0.23,892382
+Manhattan,Chelsea,2181,0,1,17,86,1,1,0,1.46,1648226
+Brooklyn,DUMBO,2647,3,2,23,70,1,0,0,2.31,1960228
+Staten Island,Great Kills,2663,3,2,13,63,1,0,1,0.79,1652486
+Manhattan,Chelsea,2369,4,4,10,32,1,1,0,0.47,1967376
+Bronx,Riverdale,611,1,2,16,11,1,0,0,0.94,825188
+Staten Island,Great Kills,907,2,4,6,75,1,0,0,2.0,714903
+Brooklyn,Bushwick,2463,1,2,48,18,1,1,1,0.3,1472518
+Brooklyn,Park Slope,1921,0,1,11,8,0,0,1,1.54,1707259
+Queens,Flushing,3331,5,2,3,73,0,1,0,0.43,2325090
+Staten Island,Stapleton,731,3,1,28,16,1,1,0,1.15,1094577
+Queens,Forest Hills,3164,0,3,41,49,1,1,1,2.42,1924748
+Manhattan,Midtown,950,4,2,15,38,0,1,1,0.57,1635969
+Staten Island,Annadale,2024,3,2,13,40,0,0,1,0.18,1045080
+Manhattan,Chelsea,1341,2,2,42,9,0,0,1,1.13,2001520
+Queens,Jamaica,2703,3,1,45,11,1,1,0,1.49,1984294
+Staten Island,St. George,3439,5,2,17,78,0,0,0,0.81,2708620
+Queens,Jamaica,1127,1,2,7,94,0,1,0,1.4,1107019
+Staten Island,New Dorp,1279,5,4,28,14,0,1,1,2.39,1515080
+Queens,Forest Hills,3262,5,3,38,27,0,0,1,0.85,2764969
+Brooklyn,Park Slope,1048,1,1,13,3,0,0,0,0.84,1290827
+Queens,Flushing,1399,3,4,17,35,1,1,1,1.26,1152678
+Brooklyn,Bushwick,1921,4,1,15,64,0,0,0,1.34,1246219
+Queens,Astoria,2918,1,4,36,97,1,1,1,0.1,1712305
+Staten Island,St. George,3137,1,3,28,46,0,1,0,1.58,1828860
+Staten Island,Great Kills,2012,2,4,15,80,0,0,0,2.49,1019804
+Staten Island,Tottenville,3147,3,1,46,38,0,1,0,0.8,1566311
+Bronx,Fordham,2954,1,2,11,37,0,0,0,1.61,1365598
+Manhattan,Financial District,3439,4,2,31,43,0,1,1,0.11,1987847
+Staten Island,New Dorp,1409,0,3,4,50,1,1,0,1.55,967444
+Brooklyn,Park Slope,1950,3,1,35,96,1,1,0,1.17,1351142
+Staten Island,Stapleton,1203,2,1,34,84,1,1,0,1.37,946246
+Bronx,Riverdale,3278,5,1,27,25,1,1,0,1.41,1482200
+Brooklyn,Bushwick,613,1,3,10,35,1,0,1,0.52,1142407
+Bronx,Pelham Bay,568,4,2,30,68,1,1,0,1.95,719385
+Brooklyn,Flatbush,1377,3,4,45,96,1,0,0,1.43,1496896
+Queens,Flushing,1728,4,3,20,0,0,0,1,0.75,1553104
+Manhattan,Harlem,545,4,4,29,52,1,0,0,2.35,1464454
+Manhattan,Upper East Side,2198,5,2,29,5,0,1,0,0.13,2372383
+Bronx,South Bronx,915,2,3,23,36,0,0,0,1.84,819924
+Manhattan,Harlem,852,3,2,21,1,1,0,0,1.01,1576640
+Bronx,Mott Haven,459,1,4,48,68,0,0,1,1.35,680116
+Bronx,South Bronx,927,2,1,43,89,0,1,1,0.8,952577
+Bronx,Pelham Bay,1423,1,1,10,40,1,1,1,0.87,1242460
+Manhattan,Harlem,2921,0,4,41,50,0,1,1,0.14,2586030
+Bronx,Riverdale,1964,4,1,12,46,1,1,1,1.85,1280270
+Manhattan,Harlem,3204,0,4,30,12,0,0,1,1.81,2541369
+Bronx,Fordham,3229,4,3,33,75,1,1,0,1.67,1949223
+Staten Island,Annadale,1502,5,3,18,68,0,0,0,2.21,1322999
+Bronx,Riverdale,832,2,3,14,65,1,1,0,2.26,746754
+Brooklyn,Williamsburg,1576,1,1,22,58,0,0,0,1.44,1636174
+Bronx,Riverdale,800,5,2,21,67,1,1,1,1.74,830890
+Queens,Forest Hills,2504,1,1,1,58,0,1,0,0.13,1641314
+Bronx,Norwood,3450,2,1,49,90,0,1,0,2.13,2493369
+Brooklyn,Bay Ridge,2633,3,2,43,9,1,1,1,2.06,2366153
+Brooklyn,Bushwick,2845,0,2,15,12,0,0,0,0.15,2177860
+Manhattan,SoHo,1004,0,2,36,1,1,1,0,1.4,1621411
+Staten Island,Tottenville,3235,1,2,47,89,0,1,1,2.28,1448724
+Bronx,Fordham,2605,1,1,22,14,0,1,0,0.54,1087712
+Manhattan,Chelsea,2210,1,4,32,45,1,0,0,0.95,2428336
+Staten Island,Stapleton,1863,2,3,46,56,0,1,1,0.89,1288972
+Bronx,Pelham Bay,3036,3,4,33,9,1,1,0,0.95,1904149
+Queens,Flushing,2913,0,1,41,21,0,0,0,0.2,1829484
+Bronx,Fordham,2893,5,2,39,88,0,0,0,0.77,1658433
+Brooklyn,DUMBO,2173,4,3,23,78,0,0,0,0.81,1707899
+Brooklyn,Williamsburg,3248,2,3,43,76,0,1,0,2.18,2691214
+Queens,Jackson Heights,1953,0,4,2,7,1,0,1,0.95,1083360
+Manhattan,Upper East Side,1496,3,1,2,20,1,1,0,1.17,2065896
+Staten Island,New Dorp,1328,2,1,38,84,0,0,0,1.01,964375
+Bronx,Norwood,2351,5,1,29,21,0,1,0,0.39,1798490
+Brooklyn,DUMBO,2373,0,3,46,96,1,0,1,2.48,2297819
+Manhattan,SoHo,2464,2,4,3,44,0,0,1,2.08,1980913
+Queens,Astoria,1954,0,3,39,90,1,0,1,1.4,1046949
+Brooklyn,Bushwick,3178,0,3,7,39,0,1,0,1.24,1700428
+Queens,Flushing,725,3,2,36,21,0,0,0,1.66,847811
+Bronx,South Bronx,1394,4,4,29,29,1,1,0,0.88,1359508
+Staten Island,Great Kills,1012,3,2,37,61,0,0,0,0.22,825693
+Brooklyn,Williamsburg,2993,0,1,49,72,1,0,0,1.07,1519573
+Brooklyn,Park Slope,995,2,3,36,44,1,0,1,2.46,1310493
+Bronx,Riverdale,1320,5,4,23,34,1,1,0,0.54,1194803
+Manhattan,Midtown,1241,3,1,45,81,1,1,0,1.37,1679650
+Staten Island,Stapleton,1625,4,4,16,41,1,1,1,0.12,1347858
+Brooklyn,Bushwick,743,0,3,48,4,1,0,1,0.39,1281377
+Staten Island,St. George,2276,5,4,31,26,0,1,1,1.51,1132747
+Brooklyn,Bushwick,1258,3,1,34,69,1,1,1,0.81,1415449
+Staten Island,Stapleton,1823,3,2,1,61,1,0,1,2.27,1440477
+Queens,Astoria,844,3,3,18,31,0,0,0,1.07,982714
+Brooklyn,Park Slope,2188,3,2,40,7,1,1,0,0.6,2119188
+Staten Island,St. George,621,5,3,43,84,0,1,0,1.41,1071638
+Manhattan,Upper East Side,991,2,1,15,17,1,0,0,2.01,1754772
+Queens,Forest Hills,1430,4,3,48,77,1,1,0,0.15,1287292
+Queens,Forest Hills,1695,4,2,49,14,1,0,1,1.31,1804979
+Manhattan,Upper East Side,1417,0,3,17,25,0,0,0,1.96,1874396
+Staten Island,St. George,2463,1,1,44,52,0,1,0,0.35,1749117
+Bronx,South Bronx,1847,2,3,10,43,1,1,1,2.27,1193789
+Manhattan,Financial District,2445,0,2,20,31,1,0,1,0.73,1905818
+Staten Island,Tottenville,923,0,1,6,27,0,1,0,0.51,715000
+Manhattan,SoHo,3250,3,2,8,38,0,0,0,1.51,2165249
+Manhattan,Harlem,2468,1,3,45,31,0,1,1,0.52,2252836
+Brooklyn,Park Slope,2675,1,4,34,76,1,0,0,1.73,1734219
+Staten Island,St. George,3455,2,2,32,78,0,1,1,1.28,2522241
+Bronx,Norwood,2208,1,3,42,17,0,1,0,0.36,1864892
+Brooklyn,Park Slope,1711,0,4,4,69,0,0,1,2.29,1623862
+Manhattan,Chelsea,3256,1,4,44,10,0,1,1,1.72,3351661
+Manhattan,Financial District,1706,1,1,39,31,0,0,1,1.41,2379458
+Manhattan,Chelsea,2851,4,4,20,19,0,1,0,1.0,3008299
+Staten Island,Tottenville,1489,0,2,24,96,0,1,1,0.42,748004
+Staten Island,Tottenville,2072,5,2,24,39,1,1,1,1.8,1353871
+Brooklyn,DUMBO,836,1,4,26,7,0,1,0,2.05,1188587
+Bronx,Mott Haven,1228,1,3,25,34,1,0,0,0.4,808163
+Brooklyn,Park Slope,3381,3,2,36,68,1,0,0,1.29,2609349
+Queens,Jackson Heights,658,1,2,7,98,0,1,1,1.26,815739
+Manhattan,SoHo,2403,1,1,10,77,1,0,1,0.94,1993362
+Manhattan,Chelsea,2389,4,3,47,20,1,0,1,1.99,1994538
+Manhattan,Upper East Side,502,0,4,12,23,0,1,0,0.34,1434759
+Brooklyn,Bay Ridge,1392,2,3,1,16,1,0,0,0.59,1417697
+Brooklyn,Park Slope,1168,0,1,25,17,0,0,1,0.1,1383704
+Manhattan,Upper East Side,1524,3,1,16,97,0,1,0,1.0,1699961
+Brooklyn,Bushwick,1621,0,3,5,11,0,1,0,0.8,1476112
+Staten Island,Annadale,3260,1,1,19,15,0,1,1,2.18,2125820
+Staten Island,Annadale,2673,3,1,4,3,0,1,1,1.89,1907724
+Brooklyn,Bushwick,3390,0,1,6,88,0,0,0,0.3,1582943
+Manhattan,Chelsea,2910,3,3,26,33,0,1,1,1.88,1912441
+Brooklyn,Bushwick,636,2,1,49,91,1,0,0,1.72,1037559
+Brooklyn,Bay Ridge,3497,0,4,39,45,0,0,0,0.78,2605945
+Brooklyn,Bay Ridge,1544,5,4,39,74,1,1,1,0.14,1483178
+Queens,Long Island City,2953,1,2,9,76,0,0,1,0.38,1244918
+Staten Island,Tottenville,3261,3,4,45,30,0,0,0,0.7,1432664
+Bronx,Fordham,1166,5,2,14,24,0,0,0,2.06,1096843
+Bronx,Fordham,3081,5,3,48,73,1,1,1,1.22,1686087
+Queens,Long Island City,1390,4,1,9,23,1,0,0,2.3,1207843
+Brooklyn,Bushwick,3065,3,4,15,64,1,1,0,1.99,2155532
+Queens,Forest Hills,2159,5,2,37,24,1,1,0,0.79,1342720
+Queens,Flushing,2720,4,3,20,27,1,0,0,2.13,1756368
+Manhattan,SoHo,2679,5,2,8,35,1,0,0,0.38,2269866
+Staten Island,Great Kills,3215,1,1,32,81,0,1,1,0.19,1592349
+Bronx,Mott Haven,895,2,4,47,5,0,1,0,1.56,1098116
+Brooklyn,Flatbush,1447,4,3,21,65,1,1,0,0.92,1498626
+Bronx,South Bronx,2126,2,2,41,66,1,1,1,0.89,1583149
+Bronx,Mott Haven,2949,3,3,19,71,1,1,1,1.75,1382721
+Staten Island,Tottenville,2472,1,2,29,94,1,0,1,2.14,1306864
+Bronx,Mott Haven,2735,4,2,31,47,1,1,0,0.87,1363304
+Bronx,South Bronx,737,3,1,6,82,0,0,0,0.88,813285
+Queens,Jackson Heights,2337,5,1,4,69,0,1,1,1.38,1494031
+Staten Island,Annadale,2217,0,2,43,77,0,0,1,1.67,1334069
+Manhattan,SoHo,536,3,4,29,66,0,1,1,0.59,1640422
+Brooklyn,Bushwick,2955,2,3,42,47,0,0,1,2.29,2674850
+Bronx,Fordham,2674,1,3,3,64,0,0,1,1.67,1076829
+Brooklyn,DUMBO,719,1,1,1,43,0,1,0,1.6,974105
+Manhattan,SoHo,2263,3,4,44,93,0,0,1,2.27,1953245
+Brooklyn,DUMBO,1315,5,2,15,62,1,1,0,2.28,1577459
+Manhattan,SoHo,1605,0,1,47,45,1,1,0,0.43,1693439
+Queens,Forest Hills,2297,2,2,21,18,0,0,1,0.45,1773270
+Bronx,Fordham,2533,3,2,46,63,0,0,1,1.93,1727539
+Manhattan,Midtown,1325,3,1,31,82,0,1,1,2.4,1680529
+Brooklyn,Bay Ridge,2500,1,4,7,72,1,1,1,1.7,1285523
+Bronx,Pelham Bay,3307,2,3,17,70,1,1,1,1.09,1642451
+Queens,Flushing,3314,0,1,19,49,0,0,0,1.74,1481652
+Bronx,Mott Haven,1658,1,4,39,62,1,0,1,0.65,1010381
+Manhattan,Chelsea,2382,3,2,3,40,0,1,1,2.5,2224782
+Queens,Jamaica,832,1,1,30,6,0,0,0,1.13,1119181
+Brooklyn,Bushwick,1398,1,3,35,8,0,0,1,2.34,1208464
+Queens,Jamaica,2547,4,3,29,3,0,0,1,1.13,1901077
+Queens,Jackson Heights,1389,1,2,14,88,0,1,1,2.33,849348
+Staten Island,Great Kills,998,5,1,35,48,1,1,0,0.91,1089972
+Queens,Astoria,2850,1,3,28,75,0,0,1,1.93,1979595
+Queens,Long Island City,795,5,1,30,5,0,0,1,2.38,1178412
+Bronx,South Bronx,814,2,3,26,81,0,1,1,1.65,683758
+Brooklyn,Williamsburg,1338,1,2,7,20,0,0,1,1.73,1364708
+Bronx,Pelham Bay,2036,0,2,39,14,1,1,0,0.35,1701716
+Bronx,South Bronx,3124,5,1,31,66,0,1,1,1.24,1245954
+Manhattan,SoHo,2910,5,4,5,65,0,1,0,2.23,2407660
+Bronx,Norwood,940,3,4,35,55,1,1,1,0.68,1110345
+Staten Island,Annadale,2049,2,2,47,67,0,1,1,1.99,1316085
+Staten Island,New Dorp,2345,1,3,14,31,0,1,1,1.72,1304622
+Manhattan,Harlem,483,0,4,36,65,0,1,0,0.64,1472471
+Brooklyn,Bushwick,670,3,2,27,28,0,0,1,0.78,1009989
+Brooklyn,Flatbush,2691,2,3,24,65,1,1,1,1.13,1804949
+Bronx,Mott Haven,787,5,3,40,33,0,0,0,0.4,891837
+Bronx,Fordham,613,0,4,29,26,0,0,1,2.29,559215
+Bronx,Mott Haven,3265,1,2,45,59,1,0,1,1.87,1407311
+Brooklyn,Bay Ridge,458,4,3,22,38,0,1,1,0.98,1081232
+Queens,Astoria,2025,4,3,8,43,0,0,1,0.82,1252966
+Staten Island,Annadale,3330,2,1,15,81,1,1,0,1.75,1899780
+Queens,Flushing,1242,0,1,49,35,0,1,0,1.12,1110338
+Queens,Long Island City,3371,3,4,5,18,1,0,0,0.65,1387154
+Brooklyn,DUMBO,1927,0,1,4,90,0,0,1,1.13,1295942
+Queens,Forest Hills,2129,5,2,11,44,1,0,1,2.19,1115795
+Manhattan,Harlem,522,4,4,18,83,0,0,1,0.26,1548088
+Bronx,Fordham,1836,2,4,42,20,0,1,1,0.98,1169900
+Manhattan,Midtown,1562,1,1,49,22,1,0,0,2.41,2025409
+Staten Island,Tottenville,2886,0,3,30,93,0,0,1,0.14,1428752
+Bronx,Pelham Bay,3469,4,2,15,88,1,0,0,2.24,1747514
+Queens,Jamaica,961,3,2,6,94,1,0,1,1.0,1179945
+Staten Island,Annadale,2565,2,2,16,26,1,0,1,0.55,1682536
+Bronx,South Bronx,2137,1,4,47,97,1,1,0,0.14,1731132
+Queens,Long Island City,1304,0,2,40,71,0,1,1,0.27,1294430
+Manhattan,SoHo,794,3,3,9,18,1,1,0,0.51,1565916
+Bronx,Riverdale,2126,1,3,43,40,0,0,0,0.16,1862048
+Queens,Jamaica,3323,5,1,34,25,0,0,1,0.91,2758980
+Manhattan,Financial District,2116,4,2,27,27,1,1,0,0.21,2030301
+Staten Island,Annadale,1334,5,4,13,63,1,1,0,1.76,1381174
+Staten Island,Great Kills,1501,4,1,36,67,0,1,1,2.07,1332953
+Staten Island,St. George,3399,3,3,27,94,1,1,0,2.23,2515643
+Staten Island,Stapleton,1835,5,2,9,79,0,0,0,1.42,1470797
+Brooklyn,DUMBO,474,4,3,5,50,1,0,1,2.37,1100415
+Bronx,Fordham,694,2,1,22,73,0,0,0,0.11,474363
+Bronx,Fordham,420,3,3,31,47,0,1,1,0.42,785654
+Brooklyn,Park Slope,1438,4,2,3,9,1,1,0,0.8,1259875
+Queens,Long Island City,1634,0,2,30,72,0,1,1,1.99,1015034
+Queens,Forest Hills,959,4,1,21,38,0,0,1,2.22,1215199
+Staten Island,Annadale,1509,5,2,35,99,1,0,1,1.58,760874
+Manhattan,Chelsea,1572,2,3,6,99,1,1,1,1.02,1850944
+Queens,Jamaica,771,1,3,28,18,1,0,1,1.7,850001
+Manhattan,Midtown,2427,1,4,32,63,1,1,0,0.53,1799821
+Bronx,South Bronx,1217,4,4,42,18,1,1,1,1.2,1096095
+Manhattan,Financial District,1574,1,4,37,75,0,1,1,1.32,1681148
+Bronx,South Bronx,1564,4,3,25,61,0,0,0,0.35,1491827
+Brooklyn,DUMBO,1492,2,3,32,12,1,1,1,0.18,1419517
+Brooklyn,Flatbush,1683,1,1,35,24,0,1,0,1.9,1262076
+Staten Island,Tottenville,2411,5,4,22,99,0,0,0,1.38,1057828
+Queens,Forest Hills,1245,5,3,24,88,0,1,1,0.9,1141590
+Staten Island,Tottenville,2391,0,1,39,91,0,1,0,1.15,980053
+Bronx,Mott Haven,920,4,3,30,41,0,0,0,2.4,864303
+Staten Island,Tottenville,770,1,1,32,38,1,1,0,1.02,843445
+Manhattan,Midtown,1842,5,4,31,29,1,1,1,0.35,1774817
+Bronx,Pelham Bay,500,2,4,23,4,0,1,0,1.21,804771
+Brooklyn,Flatbush,1060,2,4,40,80,0,0,1,1.66,1475594
+Queens,Jackson Heights,2081,0,3,33,17,1,1,1,0.13,1597148
+Bronx,South Bronx,3415,2,3,25,20,1,1,0,0.9,1774795
+Bronx,Norwood,642,2,1,36,85,1,1,1,1.04,673637
+Manhattan,Harlem,3200,1,2,24,49,1,0,0,1.21,2813867
+Queens,Long Island City,911,4,2,31,5,0,0,0,0.82,1255327
+Brooklyn,Flatbush,3296,3,4,39,49,1,0,1,1.7,2759176
+Bronx,Mott Haven,3002,2,2,46,79,1,1,1,2.37,1340052
+Bronx,Mott Haven,2673,2,4,13,65,0,0,1,2.29,1003883
+Manhattan,Financial District,1941,3,1,10,0,1,1,0,1.69,1980862
+Staten Island,St. George,2661,2,2,23,56,1,0,0,1.32,2028127
+Brooklyn,Bay Ridge,3165,1,2,18,29,1,0,0,2.08,1509756
+Queens,Forest Hills,2514,1,4,32,57,1,0,1,2.11,1794452
+Bronx,Pelham Bay,795,3,1,33,51,1,0,0,2.09,799758
+Bronx,Mott Haven,1011,5,2,36,36,0,1,0,0.48,1124256
+Brooklyn,DUMBO,3483,2,2,28,47,0,0,0,0.16,1942204
+Staten Island,Annadale,1660,5,2,16,86,0,1,0,2.46,1030271
+Bronx,South Bronx,2257,2,1,16,0,0,1,1,2.4,974404
+Brooklyn,Flatbush,1169,4,1,18,18,0,1,0,1.45,1223807
+Manhattan,Financial District,1822,2,2,8,45,1,0,1,2.48,1709622
+Staten Island,Stapleton,806,1,4,42,66,1,0,0,1.95,1101579
+Queens,Flushing,3372,0,4,16,1,1,1,0,1.34,2544313
+Bronx,South Bronx,2272,0,2,11,55,1,0,0,1.03,1501641
+Brooklyn,Park Slope,1903,0,1,6,16,1,1,1,1.52,1644230
+Manhattan,Harlem,3094,0,2,1,91,1,0,1,1.34,2298182
+Queens,Long Island City,2669,5,1,12,81,1,0,1,2.49,1382831
+Brooklyn,Bushwick,1579,5,2,38,96,1,1,0,1.28,1209651
+Brooklyn,Williamsburg,1053,2,1,28,78,1,0,0,2.11,1006879
+Queens,Forest Hills,2875,5,3,45,21,1,1,1,2.05,2452179
+Manhattan,Harlem,1581,2,4,17,26,1,1,0,0.27,2349586
+Manhattan,Harlem,1376,4,3,1,54,1,0,0,0.31,1760528
+Staten Island,Tottenville,1839,2,4,32,31,1,0,1,1.68,1302876
+Bronx,Norwood,3453,0,1,8,59,0,0,0,0.72,1643468
+Queens,Jamaica,2818,3,3,40,82,1,1,0,1.68,1725214
+Queens,Flushing,1767,3,4,43,27,0,0,0,0.45,1669651
+Queens,Flushing,3297,1,2,46,27,1,0,1,1.05,2353417
+Manhattan,Harlem,3303,1,1,24,73,1,0,0,0.35,2824633
+Bronx,South Bronx,628,2,1,10,83,1,0,1,0.78,656949
+Staten Island,Annadale,2727,3,2,47,24,0,1,0,0.31,1730816
+Brooklyn,Park Slope,2293,0,2,39,84,0,0,1,2.43,2024182
+Brooklyn,Flatbush,1713,5,4,39,77,1,1,1,1.05,1778957
+Queens,Jamaica,1470,0,1,10,85,1,0,1,2.26,1038896
+Bronx,Norwood,1374,0,4,36,25,1,0,1,2.43,997642
+Manhattan,SoHo,2138,2,2,25,74,1,0,0,2.28,2260454
+Bronx,Pelham Bay,1157,2,1,10,70,0,1,1,1.19,892096
+Bronx,Norwood,3495,4,2,19,16,0,1,0,1.97,1946512
+Manhattan,Midtown,720,0,4,46,81,1,0,0,0.47,1455633
+Queens,Flushing,2721,0,4,45,6,0,1,1,0.33,2337974
+Bronx,Pelham Bay,955,2,4,15,55,0,1,0,2.2,899320
+Brooklyn,Williamsburg,1243,2,1,16,63,1,0,0,0.17,1336966
+Manhattan,Harlem,1736,4,2,2,19,1,0,0,2.43,2257568
+Staten Island,Great Kills,1786,4,2,29,37,1,0,0,1.71,1681002
+Queens,Forest Hills,1067,1,4,4,74,0,0,1,1.11,1256896
+Manhattan,SoHo,3447,3,4,29,57,1,0,0,0.44,2134382
+Staten Island,Great Kills,2827,0,4,31,15,0,0,0,1.84,1578957
+Staten Island,New Dorp,3158,0,4,17,50,1,1,0,1.45,1666509
+Bronx,Pelham Bay,2342,4,3,10,26,1,0,0,1.81,1173140
+Bronx,Fordham,2404,4,3,27,50,0,0,0,1.1,1862044
+Bronx,Pelham Bay,2330,1,3,41,74,0,0,1,0.26,1761654
+Manhattan,Upper East Side,1145,3,4,15,15,0,0,0,0.86,1795465
+Manhattan,SoHo,1074,1,4,44,86,0,1,1,0.86,1482303
+Queens,Jackson Heights,2563,3,2,31,59,0,1,0,0.12,1378150
+Bronx,Pelham Bay,3052,5,1,21,75,0,1,1,0.12,1655019
+Staten Island,Great Kills,1465,0,2,41,39,1,0,0,0.89,830956
+Brooklyn,Flatbush,2826,1,3,46,66,0,0,0,1.85,2103741
+Queens,Long Island City,2913,4,2,45,1,0,1,1,1.6,2169479
+Manhattan,Chelsea,2727,1,4,26,47,1,1,1,0.67,2855416
+Queens,Jackson Heights,1017,5,3,38,51,0,0,1,1.55,919992
+Queens,Long Island City,2565,1,3,36,23,0,0,0,1.65,1671633
+Queens,Astoria,2756,0,1,17,92,1,0,1,1.35,2075893
+Queens,Long Island City,2547,5,1,3,97,1,0,1,1.35,1602935
+Brooklyn,Williamsburg,2708,4,3,14,83,1,0,1,0.99,1407714
+Bronx,Mott Haven,1392,4,3,49,81,0,1,0,0.4,829854
+Staten Island,Annadale,1728,2,2,13,77,1,0,0,1.03,1435333
+Queens,Jackson Heights,1777,5,3,41,81,0,1,0,0.93,1591944
+Queens,Astoria,685,2,4,27,1,1,0,1,1.52,1235743
+Queens,Forest Hills,2775,2,2,1,64,0,1,0,2.16,1233696
+Bronx,Norwood,2510,0,4,17,19,1,1,0,1.0,1785302
+Manhattan,Financial District,1086,1,4,48,33,1,1,0,1.8,1803911
+Manhattan,Harlem,1705,4,4,34,40,1,0,0,2.05,1914052
+Brooklyn,Williamsburg,1864,4,3,14,40,0,0,1,0.61,1982686
+Manhattan,SoHo,1137,1,1,17,74,0,0,0,2.26,1581152
+Queens,Flushing,3478,4,1,3,90,1,1,1,0.27,2524093
+Queens,Jamaica,3086,1,4,34,22,1,1,1,2.26,2430204
+Queens,Forest Hills,3383,5,3,40,37,1,0,1,0.49,1871155
+Brooklyn,Bay Ridge,2358,0,2,25,43,1,1,1,0.91,1859053
+Queens,Astoria,2294,0,4,2,66,0,1,1,1.55,1362893
+Manhattan,Chelsea,2923,0,2,34,61,1,1,1,2.27,2590347
+Bronx,Riverdale,1885,1,2,26,11,1,1,0,0.71,1429575
+Bronx,Pelham Bay,2500,1,3,31,29,0,0,1,1.93,1754197
+Staten Island,Great Kills,3201,3,3,9,94,0,1,0,1.81,1117774
+Manhattan,Midtown,885,4,1,30,86,1,0,1,0.48,1787097
+Queens,Flushing,1913,4,1,20,64,1,1,0,1.25,1265306
+Bronx,Fordham,2401,3,3,21,40,0,1,1,1.26,1224969
+Manhattan,SoHo,1787,3,4,29,19,0,0,0,0.83,2340495
+Bronx,Mott Haven,2856,0,1,25,5,1,1,0,1.97,1092650
+Queens,Jamaica,1430,3,2,38,74,0,0,1,2.32,1109409
+Bronx,Fordham,2165,1,4,44,98,0,0,1,1.82,920973
+Staten Island,Tottenville,1067,2,2,25,3,1,0,1,2.44,1080146
+Staten Island,Annadale,1620,1,3,9,92,1,0,1,0.22,960058
+Bronx,Norwood,1234,3,2,39,9,0,0,0,0.19,1220084
+Manhattan,Harlem,1275,4,4,44,50,1,0,0,2.25,1966519
+Manhattan,SoHo,2814,1,3,26,92,1,0,1,2.25,2048800
+Manhattan,Financial District,1401,4,4,37,37,1,1,1,0.36,1950471
+Bronx,Fordham,649,1,2,16,0,1,0,0,0.96,712017
+Manhattan,Harlem,2339,4,4,37,7,1,1,1,2.1,2587363
+Queens,Jackson Heights,2018,5,3,12,80,0,1,0,0.41,1432426
+Staten Island,Annadale,1663,1,2,24,82,0,1,1,0.74,777107
+Queens,Forest Hills,2827,4,2,26,62,1,0,1,1.73,1326131
+Manhattan,Chelsea,1271,2,1,20,32,1,0,0,2.46,1686396
+Queens,Long Island City,1234,0,1,9,14,1,1,0,2.01,1242561
+Manhattan,SoHo,3222,1,4,23,30,0,0,1,1.97,1917989
+Bronx,Fordham,1318,2,1,39,20,0,1,0,0.92,1004635
+Queens,Jamaica,2124,0,1,29,2,0,1,1,1.69,1266514
+Bronx,Norwood,2902,1,1,31,65,0,1,0,0.37,2162805
+Bronx,Riverdale,2813,2,1,19,34,1,0,1,2.48,1750039
+Brooklyn,Flatbush,1713,2,3,20,40,1,1,1,1.25,1287207
+Manhattan,Chelsea,2297,5,3,23,58,0,0,1,1.63,1910890
+Staten Island,Annadale,802,2,1,43,15,0,1,0,2.2,920013
+Manhattan,Financial District,2505,5,4,27,55,1,0,0,0.1,2182115
+Staten Island,Stapleton,2968,3,3,30,44,1,1,0,2.44,2448440
+Manhattan,SoHo,1727,4,1,21,58,1,0,0,0.96,1887250
+Bronx,Fordham,1538,0,3,44,49,1,1,1,0.92,884313
+Queens,Flushing,609,4,2,35,84,1,0,0,0.45,1080440
+Queens,Jackson Heights,1464,4,3,49,11,0,0,0,2.16,1411876
+Brooklyn,Williamsburg,1215,5,3,7,91,1,0,0,2.19,1454416
+Staten Island,Stapleton,2620,4,4,22,11,0,1,1,0.15,2061829
+Staten Island,St. George,633,2,3,10,32,0,1,0,0.23,740756
+Staten Island,St. George,1192,5,4,23,83,1,1,0,2.3,1070239
+Bronx,Riverdale,2307,4,2,15,48,0,0,1,0.39,1601273
+Staten Island,Stapleton,2013,5,1,30,20,0,0,1,1.59,1498342
+Queens,Astoria,3240,3,4,34,59,1,1,1,1.59,1844318
+Bronx,Mott Haven,2566,5,3,13,51,0,1,1,2.19,1081189
+Manhattan,Upper East Side,734,1,3,4,53,1,0,1,1.47,1358292
+Staten Island,Annadale,1759,2,4,18,38,1,1,1,1.14,1611767
+Staten Island,Great Kills,2039,0,2,23,48,0,0,1,2.44,1184564
+Manhattan,Financial District,1497,1,1,33,63,1,0,0,0.65,1767951
+Staten Island,St. George,1614,1,3,34,99,1,0,1,0.73,1253470
+Manhattan,Midtown,723,1,2,34,85,0,1,1,0.3,1286789
+Bronx,Pelham Bay,3458,4,1,36,25,1,0,1,2.44,2064629
+Queens,Long Island City,2190,5,1,35,70,0,1,1,1.8,1915065
+Manhattan,Financial District,683,5,3,17,6,0,0,1,0.13,1655185
+Brooklyn,Park Slope,612,4,4,28,71,1,1,0,1.79,1047884
+Manhattan,Financial District,2058,2,3,14,61,0,1,0,1.07,1971962
+Staten Island,St. George,2141,4,3,34,89,1,0,0,2.42,1777176
+Bronx,Pelham Bay,1328,4,3,48,87,0,0,0,0.77,1181542
+Bronx,South Bronx,1151,4,2,11,23,1,0,0,1.8,792979
+Manhattan,SoHo,1817,2,4,13,39,1,0,0,1.61,1642590
+Queens,Flushing,2786,2,2,33,75,0,1,0,0.13,1950161
+Brooklyn,Bushwick,2221,3,3,2,46,0,1,1,2.22,1616832
+Bronx,Fordham,1445,3,4,34,7,1,1,1,0.44,1413447
+Staten Island,Annadale,2194,3,1,29,53,1,1,1,1.69,1560985
+Staten Island,Stapleton,2292,3,4,37,8,0,1,1,1.96,1819259
+Queens,Astoria,504,5,3,4,2,1,0,1,1.61,1049309
+Bronx,Mott Haven,1889,1,4,12,53,1,0,1,0.33,865675
+Manhattan,Harlem,1882,1,1,26,20,0,1,0,2.44,1785234
+Staten Island,New Dorp,1855,3,1,28,94,0,0,1,0.67,1282431
+Queens,Jamaica,1169,3,4,3,47,1,0,1,1.61,952484
+Bronx,Pelham Bay,3163,0,1,20,46,0,0,1,2.01,1854976
+Bronx,Riverdale,3210,1,2,10,87,0,0,0,2.35,2240018
+Bronx,Pelham Bay,2359,0,4,18,67,1,0,0,1.55,1693323
+Bronx,South Bronx,2427,0,1,27,83,0,0,0,0.72,1431091
+Bronx,South Bronx,778,4,1,31,62,0,1,1,2.11,955496
+Staten Island,Great Kills,1112,5,4,27,15,1,0,1,0.49,1085351
+Queens,Jackson Heights,1772,2,2,42,73,0,0,1,0.15,1347318
+Bronx,Fordham,624,1,4,1,89,1,1,0,2.28,572421
+Brooklyn,Park Slope,2137,3,1,6,92,0,1,0,1.48,1457508
+Brooklyn,Bushwick,1137,3,4,11,4,0,1,1,0.27,1217504
+Queens,Forest Hills,635,2,1,34,10,1,0,0,1.49,1175429
+Manhattan,Chelsea,582,1,3,39,28,0,1,1,0.45,1708534
+Manhattan,Harlem,1111,3,4,20,78,0,0,0,0.18,1687540
+Manhattan,Harlem,2292,3,4,21,69,0,1,0,0.38,1768775
+Brooklyn,Flatbush,2891,4,1,21,47,0,0,0,1.96,1917762
+Manhattan,Financial District,2288,0,1,18,14,0,0,1,1.91,2559161
+Staten Island,New Dorp,1022,3,1,21,83,0,1,0,1.55,952620
+Bronx,Fordham,3477,5,1,19,33,1,0,1,0.6,2190148
+Brooklyn,Bay Ridge,1659,1,4,4,59,0,0,1,1.87,1718420
+Queens,Flushing,1550,5,1,13,61,0,0,1,1.08,1317214
+Queens,Astoria,1148,2,4,18,1,1,0,0,1.33,1189097
+Bronx,Pelham Bay,2602,4,2,29,79,1,1,0,2.25,1471886
+Brooklyn,Bay Ridge,2704,1,4,25,18,1,1,0,1.2,1880149
+Manhattan,SoHo,2682,4,1,13,97,0,1,1,1.6,2410855
+Manhattan,SoHo,2947,0,1,27,48,1,0,0,2.41,2150432
+Staten Island,Great Kills,2736,3,2,19,77,1,1,0,1.18,1619615
+Staten Island,Stapleton,909,1,4,49,87,0,1,1,1.45,860874
+Manhattan,Financial District,1975,2,2,1,27,1,0,1,1.5,1823005
+Queens,Forest Hills,2223,0,4,38,47,0,1,1,0.68,1539740
+Queens,Jackson Heights,3156,0,1,19,95,0,1,0,1.87,1442834
+Staten Island,Tottenville,1184,4,4,1,36,0,1,0,1.84,1181168
+Bronx,Riverdale,3341,0,1,40,73,0,0,1,0.61,1471191
+Manhattan,Upper East Side,3223,1,1,17,48,0,1,0,0.13,2640187
+Staten Island,New Dorp,2745,4,3,21,47,1,1,1,2.5,1486271
+Staten Island,New Dorp,536,0,3,22,72,0,1,0,1.5,517458
+Manhattan,Midtown,2823,2,4,15,87,1,0,1,0.53,2243828
+Manhattan,Upper East Side,2534,5,1,39,99,0,0,0,0.78,2815440
+Queens,Flushing,2177,1,2,48,28,1,1,1,1.58,1444259
+Bronx,Riverdale,1622,2,1,39,59,0,1,1,0.43,1288740
+Bronx,Mott Haven,2884,2,2,32,28,0,1,1,0.19,1432153
+Manhattan,SoHo,1733,4,4,49,57,0,0,0,2.02,1847893
+Brooklyn,Bay Ridge,2177,3,4,4,47,1,0,0,1.82,1952990
+Staten Island,Tottenville,1704,4,2,44,22,1,1,0,0.84,1419183
+Staten Island,Annadale,1163,1,2,45,26,1,1,1,0.24,1088983
+Manhattan,Harlem,1101,1,1,32,94,0,0,1,1.27,1366800
+Brooklyn,DUMBO,3389,4,4,4,6,0,0,1,0.76,1728377
+Queens,Flushing,551,3,1,1,48,1,1,1,1.05,831938
+Manhattan,SoHo,1725,4,2,33,53,0,0,1,0.76,2295551
+Manhattan,Chelsea,1701,1,3,7,67,1,1,1,0.52,1701861
+Staten Island,Annadale,2111,3,3,9,77,0,1,1,1.03,1598206
+Manhattan,Midtown,1431,1,3,1,41,1,0,1,2.42,1599240
+Manhattan,Upper East Side,1206,3,2,16,73,1,1,1,0.74,1903184
+Manhattan,Midtown,634,3,1,18,58,0,1,0,0.91,1365902
+Staten Island,Stapleton,3122,4,4,47,43,1,1,1,0.89,1815757
+Queens,Long Island City,960,4,2,6,97,0,1,0,1.25,653509
+Queens,Forest Hills,1725,4,3,2,25,0,1,1,2.12,1092119
+Manhattan,SoHo,437,3,1,9,22,0,1,0,1.07,1453614
+Staten Island,Annadale,1559,3,4,4,72,1,1,1,2.03,1395683
+Queens,Jamaica,3269,1,4,45,7,1,0,0,0.38,2395638
+Queens,Astoria,820,2,2,23,52,1,0,1,2.25,754889
+Queens,Jackson Heights,1642,4,2,43,13,0,1,1,0.54,1808516
+Staten Island,New Dorp,747,5,4,45,70,0,0,1,0.19,1020359
+Staten Island,Tottenville,2231,1,4,43,6,1,1,0,0.48,1878901
+Manhattan,Chelsea,1969,1,3,8,8,0,1,1,0.56,1711627
+Bronx,Fordham,3195,0,4,39,2,0,0,0,1.32,1646117
+Queens,Jamaica,2318,4,2,25,77,1,1,0,1.18,2018099
+Bronx,Norwood,2720,1,1,16,16,1,1,0,1.82,1432140
+Staten Island,New Dorp,2301,0,3,35,43,0,0,0,0.22,1798320
+Staten Island,Stapleton,2755,5,3,17,85,0,0,0,1.29,1474222
+Staten Island,Tottenville,1797,5,4,18,45,1,0,1,0.9,1300658
+Bronx,Mott Haven,3423,4,1,27,89,1,0,0,1.61,2205071
+Staten Island,Tottenville,3180,3,3,15,57,0,0,0,0.2,1910007
+Manhattan,SoHo,3480,0,2,17,27,0,0,0,0.18,3003513
+Staten Island,Stapleton,2224,3,4,43,13,0,1,0,1.13,1385259
+Brooklyn,Flatbush,2891,5,2,5,8,1,0,1,2.05,1627918
+Bronx,South Bronx,1628,5,4,16,25,0,0,1,1.71,1032060
+Brooklyn,Park Slope,804,2,3,15,1,0,1,1,0.14,1191277
+Staten Island,Tottenville,2121,2,4,42,74,0,1,0,0.53,1804689
+Manhattan,SoHo,3300,2,1,46,80,0,0,0,0.64,2338008
+Queens,Long Island City,1620,2,2,34,33,0,1,0,1.12,1393007
+Staten Island,Stapleton,3225,1,1,48,18,0,1,1,1.51,2353323
+Manhattan,Midtown,514,2,2,19,38,1,1,0,0.62,1511866
+Bronx,Pelham Bay,2076,1,2,8,81,1,1,1,1.02,1563922
+Brooklyn,Flatbush,464,1,4,47,12,1,1,0,1.5,1255094
+Brooklyn,Park Slope,1699,4,3,10,4,0,1,0,1.02,1393851
+Brooklyn,Flatbush,1224,1,3,5,49,1,1,1,0.44,1082503
+Bronx,Pelham Bay,2686,1,1,48,22,0,0,0,1.28,1082305
+Manhattan,Harlem,2749,2,4,26,87,0,1,1,0.88,2539563
+Bronx,Riverdale,1815,1,3,22,28,0,0,0,2.17,932849
+Brooklyn,Bushwick,1368,3,2,44,71,0,1,1,1.96,1452262
+Staten Island,St. George,768,2,2,23,25,0,1,0,0.56,923010
+Queens,Flushing,632,0,4,13,78,1,0,0,0.47,893221
+Bronx,Mott Haven,2642,2,1,9,56,1,1,0,0.93,1754711
+Bronx,Norwood,1306,1,4,49,0,1,1,0,1.09,1445686
+Manhattan,Upper East Side,3483,3,1,20,27,0,0,0,2.34,2288323
+Manhattan,Financial District,1320,2,4,28,61,1,1,1,0.82,1641288
+Bronx,Norwood,1088,3,2,44,46,0,1,1,2.18,821593
+Brooklyn,Park Slope,576,0,4,37,77,1,0,0,1.31,921398
+Queens,Astoria,2664,5,3,24,97,1,0,1,2.23,1596475
+Manhattan,Midtown,1434,0,3,44,58,1,1,1,1.78,1975093
+Brooklyn,DUMBO,1869,5,4,33,30,1,0,1,1.8,1878737
+Staten Island,Great Kills,1029,4,1,20,69,1,1,1,1.35,804363
+Manhattan,SoHo,563,5,1,48,48,1,1,0,2.12,1674146
+Brooklyn,Bushwick,2500,4,2,30,4,0,0,1,0.71,1483951
+Brooklyn,Bushwick,2665,2,2,44,30,0,0,1,2.28,1482537
+Queens,Jamaica,3446,4,1,9,36,0,0,0,1.63,2402168
+Queens,Astoria,1223,3,4,45,78,0,0,0,1.15,1509461
+Staten Island,St. George,2832,4,2,49,14,0,1,0,2.46,1431075
+Brooklyn,Park Slope,455,3,1,17,51,1,0,0,2.17,963377
+Brooklyn,DUMBO,517,5,1,36,68,0,0,0,1.95,1110028
+Queens,Jackson Heights,3347,5,4,14,91,0,1,0,0.76,1440092
+Manhattan,Chelsea,1197,5,3,19,96,0,1,0,2.44,1699677
+Manhattan,Chelsea,1179,4,1,7,10,0,1,0,1.88,1860495
+Bronx,Riverdale,3463,5,2,3,42,0,1,1,1.55,2321808
+Queens,Long Island City,3250,4,4,33,69,0,1,0,2.31,1720289
+Bronx,South Bronx,3292,4,4,44,22,0,1,1,0.49,1428227
+Queens,Flushing,1838,1,4,32,39,0,1,0,0.43,1529457
+Staten Island,Great Kills,2293,1,3,47,62,0,1,0,1.45,1653759
+Brooklyn,Park Slope,3302,4,3,11,1,1,1,1,0.24,2334861
+Staten Island,New Dorp,1107,3,2,42,78,0,0,0,1.69,770398
+Queens,Jamaica,1503,2,2,2,86,0,0,0,0.68,1309949
+Brooklyn,Flatbush,421,0,4,26,85,1,1,1,0.39,999211
+Manhattan,Harlem,1900,1,2,4,72,1,0,1,1.08,2301119
+Manhattan,Upper East Side,1242,4,1,17,46,0,1,1,1.22,1941180
+Bronx,Pelham Bay,2160,0,3,17,29,0,1,1,0.51,1593565
+Queens,Long Island City,1516,1,4,28,15,0,1,1,0.2,1633757
+Queens,Jamaica,591,2,4,30,58,1,1,1,1.09,1080196
+Manhattan,SoHo,1418,3,1,40,46,0,0,0,1.92,1937889
+Staten Island,Tottenville,1526,4,1,23,29,1,0,0,2.2,1309001
+Brooklyn,Bay Ridge,795,2,1,46,8,1,1,0,0.33,1260897
+Staten Island,New Dorp,3478,1,1,24,64,1,0,0,1.36,2051705
+Staten Island,New Dorp,3087,4,4,29,58,1,0,0,0.73,1211250
+Manhattan,Harlem,1418,0,3,4,63,1,1,1,1.0,1740191
+Manhattan,Harlem,966,5,3,38,7,0,1,1,2.34,1767803
+Manhattan,Upper East Side,630,3,1,29,51,0,0,0,0.94,1452688
+Bronx,Pelham Bay,1273,1,2,19,17,1,0,1,0.98,860044
+Staten Island,Tottenville,3021,3,4,27,90,1,1,0,0.6,2154277
+Queens,Jamaica,639,4,3,29,81,1,1,1,2.4,1080403
+Brooklyn,DUMBO,489,5,1,36,95,1,0,0,1.2,975682
+Bronx,South Bronx,2679,2,2,35,57,0,1,0,1.47,1751261
