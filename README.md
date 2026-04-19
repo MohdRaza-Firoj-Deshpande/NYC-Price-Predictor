@@ -17,7 +17,8 @@ SQLite — saves prediction history
 
 HTML / CSS / JS — frontend, no frameworks
 
-Run locally
+Run locally  
+
 pip install -r requirements.txt  
 
 python model/train.py  
