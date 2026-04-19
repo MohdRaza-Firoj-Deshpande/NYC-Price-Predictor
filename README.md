@@ -9,15 +9,20 @@ A machine learning web app that predicts property prices across New York City bo
 
 Tech used
 
-scikit-learn — Gradient Boosting model
-FastAPI — backend API
-SQLite — saves prediction history
+scikit-learn — Gradient Boosting model  
+
+FastAPI — backend API  
+
+SQLite — saves prediction history  
+
 HTML / CSS / JS — frontend, no frameworks
 
 Run locally
-pip install -r requirements.txt
-python model/train.py
-uvicorn app:app --reload
+pip install -r requirements.txt  
+
+python model/train.py  
+
+uvicorn app:app --reload  
 
 Open http://127.0.0.1:8000
 
